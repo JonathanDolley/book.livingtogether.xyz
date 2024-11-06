@@ -42,8 +42,6 @@ po/*~
 rsconnect/
 
 # Quarto folders
-/.quarto/
-/env/
 
 # VS Code
 *.code-workspace
