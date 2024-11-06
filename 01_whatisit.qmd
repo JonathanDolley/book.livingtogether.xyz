@@ -1,6 +1,7 @@
 ---
 echo: false
 lightbox: true
+prefer-html: true
 ---
 
 ```{r}
