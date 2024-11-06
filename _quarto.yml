@@ -9,7 +9,7 @@ book:
     left: Copyright 2024 Jonathan Dolley
     right:
       - icon: github
-        href: https://github.com/jonathandolley
+        href: https://github.com/JonathanDolley/book.livingtogether.xyz
     border: true
     background: light
   chapters:
