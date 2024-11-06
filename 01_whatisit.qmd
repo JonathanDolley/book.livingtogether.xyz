@@ -159,8 +159,8 @@ Finally, for an additional level of flexibility, the contract-based system is su
 Taken together, these four features of Hansalim's business model mean that, within and between producer communities the level of specialization or circular integration and the combination of sales channels are all decided by the producers themselves.
 This makes for an astonishingly diverse range of production operations each tailored to the local soil and climate conditions and preferences of producers themselves, while ensuring a stable guaranteed income to as many farmers as possible.
 
-Let's see the overall distribution of production.
-
+Let's look at the overall share of production according to production type, crop type and supply type.
+The following graph shows the flow of goods by tons.
 
 ```{r}
 #| label: production flow
@@ -176,19 +176,32 @@ production.fig <- production.fig %>% layout(
 production.fig
 ```
 
-(Graph of production by type)
-
-This graph shows the flow of goods by tons according production type, crop type, and supply type.
-On the left you can see the four labeled production types of organic, pesticide-free, low-pesticide and domestic.
-In the centre, the crop types are divided into vegetables, staple grains, roots and tubers, fruit, and miscellaneous grains.
-On the right, crop types are categorized into supply type as either contract-based or supply-demand based supply.
-
+On the left you can see the four labeled production types of ***organic***, ***pesticide-free***, ***low-pesticide*** and ***domestic***.
+In the centre, the crop types are divided into ***vegetables***, ***staple grains***, ***roots and tubers***, ***fruit***, and ***miscellaneous grains***.
+On the right, crop types are categorized into supply type as either ***contract-based*** or ***demand-based*** supply.
+If you interact with the graph you can see the number of tons of each combination.
+The majority of production is organic and this accounts for most of the vegetable cultivation, almost all staple grains and root and tubers.
+These crop types are almost entirely supplied on a contract-basis.
+Pesticide-free production accounts for some vegetable supply, a fraction of staple grains and some fruit crops.
+It is in fruit cultivation that higher proportion of crops are cultivated according to 'low-pesticide' standards.
+This is because many fruit crops are especially vulnerable to pests and would no be viable for producers without some use of non-synthetic pesticides.
+Miscellaneous grains are mostly produced under the domestic label and supplied on a demand-basis.
 
 So what happens to the revenue from these sales?
 As I mentioned above, until recently, with margins well below 30%, Hansalim was able to return 73% or more of the product price to the producers.
 Now, following several years of rising costs and worsening impacts of climate change the margin has come under increasing pressure and currently stands at just over 31% which leaves almost 69% for producers.
+This table shows the breakdown of what the margin covers.
+
+|Division|Rate | Subdivision | Rate |
+| --- | --- | --- | --- |
+| Hansalim Federation | 0.81% | Subscription fees<br>Service revenue | 0.55%<br>0.26% |
+| Hansalim Business Federation | 8.86% | Business share rate<br>Production Support Fund<br>Price Stabilisation Fund | 8.61%<br>0.165%<br>0.085% |
+| Member Life Coops | 21.70% | Regional Margin Rate <br>Production Stabilisation Fund | 21.60%<br>0.10% |
+| Gross margin rate (GPR) | 31.37% | | |
+
 That is virtually the reverse of conventional market distribution which usually takes a 50 - 70% margin.
-Let's take a look at the flow of revenues through Hansalim in 2023.
+So what does this distribution of revenue look like from the point of view of the Life Coops, producers and the federal organisations?
+The following chart shows the flow of value (in euros) from the sales of goods (on the left) through each Life Coop (center) to the share of revenue provided to each category of organization (right).
 
 ```{r}
 #| label: value flow
@@ -204,22 +217,18 @@ value.flow.fig <- value.flow.fig %>% layout(
 value.flow.fig
 ```
 
-This chart shows the flow of value from the sales on the left, through each Life Coop in the center to the share of revenue provided to each category of organization.
+You will notice that the vast majority of sales are of 'federation goods' which are those supplied through the business federation's distribution channels.
+A much smaller percentage of sales are accounted for by so-called 'local goods' which are supplied independently from Hansalim's central distribution system.
+The central column of the chart looks a bit messy, but the point is that the majority of sales are through shops managed by the Life Coops in Seoul and Gyeonggi (the province surrounding Seoul) which together form the largest and densest population centre in Korea.
+On the right hand side you can see that the share of revenue returned to producers is by far the largest, while the margin covers the budgets of the Life Coops and finally the Business Federation and the Hansalim Federation.
 
-This distribution revenue is achieved through a combination of: 1. Recovered costs from distribution by removing the multiple opportunities from profit gauging by intermediaries; 2. Prices set to reflect the true costs of production; and 3. Economies of scope and scale achieved through shared business activities and collectively owned capital at local, regional and national levels. So what does the margin pay for?
+This distribution revenue is achieved through a combination of:
 
-This table shows the breakdown of what the margin covers.
+1. Recovered costs from distribution by removing the multiple opportunities from profit gauging by intermediaries;
+2. Prices set to reflect the true costs of production; and
+3. Economies of scope and scale achieved through shared business activities and collectively owned capital at local, regional and national levels.
 
-(replace this markdown table with a latex one)
-
-|Division|Rate | Subdivision | Rate |
-| --- | --- | --- | --- |
-| Hansalim Federation | 0.81% | Subscription fees<br>Service revenue | 0.55%<br>0.26% |
-| Hansalim Business Federation | 8.86%<br>(8.76%) | Business share rate<br>Production Support Fund<br>Price Stabilisation Fund | 8.61%(8.51%)<br>0.165%<br>0.085% |
-| Member Life Coops | 21.70% | Regional Margin Rate <br>Production Stabilisation Fund | 21.60%<br>0.10% |
-| Gross margin rate (GPR) | 31.37% | | |
-
-I will discuss each in turn.
+After providing for producers' livelihoods, what then does the remaining 30% pay for?
 
 ### A different kind of consumer experience
 
@@ -246,6 +255,10 @@ They are not only professionals in logistics, marketing, strategy etc. but they 
 Whereas a manager in a corporate enterprise might be able to focus solely on negotiating financial dealings with clients and suppliers, Hansalim practitioners often find themselves also negotiating the complex conflicts in values and expectations between Hansalim members, making their role especially difficult and important.
 
 The largest employer of practitioners within Hansalim is the Business Federation which takes the next largest share of revenue after the Life Coops (8.86%) to cover the costs of labour, logistics, promotion and marketing, product development etc.
+One of the most important asset managed by the business federation is the Anseong Logistics Centre.
+
+(Photo of logistics centre)
+
 Finally, the smallest share of the margin (0.81%) is used to fund the Hansalim Federation which organizes the national-level governance and policy-making processes, supports Hansalim's educational, cultural, publishing, research and charitable activities, coordinates collaboration and solidarity activities with others in Korea and abroad, and provides support to the member Life Coops.
 
 In 2023 there were a total of 291 practitioners working in the member Life Coops, a further 235 working for the Business Federation and 40 at the Hansalim Federation.
