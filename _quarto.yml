@@ -1,0 +1,36 @@
+project:
+  type: book
+
+book:
+  title: "Living Together: Hansalim as a model for solidarity pathways towards sustainable food systems."
+  author: "Jonathan Dolley"
+  date: "4/11/2024"
+  page-footer:
+    left: Copyright 2024 Jonathan Dolley
+    right:
+      - icon: github
+        href: https://github.com/jonathandolley
+    border: true
+    background: light
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - 01_whatisit.qmd
+    - 02_fromwhence.qmd
+    - 03_producers.qmd
+    - 04_consumers.qmd
+    - 05_practitioners.qmd
+    - 06_pathways.qmd
+  appendices:
+    - appendices/01_farming_blog.qmd
+    - appendices/02_illustrated_farming.qmd
+
+#bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: 

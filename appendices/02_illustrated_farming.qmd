@@ -1,0 +1,94 @@
+---
+lightbox: true
+---
+
+# Illustrated Hansalim Farming Methods
+
+This article is a translation of a blog post in Korean published by Hansalim in 2018. Visit [https://blog.naver.com/hansalim/221348269846](https://blog.naver.com/hansalim/221348269846) to see the original.
+
+**Author**: [Hansalim](https://blog.naver.com/hansalim).
+
+**Translation**: Jonathan Dolley (with help from DeepL).
+
+## Hansalim Farming
+
+![Hansalim farming is so precious](../images/appendix_02/01.jpeg)
+
+## Separation distance
+
+Keep a distance of at least 4 metres to prevent synthetic pesticides from being blown in from neighbouring conventional agricultural land. If distance is not sufficient, erect barriers at least 1 metre high.
+
+![Separation distance](../images/appendix_02/02.jpeg)
+
+## Homegrown
+
+Individual producers or farming communities plant their own seeds and grow them into seedlings.
+
+![Homegrown](../images/appendix_02/03.jpeg)
+
+## No warming
+
+We do not use fossil fuels to artificially raise temperatures, known as ‘greenhouse growing’. (Exceptions are made for special cases, such as cold storage)
+
+![No warming](../images/appendix_02/04.jpeg)
+
+## Irrigation
+
+Install irrigation to prevent contaminated agricultural water from entering greenhouses and other facilities.
+
+![Irrigation](../images/appendix_02/05.jpeg)
+
+## Eco-friendly topsoil
+
+Grow your seedlings in an eco-friendly topsoil that meets your standards, preferably topsoil that you make yourself.
+
+![Eco-friendly topsoil](../images/appendix_02/06.jpeg)
+
+## No synthetic pesticides
+
+Herbicides and growth regulators are not used in the paddy fields where the crops are grown, nor in the furrows and boarders of the fields.
+
+![No synthetic pesticides](../images/appendix_02/07.jpeg)
+
+## Biodiversity
+
+Without the use of herbicides and chemical fertilisers, a wide variety of paddy field creatures thrive.
+
+![Biodiversity](../images/appendix_02/08.jpeg)
+
+## Circle of Life
+
+Fermenting and composting animal manure from organic and antibiotic-free livestock farms. It can be used within communities and between communities, as well as on individual livestock farms.
+
+![Fermenting waste to imputs](../images/appendix_02/09.jpeg)
+
+## Soil Pesticide Testing
+
+Newly acquired Hansalim farmland is tested for pesticide residues for two years prior to supply.
+
+![Soil testing](../images/appendix_02/10.jpeg)
+
+## Hansalim Production Communities
+
+Hansalim farming is usually done as a community of at least five producers working together in a community.
+
+![Production Communities](../images/appendix_02/11.jpeg)
+
+## More specialty items
+
+- Sprouts: Sprouts grown in the ground, not in water.
+- Zucchini and cucumbers: zucchini and cucumbers that have grown to their full size and shape.
+- Tomatoes: ripe tomatoes, harvested when they're red and ripe for nutrition.
+- Strawberries: A particularly difficult crop to grow on your own, but one that thrives in the ground.
+- Apples: apples that have not been sprayed with growth regulators that artificially extend their shelf life.
+- Cage-free eggs: eggs laid by chickens that are raised on a grain and grass diet, starting the day after birth.
+- Korean Barley-Fed Pork: Pigs raised on a diet containing Korean sprouted barley and Korean rice bran, minus imported corn that may be genetically modified.
+
+![Some special Hansalim goods](../images/appendix_02/12.jpeg)
+
+![Some more Hansalim goods](../images/appendix_02/13.jpeg)
+
+## Precious Hansalim goods: Hansalim Vegetables
+
+{{< video  https://www.youtube.com/embed/p3Cy0o19ZYc?si=wpQfcXUYB3VQJER4
+title="Precious Hansalim goods | Hansalim Vegetables" >}}

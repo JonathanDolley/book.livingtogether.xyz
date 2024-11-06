@@ -1,0 +1,298 @@
+---
+echo: false
+lightbox: true
+---
+
+```{r}
+#| label: load data
+#| output: false
+library(tidyverse)
+library(data.table)
+library(dplyr)
+library(plotly)
+load("production.RData")
+load("valueflow.RData")
+```
+
+# What is Hansalim?
+
+In 1986 pro-democracy protesters were out in the streets fighting with police and trying to escape tear gas.[^1]
+Since seizing power in a military coup in 1961, General Park Chung-hee presided over 18 years of military rule.
+Following his assassination in 1979 and another coup, General Chun Doo-hwan installed himself as president, leading what was essentially a continuation of the military regime in the face of growing mass protests calling for democratic government.[^2]
+
+[^1]: https://www.koreaherald.com/view.php?ud=20230524000525
+[^2]: Hwang, Kyung Moon. 2021. A History of Korea. 3rd Edition. London, England: Red Globe Press.
+
+In the midst of such turmoil, a small group of farmers and housewives opened a small rice store in the centre of Seoul.
+In light of the chaotic political situation, this looked like a foolish and insignificant action.
+However, the creation of that first store, called Hansalim Nongsan, was actually a radical act of resistance and hope in the face of political uncertainty.
+The men and women who opened Hansalim Nongsan belonged to a small cooperative of producers and consumers in a city called Wonju, about an hour away from Seoul, and that store represented a first step in launching an ecological alternative movement that had been gathering support in Wonju and beyond since the late 1970s.
+It's founders where known as the Wonju Group.
+
+## A movement, a manifesto, a business
+
+The Wonju Group were a diverse collection of Catholic Farmers, urban housewives, pro-democracy activists, artists, poets and scholars who had been involved in the credit union movement in Wonju that was founded in the 1960s.
+They had witnessed the fundamentally destructive tendencies of capitalist and socialist industrialisation and they were looking for an alternative in the cooperative movement.
+However, they recognised that cooperatives were also vulnerable to the same fundamental mistake that lay at the heart of industrial civilization.
+That mistake was to assume a materialist, mechanistic view of the world which viewed humans and all life as replaceable parts in the machine of economic growth.
+It was this worldview, they argued, that gave rise to the characteristics of domination, alienation, separation and oppression in modern society.
+
+![The Wonju Group with the Hansalim Gathering (1989)](images/Hansalim-Moim.jpeg)
+
+As an alternative, they proposed a worldview founded on the sacredness and interconnectedness of all life.
+The first version of this worldview or eco-philosophy was outlined in the Wonju Report in 1982.
+As the movement began to grow the Wonju Group set up the first Life Cooperative in Wonju in 1985 and the Hansalim Nongsan rice store a year later.[^3]
+In this way, the Wonju Coop formally brought together organic farming and direct trade with the equal participation of consumers and producers.
+Soon after, the Hansalim Community Consumers Union was set-up in Seoul with 70 members to trade directly with the Hansalim Producers Association that was set up with 70 farming households.
+Next, the Wonju Group hosted a year long process of study and discussion to develop the Hansalim Manifesto which was published in 1989 and which formally launched the Hansalim Life Movement.
+
+[^3]: Hansalim. 2017. “Because of you we live: Hansalim 30th Anniversary White Paper.” Seoul, Korea: Hansalim.
+
+From this small beginning, the movement quickly expanded as other cooperatives and farming communities joined from across the country and consumer membership grew.
+By 1990 there were four Life Cooperatives with over 5,500 members and within just over another 10 years membership had grown to over 40,000.
+That is when things really began to take off and by 2008 there were 19 Life Cooperatives managing 84 stores for their 170,000 members.
+In 2023 Hansalim's 27 Life Cooperatives and 15 Producer Federations handled annual sales of 485,066 million KRW (324.3 million euros) through 240 stores, an online store and a mobile app.[^4]
+From these sales, 330,610 million KRW (221 million euros) were returned to the 136 producer communities.
+That is nearly 70%!
+So what kind of business model has Hansalim created that provides those returns to producers while covering the shared business operations and funding a whole range of movement activities from the remaining 30%?
+And what lies at the heart of this unusual way of doing business?
+
+[^4]: Hansalim. 2024. “Hansalim Federation 14th General Assembly Resource Book.” 14. Seoul, Korea: Hansalim Cooperative Federation.
+
+(Graph of growth)
+
+## Built on a relationship of mutual care
+
+At its simplest, the Hansalim Life Movement is a relationship of mutual care and responsibility between rural and urban communities.
+The core of Hansalim's approach is expressed in this phrase: “Let the producer take responsibility for sustaining the consumer's life and the consumer for sustaining the producer's livelihood”.[^5]
+However, this mutual responsibility is about much more than simply direct sales as it also encompasses a shared commitment to protecting and restoring ecosystems and working for wider social and cultural change towards justice and peace.
+
+[^5]: see for example Hansalim. 2021. “Hansalim Annual Report 2021.” Seoul, Korea: Hansalim.
+
+This expansive goal is captured by the name itself: “Hansalim.”
+
+The first part of the word, 'Han' contains two sets of paradoxical meanings.
+It expresses, firstly, a pradoxical double sense of being collectively one and  individually one and, secondly, of spreading out as one and gathering in as one.[^6]
+In ancient Korean philosophy 'Han' refers to the divine Spirit or life of the universe which permeates all things living and inanimate and integrates the universe into an evolving cosmos.
+
+[^6]: Hansalim. 2021. Hansalim Manifesto (English Version). Mosim and Salim Research Institute.
+
+The word 'Salim' has two related meanings.
+The first is 'housekeeping' which implies parental care, homemaking, food preparation, hospitality.
+It is perhaps the most practical of all human activities and is the bedrock of human survival and flourishing.
+The second meaning develops from this practical sense the philosophical concept of 'nurturing' which has the connotation of saving and restoring, bringing back to life, vivifying.[^7]
+
+[^7]: Yoon, Hyunggeun, ed. 2004. Salim's Words. Mosim and Salim, Book 3. Seoul: Mosim and Salim Research Institute.
+
+So we see that the word 'Hansalim' expresses a relationship and an action. 
+It encompasses the goal of nurturing or reviving all things, that is bringing all into a flourishing shared life together.
+In fact, the word 'Hansalim' is often used as a verb as when members encourage each other by saying "let's Hansalim!"
+
+Among Hansalim members, the word “Salim” is used to express their purpose in all their activities.
+So the collective mission of Hansalim is summed up in four phrases that each incorporate this word Salim.
+
+The first, 'Nurturing Food' (밥상살림 — bapsang-salim) refers to the goal of providing consumers with safe, healthy, eco-friendly food and other household goods and this defines the responsibility that producers adopt for the life of consumers. 
+The word in Korean directly translates as nurturing the dining table and the significance of this is that it refers to the act of sharing a meal, not simply consuming food.
+Second, 'Nurturing Agriculture' (농업살림 — nongup-salim) refers to the goal of securing stable and sustainable livelihoods for producers and this defines the responsibility which consumers adopt for the livelihoods of producers.
+Third, 'Nurturing Life' (생명살림 — saengmyeong-salim) expresses the responsibility of care for others (human and non-human) which producers and consumers together share and which is worked out through outward focused activities such as promoting eco-friendly farming, environmental campaigning, education, social welfare projects, and inward contemplative and reflective practices.
+Finally, 'Nurturing Community' (지역살림 — jiyeok-salim), emphasises the need to strengthen local community resources and relationships and to reach out to neighbours in need.
+
+So how these values put into practice? I'm going to tackle this question from bottom up, first from the rural or producer perspective and then from the urban or consumer perspective before describing the alternative economic system that brings them together.
+
+## In the form of a multistakeholder cooperative
+
+The producer community is the smallest level of organization in Hansalim.
+In these communities farming is done together by a group of family farms who partner with one another to plan and coordinate their production, share knowledge and labour, and manage shared facilities and equipment.
+To join Hansalim as a producer, you would join one of these communities and receive training in eco-friendly farming and Hansalim's production and processing standards.
+
+There are 136 producer communities which cultivate a total of 11,300 acres.
+In addition to the producer communities there are 110 processing units which process raw materials from Hansalim's producers as well as seafood and other products from local organic and environmentally friendly sources.[^8]
+The producer organizations are brought together into 15 regional federations with their own elected representatives which together form Hansalim's National Producer Federation with their own elected president and employed staff.
+Many of these regional federations pool resources to run local distribution hubs with their own processing facilities and some have created complex systems to process and re-circulate farm wastes as inputs between multiple local farms.
+
+[^8]: Hansalim. 2024. “Hansalim Federation 14th General Assembly Resource Book.” 14. Seoul, Korea: Hansalim Cooperative Federation.
+
+When you join Hansalim as a consumer you become a member of your local Life Cooperative (one among 27 as of 2024).
+The word “Life” is significant because these cooperatives are not like the conventional consumer cooperatives that you would encounter in Europe or America.
+Their focus is not only responsible consumption but also seeking to live together in solidarity with one another and with producers and rural communities.
+Each Life Cooperative in Hansalim is a democratic autonomous organization formed by members to carry out collective activities, set-up and run Hansalim stores, organize charitable, cultural and educational activities and the joint activities between rural producers and urban consumers.
+
+Together, the producer communities and federations and the Life Coops form a federation of cooperatives, associations and businesses linked together through a shared business federation and the Hansalim Federation with its support organistaions including a research institute, charitable foundation, solar power coop, publishing house, training institute and peer-to-peer finance platform.
+So how does this business work?
+
+## Creating an alternative economy
+
+In simple terms, the Hansalim business model can be described as a contract-based direct sales arrangement in which prices and quantities are agreed annually in advance by producers and consumers with support from Hansalim's professional staff.
+However, it is also very flexible in ways that are designed to support the needs of producers.
+
+### A system designed for producers
+
+There are four key features of Hansalim's business model.
+Firstly: flexibility of production.
+Hansalim's production system allows for a relatively wide range of production philosophies and techniques among member producers to ensure that producers have maximum autonomy.
+For example, one producer community might prefer a relatively simple style of organic farming with a small number of crops while another aspires to build a complex system of circulating agriculture with a large diversity of crops and livestock supported by recycling of farm wastes from one part of the system as inputs to others.
+Still others, especially fruit producers, might find it impossible to grow without a limited use of safe pesticides.
+A dogmatic insistence on a single farming philosophy would exclude many farmers who might be unable to follow a one-size-fits-all system in the face of local conditions or other resource constraints.
+Hansalim's more flexible approach removes a significant barrier to entry for farmers who would otherwise need to spend a long time learning new techniques before starting to earn an income.
+This brings the added advantage that farmers who want to transition from conventional to organic farming can do so in a staged process while still making a living.
+However, it also creates a problem. How to maintain the trust of consumers when the diversity of production techniques is so wide?
+
+This brings us to the second feature of Hansalim's business model: simple and honest labeling.
+Transparency with consumer members is ensured through Hansalim's own labelling system.
+Products are labelled under four main categories:
+
+1. Organic (which would include conventional organic, permaculture and EM techniques);
+2. Pesticide-free (when crop types and local conditions make it non-viable to exclude use of fertilizers);
+3. Low pesticide (for certain fruit crops which would be prohibitively difficult to grow without a limited use of pesticides);
+4. Domestic (for miscellaneous grains such as wheat or barley which are used as raw ingredients in some processed goods).
+
+For all four categories Hansalim's standards are stricter than the national safety standards and products are tested regularly for residues, contaminants and radiation as appropriate to protect trust between consumers and producers.
+
+To complement the flexibility and transparency of production methods the third feature - flexibility of supply - enhances the autonomy of producers and provides some added resilience to the system.
+Hansalim producers are not locked-in to exclusive supply contracts but have the freedom to supply whatever proportion of their crop to Hansalim they wish while simultaneously supplying through other channels such as government purchasing schemes for school meals.
+This applies to each producer community and also to each member of each community.
+So one farmer might supply 30% of their produce to Hansalim through their community while selling the rest through local government procurement for school meals.
+Or a producer community might sell Hansalim branded grapes through the Hansalim Federation while selling grape juice through another market under their own brand.
+
+Finally, for an additional level of flexibility, the contract-based system is supplemented by demand-based supply arrangements to allow greater flexibility for producers.
+
+Taken together, these four features of Hansalim's business model mean that, within and between producer communities the level of specialization or circular integration and the combination of sales channels are all decided by the producers themselves.
+This makes for an astonishingly diverse range of production operations each tailored to the local soil and climate conditions and preferences of producers themselves, while ensuring a stable guaranteed income to as many farmers as possible.
+
+Let's see the overall distribution of production.
+
+
+```{r}
+#| label: production flow
+#| fig-cap: "Figure 1. Flow of production quantities by type, crop and contract in 2023 (tons)"
+
+production.fig <- production.fig %>% layout(
+  title = "",
+  font = list(
+    size = 12
+  )
+)
+
+production.fig
+```
+
+(Graph of production by type)
+
+This graph shows the flow of goods by tons according production type, crop type, and supply type.
+On the left you can see the four labeled production types of organic, pesticide-free, low-pesticide and domestic.
+In the centre, the crop types are divided into vegetables, staple grains, roots and tubers, fruit, and miscellaneous grains.
+On the right, crop types are categorized into supply type as either contract-based or supply-demand based supply.
+
+
+So what happens to the revenue from these sales?
+As I mentioned above, until recently, with margins well below 30%, Hansalim was able to return 73% or more of the product price to the producers.
+Now, following several years of rising costs and worsening impacts of climate change the margin has come under increasing pressure and currently stands at just over 31% which leaves almost 69% for producers.
+That is virtually the reverse of conventional market distribution which usually takes a 50 - 70% margin.
+Let's take a look at the flow of revenues through Hansalim in 2023.
+
+```{r}
+#| label: value flow
+#| fig-cap: "Figure 2. Flow of value from sales revenue through each Life Coop to other organizations (euros)"
+
+value.flow.fig <- value.flow.fig %>% layout(
+  title = "",
+  font = list(
+    size = 12
+  )
+)
+
+value.flow.fig
+```
+
+This chart shows the flow of value from the sales on the left, through each Life Coop in the center to the share of revenue provided to each category of organization.
+
+This distribution revenue is achieved through a combination of: 1. Recovered costs from distribution by removing the multiple opportunities from profit gauging by intermediaries; 2. Prices set to reflect the true costs of production; and 3. Economies of scope and scale achieved through shared business activities and collectively owned capital at local, regional and national levels. So what does the margin pay for?
+
+This table shows the breakdown of what the margin covers.
+
+(replace this markdown table with a latex one)
+
+|Division|Rate | Subdivision | Rate |
+| --- | --- | --- | --- |
+| Hansalim Federation | 0.81% | Subscription fees<br>Service revenue | 0.55%<br>0.26% |
+| Hansalim Business Federation | 8.86%<br>(8.76%) | Business share rate<br>Production Support Fund<br>Price Stabilisation Fund | 8.61%(8.51%)<br>0.165%<br>0.085% |
+| Member Life Coops | 21.70% | Regional Margin Rate <br>Production Stabilisation Fund | 21.60%<br>0.10% |
+| Gross margin rate (GPR) | 31.37% | | |
+
+I will discuss each in turn.
+
+### A different kind of consumer experience
+
+The largest portion (21.7%) goes to the Life Coops themselves to cover the costs of running stores, handling local distribution and their various educational, participation and engagement activities. Life Coops are autonomous member owned businesses which run the Hansalim stores in their local areas. They decide when and where to open new stores, how to manage them and how to organize local distribution options such as home delivery. Stores are usually run by an employed manager and the Life Coop's Store Activists (consumer members who are trained and paid to staff the stores) and products are ordered through the Hansalim Business Federation and delivered from their national logistics centre.
+
+In a Hansalim store you can buy virtually everything you need from food to household goods and even cosmetics. Almost all these products are made by Hansalim producers and processors with a few exceptions for some household items and a handful of fair trade products. Hansalim branded sales through the business federation are supplemented by local goods sourced by each store according to the decision of each Life Coop. What this means is that there is usually just one type of everything you need rather than multiple brands of the same product so the shop size is relatively small compared to a regular supermarket
+
+![North Seoul Hansalim, Yangju Store (2024)](images/Yangju-store.jpeg)
+
+These stores also differ from a conventional supermarket in another way. They often provide the venue for member activities and encounters between consumers and producers facilitated by the Life Coop's Organizing Activists (members who are trained and paid to organize opportunities for consumers and producers to meet each other and share food and other activities together). From the beginning of Hansalim, relationship building among consumers and between consumers and producers has been a top priority.
+
+There are various ways consumers can build community together and participate in the livelihoods of producers which are supported with specific budgets held by the Life Coops and the Hansalim Federation. Neighborhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc. Helping hands visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together. Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups. Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other. Producers also visit stores to introduce their new products and many develop close relationships with particular Life Coops.
+
+![Participation in 2023: engagement among consumers and exchanges between consumers and producers](plots/Participation_2023.png)
+
+In addition to selling to members and organizing member activities, Life Coops also engage with the wider community by running a whole range of educational activities and training, community kitchens, environmental campaigns and community building activities and some have also set up new cooperatives in solar power and in the care sector.
+
+On top of all these activities, the high point of Hansalim's cultural life are the festivals which are held at national and local levels. For example, the Autumn festivals bring producers and consumers together for food, drinking and traditional games and dancing. They provide a special context for making friends and creating a sense of shared identity and camaraderie. And there is one group of Hansalim people without whom none of this would be possible, the practitioners.
+
+### The special role of practitioners
+
+In Hansalim, employees are referred to as 'practitioners.' They are the people who make it possible to put the producer-consumer relationship into practice by running the businesses, coordinating movement activities and organizing the many processes that are required to keep each member organization running and working together as a federation. 
+They are not only professionals in logistics, marketing, strategy etc. but they also act as mediators between consumer and producer members and their organizations.
+Whereas a manager in a corporate enterprise might be able to focus solely on negotiating financial dealings with clients and suppliers, Hansalim practitioners often find themselves also negotiating the complex conflicts in values and expectations between Hansalim members, making their role especially difficult and important.
+
+The largest employer of practitioners within Hansalim is the Business Federation which takes the next largest share of revenue after the Life Coops (8.86%) to cover the costs of labour, logistics, promotion and marketing, product development etc.
+Finally, the smallest share of the margin (0.81%) is used to fund the Hansalim Federation which organizes the national-level governance and policy-making processes, supports Hansalim's educational, cultural, publishing, research and charitable activities, coordinates collaboration and solidarity activities with others in Korea and abroad, and provides support to the member Life Coops.
+
+In 2023 there were a total of 291 practitioners working in the member Life Coops, a further 235 working for the Business Federation and 40 at the Hansalim Federation.
+These were supplemented by 1,396 Activists working in the stores and to organize member activities.
+Together with the 3,579 producers and processors they generate enough revenue to support themselves and the broader collective efforts of the Hansalim Life Movement to bring about social and cultural change towards a more sustainable way of living.
+
+With such a large and complex organisation, you might think that there must be some strong central authority controlling everything from the top down and making sure efficiency is maximised and operations meticulously coordinated.
+Happily (or perhaps sadly, depending on your point of view) that is not the case here.
+
+## Governed through deliberative democracy
+
+Below is a diagram of Hansalim's various organizations and how they relate to each other, laid out in order of how authority is delegated from top to bottom.
+At the top are the individual members. The 890,000 Cooperator households and the 3,579 Producers. They are the owners of Hansalim.
+Below you can see the Life Coops, Producer Organizations and the Support Organizations and in the box labelled 'Member Organisations Autonomous Activities' I have listed the numbers of people involved.
+The word 'Practitioner' here is Hansalim's term for employed staff member (as mentioned above). Remember that 'Activists' refers to consumer members paid to either organise producer-consumer activities or work in the stores.
+Between them, the member organisations elect a total of 212 delegates to the General Assembly of the Hansalim Federation (maximum two 1-year terms).
+The General Assembly elects a board of 36 directors including the chair of directors who holds the title of president (maximum two 2-year terms).
+The board appoints the executive directors of the Federation, the Business Federation and the support organizations but cannot interfere with the governance and management of the member Life Coops or producer organizations.
+The standing committees, conferences and steering committees are were deliberations take place over policy and strategy decisions and they operate at local and national level involving producers, consumers and employees.
+
+![Federation](diagrams/federation.png)
+
+So you see that neither the Hansalim Federation nore the Business Federation are 'apex' organisations or 'head offices' but rather, they are supporting organisations whose purpose is to facilitate the successful business of the Life Coops and producer organisations while running the delegated shared movement activities and supporting the independent movement activities of member organisations.
+
+## Conclusion
+
+![label](diagrams/stakeholders.png)
+
+For those in Europe and other regions of the world outside Korea, Hansalim can appear to be a uniquely Korean phenomenon. "Surely, it is only the collectivist culture of Korea that makes such a community possible. It could never succeed in our hyper-individualist western societies."
+But you must not forget that the two strongest influences on contemporary Korean culture are Confucianism and American consumerism.
+The former provided the rationale for a strictly hierarchical and patriarchal culture that dominated Korean society for several hundred years before the latter collided head on with it during the post-war period, giving rise to a uniquely oppressive mixture of competitive consumerism and rigid conformism.
+
+It was in this context that Hansalim emerged as a concrete expression of the desire felt among many at the time for a different kind of society built upon equality, mutual respect and care for other humans and the nonhuman world.
+I have a feeling that this same desire has not gone away, but only deepened, not only among Koreans but equally among contemporary people in Europe and beyond.
+
+However, no matter how much you desire to create something like Hansalim, managing such a large organization (or rather, federation of organisations) without a dictatorial head office but in a deliberative and democratic way is very, very hard work.
+If you were in it for the money, you would not do it like this.
+But for every member of Hansalim I have spoken to so far, its not about money, but about being part of a community dedicated to caring for each other and to creating a peaceful and thriving future for the world.
+So as a reader from outside Korea who apsires to transform food systems, you need to keep in mind that Hansalim's success is mingled with failures and disappointments and comes at the cost of a great deal of personal sacrifice, collective conflict and agonising, trial and error and lots and lots and lots of ..... meetings. 
+
+Assuming you are prepared for such a challenge, it is neverthelss not possible to simply transplant Hansalim's model to other countries.
+It has its own history and unique context from which it emerged and it is not a static model but an evolving community in a continual process of change.
+But what is perhaps much more useful than a blueprint, is Hansalim's story and the myriad stories of the people who practice Hansalim (as a verb).
+These stories carry the values of Hansalim, the spirit and emotion of Hansalim people and the experience of countless challenges and success that they faced along the way.
+These stories, more than anything else, carry the seeds that could produce new fruit in other contexts, as long as there are those with the determination to cultivate them.
+
+To hear some of these stories, I am afraid you will have to wait a little longer for the rest of the book to be written and published. I'll do my best to finish it as soon as possible! Each new chapter will be published here as soon as it is written.
+
+And of course, it is a story without an ending.
+Which means, in all likelihood, there are those among you reading this book who will end up playing a role in it one way or another.
