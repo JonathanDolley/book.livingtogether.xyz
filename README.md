@@ -15,4 +15,3 @@ To convert tikz pictures to png images for including in documents do the followi
 - input.ps: The name of your input PS file.
 
 Replace output.png with your desired output file name and input.ps with the name of your PS file. This command will convert your PostScript file to a PNG image with the specified resolution.
-

@@ -15,12 +15,8 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - 01_whatisit.qmd
-    - 02_fromwhence.qmd
-    - 03_producers.qmd
-    - 04_consumers.qmd
-    - 05_practitioners.qmd
-    - 06_pathways.qmd
+    - chapters/01_whatisit.qmd
+    - chapters/02_fromwhence.qmd
   appendices:
     - appendices/01_farming_blog.qmd
     - appendices/02_illustrated_farming.qmd

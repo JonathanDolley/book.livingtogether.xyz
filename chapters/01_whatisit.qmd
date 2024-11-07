@@ -73,7 +73,7 @@ However, this mutual responsibility is about much more than simply direct sales 
 This expansive goal is captured by the name itself: “Hansalim.”
 
 The first part of the word, 'Han' contains two sets of paradoxical meanings.
-It expresses, firstly, a pradoxical double sense of being collectively one and  individually one and, secondly, of spreading out as one and gathering in as one.[^6]
+It expresses, firstly, a paradoxical double sense of being collectively one and  individually one and, secondly, of spreading out as one and gathering in as one.[^6]
 In ancient Korean philosophy 'Han' refers to the divine Spirit or life of the universe which permeates all things living and inanimate and integrates the universe into an evolving cosmos.
 
 [^6]: Hansalim. 2021. Hansalim Manifesto (English Version). Mosim and Salim Research Institute.
@@ -118,7 +118,7 @@ The word “Life” is significant because these cooperatives are not like the c
 Their focus is not only responsible consumption but also seeking to live together in solidarity with one another and with producers and rural communities.
 Each Life Cooperative in Hansalim is a democratic autonomous organization formed by members to carry out collective activities, set-up and run Hansalim stores, organize charitable, cultural and educational activities and the joint activities between rural producers and urban consumers.
 
-Together, the producer communities and federations and the Life Coops form a federation of cooperatives, associations and businesses linked together through a shared business federation and the Hansalim Federation with its support organistaions including a research institute, charitable foundation, solar power coop, publishing house, training institute and peer-to-peer finance platform.
+Together, the producer communities and federations and the Life Coops form a federation of cooperatives, associations and businesses linked together through a shared business federation and the Hansalim Federation with its support organisations including a research institute, charitable foundation, solar power coop, publishing house, training institute and peer-to-peer finance platform.
 So how does this business work?
 
 ## Creating an alternative economy
@@ -177,7 +177,7 @@ production.fig <- production.fig %>% layout(
 production.fig
 ```
 
-On the left you can see the four labeled production types of ***organic***, ***pesticide-free***, ***low-pesticide*** and ***domestic***.
+On the left you can see the four labelled production types of ***organic***, ***pesticide-free***, ***low-pesticide*** and ***domestic***.
 In the centre, the crop types are divided into ***vegetables***, ***staple grains***, ***roots and tubers***, ***fruit***, and ***miscellaneous grains***.
 On the right, crop types are categorized into supply type as either ***contract-based*** or ***demand-based*** supply.
 If you interact with the graph you can see the number of tons of each combination.
@@ -241,7 +241,7 @@ In a Hansalim store you can buy virtually everything you need from food to house
 
 These stores also differ from a conventional supermarket in another way. They often provide the venue for member activities and encounters between consumers and producers facilitated by the Life Coop's Organizing Activists (members who are trained and paid to organize opportunities for consumers and producers to meet each other and share food and other activities together). From the beginning of Hansalim, relationship building among consumers and between consumers and producers has been a top priority.
 
-There are various ways consumers can build community together and participate in the livelihoods of producers which are supported with specific budgets held by the Life Coops and the Hansalim Federation. Neighborhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc. Helping hands visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together. Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups. Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other. Producers also visit stores to introduce their new products and many develop close relationships with particular Life Coops.
+There are various ways consumers can build community together and participate in the livelihoods of producers which are supported with specific budgets held by the Life Coops and the Hansalim Federation. Neighbourhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc. Helping hands visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together. Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups. Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other. Producers also visit stores to introduce their new products and many develop close relationships with particular Life Coops.
 
 ![Participation in 2023: engagement among consumers and exchanges between consumers and producers](plots/Participation_2023.png)
 
@@ -282,7 +282,7 @@ The standing committees, conferences and steering committees are were deliberati
 
 ![Federation](diagrams/federation.png)
 
-So you see that neither the Hansalim Federation nore the Business Federation are 'apex' organisations or 'head offices' but rather, they are supporting organisations whose purpose is to facilitate the successful business of the Life Coops and producer organisations while running the delegated shared movement activities and supporting the independent movement activities of member organisations.
+So you see that neither the Hansalim Federation nor the Business Federation are 'apex' organisations or 'head offices' but rather, they are supporting organisations whose purpose is to facilitate the successful business of the Life Coops and producer organisations while running the delegated shared movement activities and supporting the independent movement activities of member organisations.
 
 ## Conclusion
 
@@ -298,9 +298,9 @@ I have a feeling that this same desire has not gone away, but only deepened, not
 However, no matter how much you desire to create something like Hansalim, managing such a large organization (or rather, federation of organisations) without a dictatorial head office but in a deliberative and democratic way is very, very hard work.
 If you were in it for the money, you would not do it like this.
 But for every member of Hansalim I have spoken to so far, its not about money, but about being part of a community dedicated to caring for each other and to creating a peaceful and thriving future for the world.
-So as a reader from outside Korea who apsires to transform food systems, you need to keep in mind that Hansalim's success is mingled with failures and disappointments and comes at the cost of a great deal of personal sacrifice, collective conflict and agonising, trial and error and lots and lots and lots of ..... meetings. 
+So as a reader from outside Korea who aspires to transform food systems, you need to keep in mind that Hansalim's success is mingled with failures and disappointments and comes at the cost of a great deal of personal sacrifice, collective conflict and agonising, trial and error and lots and lots and lots of ..... meetings. 
 
-Assuming you are prepared for such a challenge, it is neverthelss not possible to simply transplant Hansalim's model to other countries.
+Assuming you are prepared for such a challenge, it is nevertheless not possible to simply transplant Hansalim's model to other countries.
 It has its own history and unique context from which it emerged and it is not a static model but an evolving community in a continual process of change.
 But what is perhaps much more useful than a blueprint, is Hansalim's story and the myriad stories of the people who practice Hansalim (as a verb).
 These stories carry the values of Hansalim, the spirit and emotion of Hansalim people and the experience of countless challenges and success that they faced along the way.

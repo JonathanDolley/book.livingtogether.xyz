@@ -73,5 +73,11 @@
   },
   "appendices/02_illustrated_farming.qmd": {
     "02_illustrated_farming.html": "6c12a903"
+  },
+  "chapters/02_fromwhence.qmd": {
+    "02_fromwhence.html": "23b25c52"
+  },
+  "chapters/01_whatisit.qmd": {
+    "01_whatisit.html": "d006016f"
   }
 }
