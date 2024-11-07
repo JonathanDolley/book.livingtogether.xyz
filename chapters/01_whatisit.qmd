@@ -38,7 +38,7 @@ However, they recognised that cooperatives were also vulnerable to the same fund
 That mistake was to assume a materialist, mechanistic view of the world which viewed humans and all life as replaceable parts in the machine of economic growth.
 It was this worldview, they argued, that gave rise to the characteristics of domination, alienation, separation and oppression in modern society.
 
-![The Wonju Group with the Hansalim Gathering (1989)](images/Hansalim-Moim.jpeg)
+![The Wonju Group with the Hansalim Gathering (1989)](../images/Hansalim-Moim.jpeg)
 
 As an alternative, they proposed a worldview founded on the sacredness and interconnectedness of all life.
 The first version of this worldview or eco-philosophy was outlined in the Wonju Report in 1982.
@@ -237,13 +237,13 @@ The largest portion (21.7%) goes to the Life Coops themselves to cover the costs
 
 In a Hansalim store you can buy virtually everything you need from food to household goods and even cosmetics. Almost all these products are made by Hansalim producers and processors with a few exceptions for some household items and a handful of fair trade products. Hansalim branded sales through the business federation are supplemented by local goods sourced by each store according to the decision of each Life Coop. What this means is that there is usually just one type of everything you need rather than multiple brands of the same product so the shop size is relatively small compared to a regular supermarket
 
-![North Seoul Hansalim, Yangju Store (2024)](images/Yangju-store.jpeg)
+![North Seoul Hansalim, Yangju Store (2024)](../images/Yangju-store.jpeg)
 
 These stores also differ from a conventional supermarket in another way. They often provide the venue for member activities and encounters between consumers and producers facilitated by the Life Coop's Organizing Activists (members who are trained and paid to organize opportunities for consumers and producers to meet each other and share food and other activities together). From the beginning of Hansalim, relationship building among consumers and between consumers and producers has been a top priority.
 
 There are various ways consumers can build community together and participate in the livelihoods of producers which are supported with specific budgets held by the Life Coops and the Hansalim Federation. Neighbourhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc. Helping hands visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together. Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups. Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other. Producers also visit stores to introduce their new products and many develop close relationships with particular Life Coops.
 
-![Participation in 2023: engagement among consumers and exchanges between consumers and producers](plots/Participation_2023.png)
+![Participation in 2023: engagement among consumers and exchanges between consumers and producers](../plots/Participation_2023.png)
 
 In addition to selling to members and organizing member activities, Life Coops also engage with the wider community by running a whole range of educational activities and training, community kitchens, environmental campaigns and community building activities and some have also set up new cooperatives in solar power and in the care sector.
 
@@ -280,13 +280,13 @@ The General Assembly elects a board of 36 directors including the chair of direc
 The board appoints the executive directors of the Federation, the Business Federation and the support organizations but cannot interfere with the governance and management of the member Life Coops or producer organizations.
 The standing committees, conferences and steering committees are were deliberations take place over policy and strategy decisions and they operate at local and national level involving producers, consumers and employees.
 
-![Federation](diagrams/federation.png)
+![Federation](../diagrams/federation.png)
 
 So you see that neither the Hansalim Federation nor the Business Federation are 'apex' organisations or 'head offices' but rather, they are supporting organisations whose purpose is to facilitate the successful business of the Life Coops and producer organisations while running the delegated shared movement activities and supporting the independent movement activities of member organisations.
 
 ## Conclusion
 
-![label](diagrams/stakeholders.png)
+![label](../diagrams/stakeholders.png)
 
 For those in Europe and other regions of the world outside Korea, Hansalim can appear to be a uniquely Korean phenomenon. "Surely, it is only the collectivist culture of Korea that makes such a community possible. It could never succeed in our hyper-individualist western societies."
 But you must not forget that the two strongest influences on contemporary Korean culture are Confucianism and American consumerism.
