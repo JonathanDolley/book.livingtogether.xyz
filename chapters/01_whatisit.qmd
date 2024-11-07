@@ -402,7 +402,7 @@ It shows the number of 'person-visits' categorized by each Life Coop and by the 
 You can see that there were around 59,000 encounters between individuals in 2023 that were directly facilitated by Hansalim’s member Life Coops.
 Although many of these are repeat visits of individuals (so the total number of people involved will be somewhat less) you still get a sense of the sheer scale of relationship building that is going on within Hansalim.
 
-![Participation in 2023: engagement among consumers and exchanges between consumers and producers](../plots/Participation_2023.png){group="diagrams"}
+![Figure 3. Participation in 2023: engagement among consumers and exchanges between consumers and producers](../plots/Participation_2023.png){group="diagrams"}
 
 In addition to selling to members and organizing member activities, Life Coops also engage with the wider community by running a whole range of educational activities and training, community kitchens, environmental campaigns and community building activities and some have also set up new cooperatives in solar power and in the care sector.
 On top of all these activities, the high point of Hansalim's cultural life are the festivals which are held at national and local levels.
@@ -459,13 +459,13 @@ The General Assembly elects a board of 36 directors including the chair of direc
 The board appoints the executive directors of the Federation, the Business Federation and the support organizations but cannot interfere with the governance and management of the member Life Coops or producer organizations.
 The standing committees, conferences and steering committees are were deliberations take place over policy and strategy decisions and they operate at local and national level involving producers, consumers and employees.
 
-![Federation](../diagrams/federation.png){group="diagrams"}
+![Figure 4. Hansalim's many organisations and their relationships](../diagrams/federation.png){group="diagrams"}
 
 So you see that neither the Hansalim Federation nor the Business Federation are 'apex' organisations or 'head offices' but rather, they are supporting organisations whose purpose is to facilitate the successful business of the Life Coops and producer organisations while running the delegated shared movement activities and supporting the independent movement activities of member organisations.
 The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram which was published in the Hansalim 2017 White Paper.
 I have reproduced it here with some minor modifications and translated it into English.
 
-![label](../diagrams/stakeholders.png){group="diagrams"}
+![Figure 5. A map of Hansalim stakeholders and their responsibilities](../diagrams/stakeholders.png){group="diagrams"}
 
 Hansalim’s stakeholders include five categories: Producers, Cooperators (i.e. consumer members), Practitioners, Activists and the Local Community.
 Along with Producers, the Cooperators share the main responsibility for governance of the federation and their local associations and Life Coops.
@@ -478,17 +478,19 @@ As a consequence, the role of Practitioners as bridge between consumers and prod
 
 Activists were originally member volunteers whose role was to organize consumer activities and also act as a bridge with producers.
 After a while, it was decided that they should be financially compensated for their work and their roles should be more clearly specified.
-Now, Activists are members who have received training for specific roles and are paid a small amount of compensation to work in the stores, receive phone orders and organize various activities for producers and members.
+Now, Activists are members who have received training for specific roles and are paid a wage to work in the stores, receive phone orders and organize various activities for producers and members.
 
 The Local Community is included as a stakeholder category as producers, members and activists seek to identify and take action on local needs.
 They work with local community organizations and representatives of such organizations are also invited to participate on various councils as appropriate.
 In fact, it is quite common for Hansalim members and producers to simultaneously hold official positions in Hansalim and other local grassroots organizations and social enterprises.
 
-The organizational role of Hansalim in this structure is to support each of these different stakeholders to realize their own and Hansalim’s values in their various activities.
+The organizational role of the Hansalim Federation in this structure is to support each of these different stakeholders to realize their own and Hansalim’s values in their various activities.
 
 ## Conclusion
 
-For those in Europe and other regions of the world outside Korea, Hansalim can appear to be a uniquely Korean phenomenon. "Surely, it is only the collectivist culture of Korea that makes such a community possible. It could never succeed in our hyper-individualist western societies."
+For those in Europe and other regions of the world outside Korea, Hansalim can appear to be a uniquely Korean phenomenon.
+"Surely, it is only the collectivist culture of Korea that makes such a community possible.
+It could never succeed in our hyper-individualist western societies."
 But you must not forget that the two strongest influences on contemporary Korean culture are Confucianism and American consumerism.
 The former provided the rationale for a strictly hierarchical and patriarchal culture that dominated Korean society for several hundred years before the latter collided head on with it during the post-war period, giving rise to a uniquely oppressive mixture of competitive consumerism and rigid conformism.
 
@@ -498,9 +500,10 @@ I have a feeling that this same desire has not gone away, but only deepened, not
 However, no matter how much you desire to create something like Hansalim, managing such a large organization (or rather, federation of organisations) without a dictatorial head office but in a deliberative and democratic way is very, very hard work.
 If you were in it for the money, you would not do it like this.
 But for every member of Hansalim I have spoken to so far, its not about money, but about being part of a community dedicated to caring for each other and to creating a peaceful and thriving future for the world.
-So as a reader from outside Korea who aspires to transform food systems, you need to keep in mind that Hansalim's success is mingled with failures and disappointments and comes at the cost of a great deal of personal sacrifice, collective conflict and agonising, trial and error and lots and lots and lots of ..... meetings. 
+So as a reader from outside Korea who aspires to transform food systems, you need to keep in mind that Hansalim's success is mingled with failures and disappointments and comes at the cost of a great deal of personal sacrifice, collective conflict and agonising, trial and error and lots and lots and lots of ..... meetings.
+Just look again at Figure 4 and notice the number of committee members in the column for Life Coops!
 
-Assuming you are prepared for such a challenge, it is nevertheless not possible to simply transplant Hansalim's model to other countries.
+Having said all that, even if you are prepared for such a challenge, I do not think it is possible to simply transplant Hansalim's model to other countries.
 It has its own history and unique context from which it emerged and it is not a static model but an evolving community in a continual process of change.
 But what is perhaps much more useful than a blueprint, is Hansalim's story and the myriad stories of the people who practice Hansalim (as a verb).
 These stories carry the values of Hansalim, the spirit and emotion of Hansalim people and the experience of countless challenges and success that they faced along the way.
