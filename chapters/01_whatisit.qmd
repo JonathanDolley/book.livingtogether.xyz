@@ -38,7 +38,7 @@ However, they recognised that cooperatives were also vulnerable to the same fund
 That mistake was to assume a materialist, mechanistic view of the world which viewed humans and all life as replaceable parts in the machine of economic growth.
 It was this worldview, they argued, that gave rise to the characteristics of domination, alienation, separation and oppression in modern society.
 
-![The Wonju Group with the Hansalim Gathering (1989)](../images/Hansalim-Moim.jpeg)
+![The Wonju Group with the Hansalim Gathering (1989)](../images/chapter_01/Hansalim-Moim.jpeg)
 
 As an alternative, they proposed a worldview founded on the sacredness and interconnectedness of all life.
 The first version of this worldview or eco-philosophy was outlined in the Wonju Report in 1982.
@@ -46,6 +46,8 @@ As the movement began to grow the Wonju Group set up the first Life Cooperative 
 In this way, the Wonju Coop formally brought together organic farming and direct trade with the equal participation of consumers and producers.
 Soon after, the Hansalim Community Consumers Union was set-up in Seoul with 70 members to trade directly with the Hansalim Producers Association that was set up with 70 farming households.
 Next, the Wonju Group hosted a year long process of study and discussion to develop the Hansalim Manifesto which was published in 1989 and which formally launched the Hansalim Life Movement.
+
+![The Hansalim Manifesto, English version](../images/chapter_01/Hansalim-Manifesto.jpeg)
 
 [^3]: Hansalim. 2017. “Because of you we live: Hansalim 30th Anniversary White Paper.” Seoul, Korea: Hansalim.
 
@@ -70,15 +72,15 @@ However, this mutual responsibility is about much more than simply direct sales 
 
 [^5]: see for example Hansalim. 2021. “Hansalim Annual Report 2021.” Seoul, Korea: Hansalim.
 
-This expansive goal is captured by the name itself: “Hansalim.”
+This expansive goal is captured by the name itself: “Hansalim” (한살림).
 
-The first part of the word, 'Han' contains two sets of paradoxical meanings.
+The first part of the word, 'Han' (한) contains two sets of paradoxical meanings.
 It expresses, firstly, a paradoxical double sense of being collectively one and  individually one and, secondly, of spreading out as one and gathering in as one.[^6]
 In ancient Korean philosophy 'Han' refers to the divine Spirit or life of the universe which permeates all things living and inanimate and integrates the universe into an evolving cosmos.
 
 [^6]: Hansalim. 2021. Hansalim Manifesto (English Version). Mosim and Salim Research Institute.
 
-The word 'Salim' has two related meanings.
+The word 'Salim' (살림) has two related meanings.
 The first is 'housekeeping' which implies parental care, homemaking, food preparation, hospitality.
 It is perhaps the most practical of all human activities and is the bedrock of human survival and flourishing.
 The second meaning develops from this practical sense the philosophical concept of 'nurturing' which has the connotation of saving and restoring, bringing back to life, vivifying.[^7]
@@ -111,12 +113,30 @@ In addition to the producer communities there are 110 processing units which pro
 The producer organizations are brought together into 15 regional federations with their own elected representatives which together form Hansalim's National Producer Federation with their own elected president and employed staff.
 Many of these regional federations pool resources to run local distribution hubs with their own processing facilities and some have created complex systems to process and re-circulate farm wastes as inputs between multiple local farms.
 
+![Hansalim Producer Community in Byeonsan](../images/chapter_01/Byeonsan-Farm.jpeg){group="producers"}
+
+![Byeonsan Producer Community shared facilities](../images/chapter_01/Byeonsan-Producer-Community.jpeg){group="producers"}
+
+![Hansalim Producer Community in Jeju, head office](../images/chapter_01/Jeju-Producer-Community.jpeg){group="producers"}
+
+![Hansalim Producer Community in Asan, distribution hub](../images/chapter_01/Asan-Distribution-Centre.jpeg){group="producers"}
+
 [^8]: Hansalim. 2024. “Hansalim Federation 14th General Assembly Resource Book.” 14. Seoul, Korea: Hansalim Cooperative Federation.
 
 When you join Hansalim as a consumer you become a member of your local Life Cooperative (one among 27 as of 2024).
 The word “Life” is significant because these cooperatives are not like the conventional consumer cooperatives that you would encounter in Europe or America.
 Their focus is not only responsible consumption but also seeking to live together in solidarity with one another and with producers and rural communities.
 Each Life Cooperative in Hansalim is a democratic autonomous organization formed by members to carry out collective activities, set-up and run Hansalim stores, organize charitable, cultural and educational activities and the joint activities between rural producers and urban consumers.
+
+![Jeju Hansalim Life Coop office](../images/chapter_01/Jeju-Hansalim-Office.jpeg){group="consumers"}
+
+![Jeju Hansalim community kitchen](../images/chapter_01/Jeju-Hansalim-Kitchen.jpeg){group="consumers"}
+
+![Jeju Hansalim community permaculture garden](../images/chapter_01/Jeju-Hansalim-Community-Garden.jpeg){group="consumers"}
+
+![Busan Hansalim community kitchen](../images/chapter_01/Busan-Hansalim-Kitchen.jpg){group="consumers"}
+
+![Busan Hansalim Life Coop office](../images/chapter_01/Busan-Hansalim-Office.jpg){group="consumers"}
 
 Together, the producer communities and federations and the Life Coops form a federation of cooperatives, associations and businesses linked together through a shared business federation and the Hansalim Federation with its support organisations including a research institute, charitable foundation, solar power coop, publishing house, training institute and peer-to-peer finance platform.
 So how does this business work?
@@ -126,7 +146,7 @@ So how does this business work?
 In simple terms, the Hansalim business model can be described as a contract-based direct sales arrangement in which prices and quantities are agreed annually in advance by producers and consumers with support from Hansalim's professional staff.
 However, it is also very flexible in ways that are designed to support the needs of producers.
 
-### A system designed for producers
+### A system designed for producers {.unnumbered}
 
 There are four key features of Hansalim's business model.
 Firstly: flexibility of production.
@@ -160,6 +180,38 @@ Finally, for an additional level of flexibility, the contract-based system is su
 Taken together, these four features of Hansalim's business model mean that, within and between producer communities the level of specialization or circular integration and the combination of sales channels are all decided by the producers themselves.
 This makes for an astonishingly diverse range of production operations each tailored to the local soil and climate conditions and preferences of producers themselves, while ensuring a stable guaranteed income to as many farmers as possible.
 
+![The word 'Hansalim' written in life alongside a rice paddy on Our Seed Farm in Goesan](../images/chapter_01/Our-Seed-Farm-Rice-Hansalim.jpeg){group="farms"}
+
+![Rice terraces on Our Seed Farm in Goesan](../images/chapter_01/Our-Seed-Farm-Rice-Terrace.jpeg){group="farms"}
+
+![A lowland rice paddy](../images/chapter_01/Rice-Field.jpeg){group="farms"}
+
+![Planting out rice seedlings with a Hansalim producer community in Paju](../images/chapter_01/Paju-Rice-Planting.jpeg){group="farms"}
+
+![Vinyl house (polytunnel greenhouse) crops at Our Seed Farm in Goesan](../images/chapter_01/Our-Seed-Farm-Greenhouse-1.jpeg){group="farms"}
+
+![Grapes growing in a vinyl house at a Hansalim producer community in Okcheon](../images/chapter_01/Okcheon-Grapes.jpeg){group="farms"}
+
+![A vegetable field at Nunbisan, a Hansalim producer community in Goesan](../images/chapter_01/Nunbisan-Vegetables.jpeg){group="farms"}
+
+![A field of oats at Nunbisan grown for chicken feed and as an ingredient for making various types of Hansalim products that are processed on site](../images/chapter_01/Nunbisan-Oats.jpeg){group="farms"}
+
+![Making home made organic fertilizer from Chicken faeces and crop waste on Nunbisan farm](../images/chapter_01/Nunbisan-Homemade-Fertilizer.jpeg){group="farms"}
+
+![A green manure cover crop at Nunbisan](../images/chapter_01/Nunbisan-Field-2.jpeg){group="farms"}
+
+![Chicken sheds on Nunbisan farm](../images/chapter_01/Nunbisan-Chicken-Sheds-2.jpeg){group="farms"}
+
+![Inside Nunbisan's chicken sheds](../images/chapter_01/Nunbisan-Chicken-Sheds-3.jpeg){group="farms"}
+
+![Growing mushrooms on a Hansalim farm](../images/chapter_01/Mushrooms.jpeg){group="farms"}
+
+![An orchard on a Hansalim farm on Jeju Island](../images/chapter_01/Jeju-Orchard.jpeg){group="farms"}
+
+![Lowland farming at the foot of a mountain in Byeonsan at the Sandle-pada Hansalim Producer Community](../images/chapter_01/Byeonsan-Field-1.jpeg){group="farms"}
+
+These images show just a tiny snapshot of some of the different farming landscapes, crops and approaches which form Hansalim's complex agricultural systems.
+The system of labelling helps provide a sense of order to this complexity for the sake of Hansalim's consumer members and also facilitates the progression of Hansalim producers further away from conventional farming methods towards progressively more eco-friendly alternatives.
 Let's look at the overall share of production according to production type, crop type and supply type.
 The following graph shows the flow of goods by tons.
 
@@ -231,34 +283,131 @@ This distribution revenue is achieved through a combination of:
 
 After providing for producers' livelihoods, what then does the remaining 30% pay for?
 
-### A different kind of consumer experience
+### A different kind of consumer experience {.unnumbered}
 
-The largest portion (21.7%) goes to the Life Coops themselves to cover the costs of running stores, handling local distribution and their various educational, participation and engagement activities. Life Coops are autonomous member owned businesses which run the Hansalim stores in their local areas. They decide when and where to open new stores, how to manage them and how to organize local distribution options such as home delivery. Stores are usually run by an employed manager and the Life Coop's Store Activists (consumer members who are trained and paid to staff the stores) and products are ordered through the Hansalim Business Federation and delivered from their national logistics centre.
+The largest portion (21.7%) goes to the Life Coops themselves to cover the costs of running stores, handling local distribution and their various educational, participation and engagement activities.
+Life Coops are autonomous member owned businesses which run the Hansalim stores in their local areas.
+They decide when and where to open new stores, how to manage them and how to organize local distribution options such as home delivery.
+Stores are usually run by an employed manager and the Life Coop's Store Activists (consumer members who are trained and paid to staff the stores) and products are ordered through the Hansalim Business Federation and delivered from their national logistics centre.
 
-In a Hansalim store you can buy virtually everything you need from food to household goods and even cosmetics. Almost all these products are made by Hansalim producers and processors with a few exceptions for some household items and a handful of fair trade products. Hansalim branded sales through the business federation are supplemented by local goods sourced by each store according to the decision of each Life Coop. What this means is that there is usually just one type of everything you need rather than multiple brands of the same product so the shop size is relatively small compared to a regular supermarket
+![North Seoul Hansalim, Yangju Store (2024)](../images/chapter_01/Yangju-store.jpeg){group="stores"}
 
-![North Seoul Hansalim, Yangju Store (2024)](../images/Yangju-store.jpeg)
+![North Seoul Hansalim, Ssangmoon Store with home delivery vehicle](../images/chapter_01/Ssangmoon-Store.jpeg){group="stores"}
 
-These stores also differ from a conventional supermarket in another way. They often provide the venue for member activities and encounters between consumers and producers facilitated by the Life Coop's Organizing Activists (members who are trained and paid to organize opportunities for consumers and producers to meet each other and share food and other activities together). From the beginning of Hansalim, relationship building among consumers and between consumers and producers has been a top priority.
+![Inside a Hansalim Store](../images/chapter_01/Hansalim-Store-Interior.jpeg){group="stores"}
 
-There are various ways consumers can build community together and participate in the livelihoods of producers which are supported with specific budgets held by the Life Coops and the Hansalim Federation. Neighbourhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc. Helping hands visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together. Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups. Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other. Producers also visit stores to introduce their new products and many develop close relationships with particular Life Coops.
+![A wide-angle view inside a Hansalim Store](../images/chapter_01/Hansalim-Store-Interior-Wide.jpeg){group="stores"}
 
-![Participation in 2023: engagement among consumers and exchanges between consumers and producers](../plots/Participation_2023.png)
+![Inside the store at the Jeju Hansalim head office](../images/chapter_01/Hansalim-Jeju-Store.JPG){group="stores"}
+
+In a Hansalim store you can buy virtually everything you need from food to household goods and even cosmetics.
+Almost all these products are made by Hansalim producers and processors with a few exceptions for some household items and a handful of fair trade products.
+Hansalim branded sales through the business federation are supplemented by local goods sourced by each store according to the decision of each Life Coop.
+What this means is that there is usually just one type of everything you need rather than multiple brands of the same product so the shop size is relatively small compared to a regular supermarket.
+Here are a few examples of the products that are available in my local Hansalim store.
+
+![Hansalim Rice](../images/chapter_01/Products-Rice.jpeg){group="products"}
+
+![Fruit and vegetables](../images/chapter_01/Products-Fruit-Veg.jpeg){group="products"}
+
+![Sweet potatoes](../images/chapter_01/Products-Sweet-Potatoes.jpeg){group="products"}
+
+![Tofu and other ingredients for cooking](../images/chapter_01/Products-Tofu-etc.jpeg){group="products"}
+
+![Frozen meats](../images/chapter_01/Products-Frozen-Meats.jpeg){group="products"}
+
+![Dairy products and other chilled processed goods](../images/chapter_01/Products-Chilled-Goods.jpeg){group="products"}
+
+![Breakfast cereals and flour etc.](../images/chapter_01/Products-Cereals.jpeg){group="products"}
+
+![Bottled juice, preserves and other ingredients in jars](../images/chapter_01/Products-Bottled.jpeg){group="products"}
+
+![Cabbages for making Kimchi (these are distributed over a period of a week or two each November in time for 'Kimjang' when families and communities gather to make Kimchi together)](../images/chapter_01/Products-Kimchi-Cabbages.jpeg){group="products"}
+
+![Ready meals! Frozen foods.](../images/chapter_01/Products-Ready-Meals.jpeg){group="products"}
+
+![One of my favourites, traditionally made rice wine](../images/chapter_01/Products-Rice-Wine.jpeg){group="products"}
+
+![You can even by cosmetics made by Hansalim with eco-friendly natural ingredients](../images/chapter_01/Products-Cosmetics.jpeg){group="products"}
+
+![Household cleaning products are also available including toilet paper and kitchen paper made in Hansalim's Anseong logistics centre from recycled milk and drinks cartons](../images/chapter_01/Products-Cleaning.jpeg){group="products"}
+
+Hansalim stores also differ from a conventional supermarket in another way.
+They often provide the venue for member activities and encounters between consumers and producers facilitated by the Life Coop's Organizing Activists (members who are trained and paid to organize opportunities for consumers and producers to meet each other and share food and other activities together).
+From the beginning of Hansalim, relationship building among consumers and between consumers and producers has been a top priority.
+
+![An activity room inside a Hansalim Store showing the small kitchen, library and meeting space](../images/chapter_01/Hansalim-Store-Activity-Room.jpeg){group="stores"}
+
+There are various ways consumers can build community together and participate in the livelihoods of producers.
+Neighbourhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc.
+'Helping hands' visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together.
+Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups.
+Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other.
+Producers also visit stores to introduce their new products and many develop special relationships with particular Life Coops as well as participating in Hansalim conferences and multistakeholder committees.
+
+![A visit to Nunbisan farm by Life Coop members](../images/chapter_01/Activity-Farm-Visit-1.jpeg){group="activities"}
+
+![Sharing a meal during the visit to Nunbisan](../images/chapter_01/Activity-Sharing-Meal.jpeg){group="activities"}
+
+![Life Coop members visiting the rice fields at Our Seed Farm](../images/chapter_01/Activity-Farm-Visit-2jpeg.jpeg){group="activities"}
+
+![Joining in with planting out rice seedlings on Hansalim farm in Paju](../images/chapter_01/Activity-Rice-Planting.jpeg){group="activities"}
+
+![A traditional ceremony showing respect to the land](../images/chapter_01/Activity-Farm-Ceremony-1.jpeg){group="activities"}
+
+![Sharing food together as part of the ceremony](../images/chapter_01/Activity-Farm-Ceremony-2.jpeg){group="activities"}
+
+![Sharing stories after the ceremony and rice planting activity in Paju](../images/chapter_01/Activity-Sharing-Stories.jpeg){group="activities"}
+
+![A 'helping hands' activity at a Hansalim farm](../images/chapter_01/Activity-Helping-Hands.jpeg){group="activities"}
+
+![Hansalim producers and consumer members participating in a conference organised by the Hansalim Food Life Education Centre](../images/chapter_01/Activity-Producer-Consumer-Conference.jpeg){group="activities"}
+
+![A gathering of North Seoul Hansalim Organisational Activists to share ideas and prepare for the year ahead](../images/chapter_01/Activity-Org-Activists_Gathering.jpeg){group="activities"}
+
+![A 'yard sale' to raise money for charity organised by Hansalim Activists](../images/chapter_01/Activity-Charity-Sale.jpeg){group="activities"}
+
+![A national research forum organised by Wonju Hansalim Life Coop](../images/chapter_01/Activity-Forum.jpeg){group="activities"}
+
+Each of these activities are supported by funds allocated in the budgets of the Life Coops and the Hansalim Federation which ultimately come from their combined sales.
+The chart below gives you an idea of the amount of interaction between consumers and producers in the course of a single year.
+It shows the number of 'person-visits' categorized by each Life Coop and by the type of activity in 2023.
+*Exchange* refers to activities involving interaction between producers and consumers and *engagement* refers to activities among consumers themselves.
+You can see that there were around 59,000 encounters between individuals in 2023 that were directly facilitated by Hansalim’s member Life Coops.
+Although many of these are repeat visits of individuals (so the total number of people involved will be somewhat less) you still get a sense of the sheer scale of relationship building that is going on within Hansalim.
+
+![Participation in 2023: engagement among consumers and exchanges between consumers and producers](../plots/Participation_2023.png){group="diagrams"}
 
 In addition to selling to members and organizing member activities, Life Coops also engage with the wider community by running a whole range of educational activities and training, community kitchens, environmental campaigns and community building activities and some have also set up new cooperatives in solar power and in the care sector.
+On top of all these activities, the high point of Hansalim's cultural life are the festivals which are held at national and local levels.
+For example, the Autumn festivals bring producers and consumers together for food, drinking and traditional games and dancing.
+They provide a special context for making friends and creating a sense of shared identity and camaraderie.
 
-On top of all these activities, the high point of Hansalim's cultural life are the festivals which are held at national and local levels. For example, the Autumn festivals bring producers and consumers together for food, drinking and traditional games and dancing. They provide a special context for making friends and creating a sense of shared identity and camaraderie. And there is one group of Hansalim people without whom none of this would be possible, the practitioners.
+![Celebration Festival at Goesan](../images/chapter_01/Festival-Dragon-Flags.jpeg){group="festivals"}
 
-### The special role of practitioners
+![Dancing at the festival in Goesan](../images/chapter_01/Festival-Dancers.jpeg){group="festivals"}
 
-In Hansalim, employees are referred to as 'practitioners.' They are the people who make it possible to put the producer-consumer relationship into practice by running the businesses, coordinating movement activities and organizing the many processes that are required to keep each member organization running and working together as a federation. 
+![Autumn harvest festival in Goesan (in the foreground is the rope used for the mass tug-of-war game!)](../images/chapter_01/Festival-Goesan-Dancers.jpeg){group="festivals"}
+
+![Hansalim flag flying among the dancers at the Autumn festival](../images/chapter_01/Festival-Goesan-Flag.jpeg){group="festivals"}
+
+![The being prepared for the giant tug-of-war game](../images/chapter_01/Festival-Goesan-Rope.jpeg){group="festivals"}
+
+For consumers and producers then, there is a lot of fun to be had as a member of a Hansalim community.
+This is a vitally important part of the rhythm of hard work broken up by fantastic celebrations and informal contexts for relaxation together.
+None of this would be possible, however, without the hard and often hidden work of the Practitioners.
+
+### The special role of practitioners {.unnumbered}
+
+In Hansalim, employees are referred to as 'practitioners.'
+They are the people who make it possible to put the producer-consumer relationship into practice by running the businesses, coordinating movement activities and organizing the many processes that are required to keep each member organization running and working together as a federation. 
 They are not only professionals in logistics, marketing, strategy etc. but they also act as mediators between consumer and producer members and their organizations.
 Whereas a manager in a corporate enterprise might be able to focus solely on negotiating financial dealings with clients and suppliers, Hansalim practitioners often find themselves also negotiating the complex conflicts in values and expectations between Hansalim members, making their role especially difficult and important.
 
 The largest employer of practitioners within Hansalim is the Business Federation which takes the next largest share of revenue after the Life Coops (8.86%) to cover the costs of labour, logistics, promotion and marketing, product development etc.
 One of the most important asset managed by the business federation is the Anseong Logistics Centre.
 
-(Photo of logistics centre)
+![Hansalim's Anseong logistics and processing centre](../images/chapter_01/Logistics-Anseong.jpeg)
 
 Finally, the smallest share of the margin (0.81%) is used to fund the Hansalim Federation which organizes the national-level governance and policy-making processes, supports Hansalim's educational, cultural, publishing, research and charitable activities, coordinates collaboration and solidarity activities with others in Korea and abroad, and provides support to the member Life Coops.
 
@@ -267,7 +416,7 @@ These were supplemented by 1,396 Activists working in the stores and to organize
 Together with the 3,579 producers and processors they generate enough revenue to support themselves and the broader collective efforts of the Hansalim Life Movement to bring about social and cultural change towards a more sustainable way of living.
 
 With such a large and complex organisation, you might think that there must be some strong central authority controlling everything from the top down and making sure efficiency is maximised and operations meticulously coordinated.
-Happily (or perhaps sadly, depending on your point of view) that is not the case here.
+Happily (or perhaps sadly, depending on your point of view) that is not the case in Hansalim.
 
 ## Governed through deliberative democracy
 
@@ -280,13 +429,36 @@ The General Assembly elects a board of 36 directors including the chair of direc
 The board appoints the executive directors of the Federation, the Business Federation and the support organizations but cannot interfere with the governance and management of the member Life Coops or producer organizations.
 The standing committees, conferences and steering committees are were deliberations take place over policy and strategy decisions and they operate at local and national level involving producers, consumers and employees.
 
-![Federation](../diagrams/federation.png)
+![Federation](../diagrams/federation.png){group="diagrams"}
 
 So you see that neither the Hansalim Federation nor the Business Federation are 'apex' organisations or 'head offices' but rather, they are supporting organisations whose purpose is to facilitate the successful business of the Life Coops and producer organisations while running the delegated shared movement activities and supporting the independent movement activities of member organisations.
+The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram which was published in the Hansalim 2017 White Paper.
+I have reproduced it here with some minor modifications and translated it into English.
+
+![label](../diagrams/stakeholders.png){group="diagrams"}
+
+Hansalim’s stakeholders include five categories: Producers, Cooperators (i.e. consumer members), Practitioners, Activists and the Local Community.
+Along with Producers, the Cooperators share the main responsibility for governance of the federation and their local associations and Life Coops.
+Cooperators are also expected to consume responsibly and participate in activities to support producers and help the local community.
+
+The original role of Practitioners was to act as a bridge between producers and consumers while running the business activities.
+In the beginning people joined Hansalim as Practitioners to support their shared vision and often worked very long hours for low pay doing whatever was needed.
+Now, as Hansalim has grown larger, many of those who worked for Hansalim from the early days have taken on managerial positions while the hiring of new employees has become more formalized and specialized.
+As a consequence, the role of Practitioners as bridge between consumers and producers has become weaker and the emphasis has shifted towards running business operations.
+
+Activists were originally member volunteers whose role was to organize consumer activities and also act as a bridge with producers.
+After a while, it was decided that they should be financially compensated for their work and their roles should be more clearly specified.
+Now, Activists are members who have received training for specific roles and are paid a small amount of compensation to work in the stores, receive phone orders and organize various activities for producers and members.
+
+The Local Community is included as a stakeholder category as producers, members and activists seek to identify and take action on local needs.
+They work with local community organizations and representatives of such organizations are also invited to participate on various councils as appropriate.
+In fact, it is quite common for Hansalim members and producers to simultaneously hold official positions in Hansalim and other local grassroots organizations and social enterprises.
+
+The organizational role of Hansalim in this structure is to support each of these different stakeholders to realize their own and Hansalim’s values in their various activities.
 
 ## Conclusion
 
-![label](../diagrams/stakeholders.png)
+
 
 For those in Europe and other regions of the world outside Korea, Hansalim can appear to be a uniquely Korean phenomenon. "Surely, it is only the collectivist culture of Korea that makes such a community possible. It could never succeed in our hyper-individualist western societies."
 But you must not forget that the two strongest influences on contemporary Korean culture are Confucianism and American consumerism.

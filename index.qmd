@@ -56,5 +56,5 @@ Finally, I intend to write one or two chapters that draw out specific lessons fo
 
 # Acknowledgements
 
-Acknowledgement: This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie fellowship grant agreement No 892403 between September 2021 and August 2024.
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie fellowship grant agreement No 892403 between September 2021 and August 2024.
 The author was hosted for the duration of the fellowship by the Science Policy Research Unit, University of Sussex Business School and the Mosim and Salim Research Institute.
