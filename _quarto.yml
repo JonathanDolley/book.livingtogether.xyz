@@ -7,6 +7,9 @@ book:
   date: "11/7/2024"
   page-footer:
     left: Copyright 2024 Jonathan Dolley
+    center:
+      - text: "livingtogether.xyz"
+        href: https://livingtogether.xyz
     right:
       - icon: github
         href: https://github.com/JonathanDolley/book.livingtogether.xyz
@@ -16,7 +19,6 @@ book:
     - index.qmd
     - intro.qmd
     - chapters/01_whatisit.qmd
-    - chapters/02_fromwhence.qmd
   appendices:
     - appendices/01_farming_blog.qmd
     - appendices/02_illustrated_farming.qmd
