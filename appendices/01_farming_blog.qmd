@@ -1,5 +1,5 @@
 ---
-lightbox: true
+title: "Hansalim Farming is Different"
 ---
 
 # Hansalim Farming is Different

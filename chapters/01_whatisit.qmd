@@ -1,12 +1,14 @@
 ---
-echo: false
-lightbox: true
-prefer-html: true
+title: "What is Hansalim?"
 ---
+
+::: {.content-hidden when-format="pdf"}
 
 ```{r}
 #| label: load data
 #| output: false
+#| echo: false
+
 library(tidyverse)
 library(data.table)
 library(dplyr)
@@ -14,6 +16,8 @@ library(plotly)
 load("production.RData")
 load("valueflow.RData")
 ```
+
+:::
 
 # What is Hansalim?
 
@@ -225,6 +229,8 @@ The system of labelling helps provide a sense of order to this complexity for th
 Let's look at the overall share of production according to production type, crop type and supply type.
 The following graph shows the flow of goods by tons.
 
+::: {.content-hidden when-format="pdf"}
+
 ```{r}
 #| label: production flow
 #| fig-cap: "Figure 1. Flow of production quantities by type, crop and contract in 2023 (tons)"
@@ -239,10 +245,12 @@ production.fig <- production.fig %>% layout(
 production.fig
 ```
 
+:::
+
 On the left you can see the four labelled production types of ***organic***, ***pesticide-free***, ***low-pesticide*** and ***domestic***.
 In the centre, the crop types are divided into ***vegetables***, ***staple grains***, ***roots and tubers***, ***fruit***, and ***miscellaneous grains***.
 On the right, crop types are categorized into supply type as either ***contract-based*** or ***demand-based*** supply.
-If you interact with the graph you can see the number of tons of each combination.
+[If you interact with the graph you can see the number of tons of each combination.]{.content-visible when-format="html"}
 The majority of production is organic and this accounts for most of the vegetable cultivation, almost all staple grains and root and tubers.
 These crop types are almost entirely supplied on a contract-basis.
 Pesticide-free production accounts for some vegetable supply, a fraction of staple grains and some fruit crops.
@@ -266,6 +274,8 @@ That is virtually the reverse of conventional market distribution which usually 
 So what does this distribution of revenue look like from the point of view of the Life Coops, producers and the federal organisations?
 The following chart shows the flow of value (in euros) from the sales of goods (on the left) through each Life Coop (center) to the share of revenue provided to each category of organization (right).
 
+::: {.content-hidden when-format="pdf"}
+
 ```{r}
 #| label: value flow
 #| fig-cap: "Figure 2. Flow of value from sales revenue through each Life Coop to other organizations (euros)"
@@ -279,6 +289,8 @@ value.flow.fig <- value.flow.fig %>% layout(
 
 value.flow.fig
 ```
+
+:::
 
 You will notice that the vast majority of sales are of 'federation goods' which are those supplied through the business federation's distribution channels.
 A much smaller percentage of sales are accounted for by so-called 'local goods' which are supplied independently from Hansalim's central distribution system.

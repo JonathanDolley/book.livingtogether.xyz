@@ -1,5 +1,5 @@
 ---
-lightbox: true
+title: "Illustrated Hansalim Farming Methods"
 ---
 
 # Illustrated Hansalim Farming Methods
@@ -88,7 +88,11 @@ Hansalim farming is usually done as a community of at least five producers worki
 
 ![Some more Hansalim goods](../images/appendix_02/13.jpeg)
 
+::: {.content-hidden when-format="pdf"}
+
 ## Precious Hansalim goods: Hansalim Vegetables
 
 {{< video  https://www.youtube.com/embed/p3Cy0o19ZYc?si=wpQfcXUYB3VQJER4
 title="Precious Hansalim goods | Hansalim Vegetables" >}}
+
+:::

@@ -29,3 +29,8 @@ book:
 format:
   html:
     theme: cosmo
+    lightbox: true
+    execute:
+      echo: false
+    comments:
+      hypothesis: true

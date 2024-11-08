@@ -3,6 +3,8 @@ library(tidyverse)
 library(data.table)
 library(dplyr)
 library(plotly)
+library(ggplot2)
+library(ggsankey)
 
 # Import data
 production.flow <- data.table(read_excel("data/ProductionByType.xlsx", col_names = TRUE)) %>% 
@@ -53,6 +55,8 @@ production.flow2.links <- production.flow2 %>%
 
 production.flow.links.complete <- rbind(production.flow1.links,production.flow2.links)
 
+# Plotly interactive plot
+
 production.fig <- plot_ly(
   type = "sankey",
   orientation = "h",
@@ -75,13 +79,15 @@ production.fig <- plot_ly(
   )
 )
 
-save(production.flow.links.complete, production.fig, file="production.RData")
-
 production.fig <- production.fig %>% layout(
-  title = "Production by production type, crop and supply type (tons)",
+  title = "",
   font = list(
     size = 12
   )
 )
 
 production.fig
+
+# ggplot2 static plot??
+
+save(production.flow.links.complete, production.fig, file="production.RData")

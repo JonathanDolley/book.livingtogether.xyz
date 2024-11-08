@@ -99,7 +99,7 @@ value.flow.fig <- plot_ly(
 save(value.flow.links.complete, value.flow.nodes, value.flow.fig, file="valueflow.RData")
 
 value.flow.fig <- value.flow.fig %>% layout(
-  title = "Value Flow Through Hansalim",
+  title = "",
   font = list(
     size = 12
   )
