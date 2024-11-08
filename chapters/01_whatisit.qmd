@@ -117,6 +117,8 @@ In addition to the producer communities there are 110 processing units which pro
 The producer organizations are brought together into 15 regional federations with their own elected representatives which together form Hansalim's National Producer Federation with their own elected president and employed staff.
 Many of these regional federations pool resources to run local distribution hubs with their own processing facilities and some have created complex systems to process and re-circulate farm wastes as inputs between multiple local farms.
 
+(map of producer communities)
+
 ::: {layout-nrow=2}
 
 ![Hansalim Producer Community in Byeonsan](../images/chapter_01/Byeonsan-Farm.jpeg){group="producers"}
@@ -135,6 +137,8 @@ When you join Hansalim as a consumer you become a member of your local Life Coop
 The word “Life” is significant because these cooperatives are not like the conventional consumer cooperatives that you would encounter in Europe or America.
 Their focus is not only responsible consumption but also seeking to live together in solidarity with one another and with producers and rural communities.
 Each Life Cooperative in Hansalim is a democratic autonomous organization formed by members to carry out collective activities, set-up and run Hansalim stores, organize charitable, cultural and educational activities and the joint activities between rural producers and urban consumers.
+
+(map of Life Coops)
 
 ::: {layout-nrow=2}
 
@@ -263,12 +267,71 @@ As I mentioned above, until recently, with margins well below 30%, Hansalim was 
 Now, following several years of rising costs and worsening impacts of climate change the margin has come under increasing pressure and currently stands at just over 31% which leaves almost 69% for producers.
 This table shows the breakdown of what the margin covers.
 
+::: {.content-visible when-format="pdf"}
+
 |Division|Rate | Subdivision | Rate |
 | --- | --- | --- | --- |
 | Hansalim Federation | 0.81% | Subscription fees<br>Service revenue | 0.55%<br>0.26% |
 | Hansalim Business Federation | 8.86% | Business share rate<br>Production Support Fund<br>Price Stabilisation Fund | 8.61%<br>0.165%<br>0.085% |
 | Member Life Coops | 21.70% | Regional Margin Rate <br>Production Stabilisation Fund | 21.60%<br>0.10% |
 | Gross margin rate (GPR) | 31.37% | | |
+
+:::
+
+::: {.content-hidden when-format="pdf"}
+
+```{=html}
+<table><thead>
+  <tr>
+    <th>Division</th>
+    <th>Rate</th>
+    <th>Subdivision</th>
+    <th>Rate</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Hansalim Federation</td>
+    <td rowspan="2">0.81%</td>
+    <td>Subscription fees</td>
+    <td>0.55%</td>
+  </tr>
+  <tr>
+    <td>Service revenue</td>
+    <td>0.26%</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Hansalim Business Federation</td>
+    <td rowspan="3">8.86%</td>
+    <td>Business share rate</td>
+    <td>8.61%</td>
+  </tr>
+  <tr>
+    <td>Production support fund</td>
+    <td>0.165%</td>
+  </tr>
+  <tr>
+    <td>Price stabilization fund</td>
+    <td>0.085%</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Member Life Coops</td>
+    <td rowspan="2">21.7%</td>
+    <td>Regional margin rate</td>
+    <td>21.6%</td>
+  </tr>
+  <tr>
+    <td>Production stabilization fund</td>
+    <td>0.1%</td>
+  </tr>
+  <tr>
+    <td>Gross margin rate (GPR)</td>
+    <td colspan="3">31.37%</td>
+  </tr>
+</tbody>
+</table>
+```
+
+:::
 
 That is virtually the reverse of conventional market distribution which usually takes a 50 - 70% margin.
 So what does this distribution of revenue look like from the point of view of the Life Coops, producers and the federal organisations?
