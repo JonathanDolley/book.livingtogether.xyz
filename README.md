@@ -6,6 +6,12 @@ To convert tikz pictures to png images for including in documents do the followi
 4. Run "dvips filename"
 5. Run "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=output.png input.ps"
 
+e.g. "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=stakeholders.png stakeholders.ps"
+
+e.g. "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=federation.png federation.ps"
+
+e.g. "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=timeline.png timeline.ps"
+
 - dSAFER: Runs Ghostscript in safe mode.
 - dBATCH: Exits Ghostscript after processing the file.
 - dNOPAUSE: Does not pause after each page.

@@ -1,7 +1,3 @@
----
-title: "Illustrated Hansalim Farming Methods"
----
-
 # Illustrated Hansalim Farming Methods
 
 This article is a translation of a blog post in Korean published by Hansalim in 2018. Visit [https://blog.naver.com/hansalim/221348269846](https://blog.naver.com/hansalim/221348269846) to see the original.

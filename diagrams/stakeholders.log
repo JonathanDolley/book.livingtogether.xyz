@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=latex 2024.11.6)  8 NOV 2024 16:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=latex 2024.11.6)  9 NOV 2024 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -578,11 +578,11 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  15918 strings out of 474117
- 370686 string characters out of 5743708
+ 370658 string characters out of 5743708
  1968184 words of memory out of 5000000
  37999 multiletter control sequences out of 15000+600000
  560261 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,7n,107p,410b,736s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on stakeholders.dvi (1 page, 30048 bytes).
+Output written on stakeholders.dvi (1 page, 30040 bytes).

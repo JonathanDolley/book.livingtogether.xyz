@@ -1,7 +1,3 @@
----
-title: "Hansalim Farming is Different"
----
-
 # Hansalim Farming is Different
 
 This article is a translation of a series of blog posts in Korean published by Hansalim in 2018. Visit [https://blog.naver.com/hansalim/221389445450](https://blog.naver.com/hansalim/221389445450) to see the originals.

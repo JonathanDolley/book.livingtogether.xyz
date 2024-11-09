@@ -66,8 +66,8 @@
             \item Issue-based meetings
             \item Whole team workshops
         \end{itemize}}};    
-    \node (cooperators) [circle,color=white!100,fill=\ColGreen,minimum width=2cm,align=center] at (Clock-03) {\textbf{Cooperators}\\\footnotesize{\textit{184 delegates}}};
-    \node [below,text width=4cm] at (cooperators.south) {\footnotesize{\begin{itemize}
+    \node (members) [circle,color=white!100,fill=\ColGreen,minimum width=2cm,align=center] at (Clock-03) {\textbf{Members}\\\footnotesize{\textit{184 delegates}}};
+    \node [below,text width=4cm] at (members.south) {\footnotesize{\begin{itemize}
             \item Elect delegates to General Assembly
             \item Run stores and websites
             \item Member surveys
@@ -120,10 +120,10 @@
         line width=2pt] ($ (\toNode)!.8! 2:(\fromNode) $) -- ($ (\fromNode)!.8! -2:(\toNode) $) node[text width=#5,pos=#7,anchor=#6,font=\small,color=black!100] {#3};
 }
 
-\inArrow(cooperators,hansalim,
+\inArrow(members,hansalim,
         {Invest, operate, own and lead Hansalim},
     \ColGreen,4cm,south,0.5,->)
-\inArrow(hansalim,cooperators,
+\inArrow(hansalim,members,
         {Provide goods with Hansalim values\\
         Support member engagement activities\\
         Support member growth and education},
