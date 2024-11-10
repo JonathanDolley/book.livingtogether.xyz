@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Hansalim: the universe in a bowl of rice."
+  title: "Hansalim: the universe in a bowl of rice"
   author: "Jonathan Dolley"
   date: "11/7/2024"
   google-analytics: "G-RQ8H157TLG"
@@ -19,7 +19,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - chapters/01_whatisit.qmd
+    - chapters/01_hansalim.qmd
   appendices:
     - appendices/01_farming_blog.qmd
     - appendices/02_illustrated_farming.qmd
