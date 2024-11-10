@@ -2,7 +2,7 @@
 title: "What is Hansalim?"
 comments:
   giscus: 
-    repo: https://github.com/JonathanDolley/book.livingtogether.xyz
+    repo: JonathanDolley/book.livingtogether.xyz
 ---
 
 ::: {.content-hidden when-format="pdf"}
