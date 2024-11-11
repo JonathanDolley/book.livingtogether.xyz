@@ -558,10 +558,10 @@ Happily (or perhaps sadly, depending on your point of view) that is not the case
 
 One of the most extraordinary features of Hansalim is the depth of their commitment to deliberative democracy and local autonomy.
 This emphasis on democracy has deep roots.
-These roots traverse Korea's pro-democracy movement during the 1960s and 70s (in which many of the Hansalim founders were involved[^kim2019]), the independence movement during Japanese colonial rule from 1910-1945[^kim2017] and finally also in Korea's traditional rural institutions known as Dure (farmers village cooperatives) and Gye (village credit unions) which existed during the Joseon dynasty prior to the colonial era and which probably originated even earlier in Korea's ancient past.[^lee2006]
+These roots traverse Korea's pro-democracy movement during the 1960s and 70s (in which many of the Hansalim founders were involved[^kim2019-dd]), the independence movement during Japanese colonial rule from 1910-1945[^kim2017] and finally also in Korea's traditional rural institutions known as Dure (farmers village cooperatives) and Gye (village credit unions) which existed during the Joseon dynasty prior to the colonial era and which probably originated even earlier in Korea's ancient past.[^lee2006]
 A bit of history is in order to help understand the significance of democracy in Hansalim (see @fig-timeline).
 
-[^kim2019]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure.
+[^kim2019-dd]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure.
 
 [^kim2017]: Hyungmi, Kim. 2017. “The Experience of the Consumer Co-operative Movement in Korea: Its Break off and Rebirth, 1919–2010.” In A Global History of Consumer Co-Operation since 1850, 353–78. Brill.
 
@@ -569,7 +569,8 @@ A bit of history is in order to help understand the significance of democracy in
 
 ### Rooted in history {.unnumbered}
 
-This part of the story starts in 1919 with the March First Movement when a cooperative movement emerged as part of the struggle for independence with the creation of the first credit union in April 1919, the Kangkye Public Co-operative.[^kangye]
+This part of the story starts in 1919 with the March First Movement and the struggle for independence against Japanese colonial rule.
+As part of this movement the first credit union was established in April 1919, the Kangkye Public Co-operative.[^kangye]
 Soon, similar cooperatives were established among housewives, students, workers, and farmers to promote the economic independence of Koreans from colonial domination.
 By 1938 there were more than 500 cooperatives with at least 140,000 members which helped to support the livelihoods of the poor and provide education to preserve the Korean language and cultural identity.[^kim2022]
 
@@ -595,29 +596,77 @@ Although it is called a cooperative, it functioned as a para-state organisation 
 
 [^nonghyup]: Burmeister, Larry L. 2006. “Agricultural Cooperative Development and Change: A Window on South Korea’s Agrarian Transformation.” In Transformations in Twentieth Century Korea, edited by Yun-Shik Chang and Steven Hugh Lee, 78–100. Routledge Advances in Korean Studies. Routledge.
 
-In contrast, closely connected to the emerging anti-Park democratisation movement, grassroots cooperatives started to spread again and to promote cooperative ideas throughout the country, establishing schools, consumer cooperatives, credit unions, and medical cooperatives to respond to the desperate need for affordable medical treatment for survivors of the war.
+In contrast, closely connected to the emerging anti-Park democratisation movement, grassroots cooperatives started to spread again and to promote cooperative ideas throughout the country, establishing schools, consumer cooperatives, credit unions, and medical cooperatives to respond to the desperate need for affordable medical treatment for survivors of the war.[^kim2017]
 The organic farming movement also began to spread through the influence of the Poolmoo school (now known as Poolmoowon) which established the first consumer cooperative in 1959 in South Chungcheong Province and, starting in 1975, developed the largest organic farming region in Korea.
+Through the 1970s and early 1980s, the pro-democracy Catholic Farmers Movement, Catholic Priests' Association for Justice (CPAJ) and other Christian groups, credit unions and consumer cooperatives along with democratic movements among factory workers, peasant farmers, and students continued to collaborate and grow in strength.
 
-Through the late 1970s and early 1980s, the pro-democracy Catholic Farmers Movement, Catholic Priests' Association for Justice (CPAJ) and other Christian groups, credit unions and consumer cooperatives along with democratic movements among factory workers, peasant farmers, and students continued to collaborate and grow in strength, eventually leading to the overthrow of the military dictatorship in 1987.
+Among the leaders of this movement was the Catholic Bishop Ji Hak-soon, who became the first bishop of Wonju in 1965.
+He had left North Korea before the war to train as priest in Rome and, while there, he was deeply impacted by the spirit of the Vatican Two Council which urged the church to become more outward focused on the needs of local communities and to support ecumenical unity; to become a church run by and for the people, and for the poor and marginalised in particular.[^kim2019]
 
-During the late 1970s and 1980s a significant change of direction began to occur in the Gangwon cooperative movement centred on Wonju that would come to have a profound influence, not only on Hansalim but also on the wider consumer cooperative movement in Korea to the present day.
-The Catholic Bishop Ji Hak-soon, became the first bishop of Wonju in 1965 and one of the first things he did was to set up credit unions and a cultural centre which became a hub for the Minjung (민중) democratisation movement and provided education in cooperative principles.
-He had left North Korea before the war to train as priest in Rome and, while there, he was deeply impacted by the spirit of the Vatican Two Council which urged the church to become more outward focused on the needs of local communities.
-To become a church run by and for the people, and for the poor and marginalised in particular.
-
-
+[^kim2019]: Kim, So-Nam. 2019. “Cooperative and Life Movements in Wonju.” In 100 Years of the Korean Co-Operative Movement Vol. 1, edited by Seong-Bu Kim, Kim Chang-jin, Kim Ki-tae, Kim Hyeong-mi, Pak Bong-hui, Yeom Chan-hui, Yi Kyeong-ran, Jeong Kyu-ho, Lim Chae-do, and Han Seong-hoon, 253–85. Seoul, Korea: Autumn Morning.
 
 It was in Wonju, that Ji Hak-soon met Jang Il-soon who was to become one of his closest friends.
 Jang Il-soon was a native of Wonju and quit Seoul National University (SNU) after the war to found Daeseong School in Wonju to provide a free education to local children.
-After a failed attempt to run for office, he spent three years in prison between 1961 and 63, originally facing a death sentence, accused of being a communist and was subsequently prohibited from public lecturing or writing.
-With no other options, he became a farmer and expressed his ‘Life Philosophy’ through calligraphy which he gave away to everyone and anyone.
-Through the influence of Jang Il-soon and Ji Hak-soon Wonju became a gathering place for a diverse movement of farmers, miners, housewives, students (many from SNU), intellectuals and artists which became known as the Wonju Group.
+After a failed attempt to run for office, he spent three years in prison between 1961 and 63, originally facing a death sentence, accused of being a communist.
+After his sentence was commuted and he was released the state put him under surveillance and prohibited him from public lecturing or writing.
+With no other options, he became a farmer and an artist, painting calligraphy which he gave away to everyone and anyone.
+Within the context of the church, Ji Hak-soon gave him the opportunity to teach again and, in 1967, he began training lay Catholic members to prepare for a transformation of the church into a self-reliant lay-centred organisation that supported a wider rural development movement of credit unions and cooperatives.[^kim2019-dd-133]
 
-Some of the more prominent members of the Wonju Group include Park Jae-il who was president of the Catholic Farmers Association and became the founding chairperson of Hansalim.
+[^kim2019-dd-133]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 133.
+
+With a population of just 100,000, Wonju diocese was an impoverished region of coal-mining and farming communities.
+The church was dependent upon foreign aid for its survival and the town itself was a cultural backwater.
+One of the first things Ji Hak-soon did as Bishop was to found a cultural centre in front of the Cathedral which began his program of devoting diocesan funds to education, culture and welfare, building cultural spaces, schools, hospitals and welfare facilities for the disabled in Wonju.
+Sponsored by religious organisations from Europe and the United States and dedicated on July 12th 1968, the Wonju Catholic Center was the first civic cultural centre of the Korean Catholic Church.
+
+The three story building -- run by the diocese and staffed by young lay church members -- included offices, meeting rooms, an exhibition hall, projection room, first-floor cafeteria, basement room and dormitories.
+It quickly became a popular meeting place for young people and a hive of creative activity, hosting performances by local musicians and exhibitions by local artists.
+The main hall was used to stage plays by Wonju's Sanya Theatre Company directed by Jang Il-soon's younger brother Jang Sang-soon and the basement room was the venue for DJs to play pop and classical music from a record collection which apparently exceeded even that of the local radio station!
+
+The Wonju Catholic Centre became a hub for pro-democracy activists and writers who gathered from Wonju and beyond to talk and drink late into the evenings in the cosy basement room.
+Among them was a young poet named Kim Young-il who wrote under the pen name "Ji-ha" (芝河).
+Originally from Mokpo, Kim Ji-ha had moved as a child to Wonju with his parents.
+At Seoul National University he became active within the pro-democracy movement in Seoul and, when he returned to Wonju, he brought with him a cast of activists and artists who quickly joined forces with the growing cultural movement (minjung movement) in Wonju.
+Together they created yard plays (a form of traditional peasant theatre called madang-geuk, 마당극), troupe dances and plays for theatre.
+These plays raised the profile of Wonju among the wider national minjung movement and before long, Wonju was being called "the holy land of democratisation."[^kim2019-dd-165]
+
+[^kim2019-dd-165]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 165.
+
+He described the cooperative movement as "movement for service to the masses, abandoning arrogance and radical elite consciousness." and a "downward crawling movement".[^kim2019-dd-135]
+His lectures referenced the 19th century history of cooperation in the British working class (the Rochdale Pioneers) and the credit union movements in France and Germany as well as the traditional culture of rural cooperation in Korea as examples of people finding ways to break free from corporate exploitation and live together on their own terms through mutual aid and self-reliance.[^kim2019-dd-136]
+
+"Cooperatives are a training ground for democracy," (p. 152)
+
+Both Jang Il-soon and Ji Hak-soon made a point of reaching out beyond the boundaries of the Catholic church to other religious groups, not only to other Christian dominations but also to Buddhists.
+Priests, pastors and monks would visit each others congregations to preach and meet regularly at restaurants to share meals and talk together.
+
+[^kim2019-dd-135]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 135.
+
+[^kim2019-dd-136]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 136.
+
+Through the influence of Jang Il-soon and Ji Hak-soon
+
+Wonju became a gathering place for a diverse movement of farmers, miners, housewives, students (many from SNU), intellectuals and artists
+
+
+which became known as the Wonju Group.
+
+
+So one of the first things he did was to set up credit unions and a cultural centre which became a hub for the Minjung (민중) democratisation movement and provided education in cooperative principles.
+
+
+Together, Jang Il-soon and Ji Hak-soon reorganised the church in the Wonju diocese into a network of self-governing self-supporting parishes and set up a program of education and training aimed at empowering the poor and marginalised with the 
+
+One of the founding members of the Wonju Group was Park Jae-il.
+After his release from prison for his involvement in the Jue 3rd Movement (protests against the military regimes policy toward Japan) he met Jang Il-soon and became his lifelong student, moving to Wonju in 1969 to join the Social Development Committee and the Catholic Farmers' Association, led by Bishop Ji Hak-soon.
+He would later become the president of the Catholic Farmers Association and then Hansalim's first chair of directors.
+
+
 The poet and pro-democracy activist Kim Ji-ha was also a member and contributed to many of the reports that communicated the Wonju Groups developing philosophy, including the Hansalim Manifesto.
 Kim Young-won, leader of the Christian Peasant Movement was also among them and he became the first president of the Hansalim Producers’ Association.
 Also involved was Kim Min-ki, a well known musician and theatre producer-director who wrote one of the Minjung movement's most famous songs, 'Morning Dew' (Achim Iseul / 아침이슬).
 Finally, I should mention Lee Soon-ro who, as a housewife,[^housewife] was a key founding member of the Hansalim Life Movement and the first president of the Hansalim Community Consumer Co-op.
+Their vision was for a cooperative movement that was economically and politically independent from the authoritarian state and which promoted rural and urban development led by communities themselves.
 
 [^housewife]: Note: the term “housewife” in Korean has a more complex set of both positive and negative connotations which are somewhat different from the equivalent term in many western countries today.
 
@@ -633,7 +682,7 @@ Finally, I should mention Lee Soon-ro who, as a housewife,[^housewife] was a key
 
 :::
 
-As the first generation of leaders in the Wonju cooperative movement were reaching their early 30s catastrophe hit.
+However, as the first generation of leaders in the Wonju cooperative movement were reaching their early 30s catastrophe hit.
 In 1972 the large-scale flooding of Gangwon province damaged 20,000 homes and created 145,000 flood victims.
 Bishop Ji Hak-soon went to Germany to ask for funds from the catholic charities Miserere and Caritas to support rebuilding.
 Apparently he convinced them to provide a substantial sum of money with no strings attached by telling them “Its not your money anyway, its God’s money”.
