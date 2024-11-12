@@ -82,5 +82,8 @@
   },
   "chapters/01_hansalim.qmd": {
     "01_hansalim.html": "f927d351"
+  },
+  "chapters/references.qmd": {
+    "references.html": "7c198ad3"
   }
 }

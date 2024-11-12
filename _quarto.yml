@@ -20,6 +20,7 @@ book:
     - index.qmd
     - intro.qmd
     - chapters/01_hansalim.qmd
+    - chapters/references.qmd
   appendices:
     - appendices/01_farming_blog.qmd
     - appendices/02_illustrated_farming.qmd
@@ -34,3 +35,5 @@ format:
       echo: false
     comments:
       hypothesis: true
+    bibliography: references.bib
+    csl: chicago-fullnote-bibliography.csl

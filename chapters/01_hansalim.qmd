@@ -24,11 +24,9 @@ load("valueflow.RData")
 
 In 1986 pro-democracy protesters were out in the streets fighting with police and trying to escape tear gas.[^herald]
 Since seizing power in a military coup in 1961, General Park Chung-hee presided over 18 years of military rule.
-Following his assassination in 1979 and another coup, General Chun Doo-hwan installed himself as president, leading what was essentially a continuation of the military regime in the face of growing mass protests calling for democratic government.[^hwang]
+Following his assassination in 1979 and another coup, General Chun Doo-hwan installed himself as president, leading what was essentially a continuation of the military regime in the face of growing mass protests calling for democratic government.[@Hwang2021-dl] 
 
 [^herald]: https://www.koreaherald.com/view.php?ud=20230524000525
-
-[^hwang]: Hwang, Kyung Moon. 2021. A History of Korea. 3rd Edition. London, England: Red Globe Press.
 
 In the midst of such turmoil, a small group of farmers and housewives opened a small rice store in the centre of Seoul.
 In light of the chaotic political situation, this looked like a foolish and insignificant action.
@@ -48,10 +46,8 @@ It was this worldview, they argued, that gave rise to the characteristics of dom
 
 As an alternative, they proposed a worldview founded on the sacredness and interconnectedness of all life.
 The first version of this worldview or eco-philosophy was outlined in the Wonju Report in 1982.
-As the movement began to grow the Wonju Group set up the first Life Cooperative in Wonju in 1985 and the Hansalim Nongsan rice store a year later.[^h2017]
+As the movement began to grow the Wonju Group set up the first Life Cooperative in Wonju in 1985 and the Hansalim Nongsan rice store a year later.[@Hansalim2017-qp]
 In this way, the Wonju Coop formally brought together organic farming and direct trade with the equal participation of consumers and producers.
-
-[^h2017]: Hansalim. 2017. “Because of you we live: Hansalim 30th Anniversary White Paper.” Seoul, Korea: Hansalim.
 
 ::: {layout="[70,30]"}
 
@@ -65,38 +61,29 @@ From this small beginning, the movement quickly expanded as other cooperatives a
 
 By 1990 there were four Life Cooperatives with over 5,500 members and within just over another 10 years membership had grown to over 40,000.
 That is when things really began to take off and by 2008 there were 19 Life Cooperatives managing 84 stores for their 170,000 members.
-In 2023 Hansalim's 27 Life Cooperatives and 15 Producer Federations handled annual sales of 485,066 million KRW (324.3 million euros) through 240 stores, an online store and a mobile app.[^h2024]
+In 2023 Hansalim's 27 Life Cooperatives and 15 Producer Federations handled annual sales of 485,066 million KRW (324.3 million euros) through 240 stores, an online store and a mobile app.[@Hansalim2024-zt]
 From these sales, 330,610 million KRW (221 million euros) were returned to the 136 producer communities.
 That is nearly 70%!
 So what kind of business model has Hansalim created that provides those returns to producers while covering the shared business operations and funding a whole range of movement activities from the remaining 30%?
 And what lies at the heart of this unusual way of doing business?
-
-[^h2024]: Hansalim. 2024. “Hansalim Federation 14th General Assembly Resource Book.” 14. Seoul, Korea: Hansalim Cooperative Federation.
 
 (Graph of growth)
 
 ## Built on a relationship of mutual care
 
 At its simplest, the Hansalim Life Movement is a relationship of mutual care and responsibility between rural and urban communities.
-The core of Hansalim's approach is expressed in this phrase: “Let the producer take responsibility for sustaining the consumer's life and the consumer for sustaining the producer's livelihood”.[^h2021]
+The core of Hansalim's approach is expressed in this phrase: “Let the producer take responsibility for sustaining the consumer's life and the consumer for sustaining the producer's livelihood”.[@Hansalim2021-tf]
 However, this mutual responsibility is about much more than simply direct sales as it also encompasses a shared commitment to protecting and restoring ecosystems and working for wider social and cultural change towards justice and peace.
 
-[^h2021]: see for example Hansalim. 2021. “Hansalim Annual Report 2021.” Seoul, Korea: Hansalim.
-
 This expansive goal is captured by the name itself: “Hansalim” (한살림).
-
 The first part of the word, 'Han' (한) contains two sets of paradoxical meanings.
-It expresses, firstly, a paradoxical double sense of being collectively one and  individually one and, secondly, of spreading out as one and gathering in as one.[^manifesto]
+It expresses, firstly, a paradoxical double sense of being collectively one and  individually one and, secondly, of spreading out as one and gathering in as one.[@Hansalim2021-cy]
 In ancient Korean philosophy 'Han' refers to the divine Spirit or life of the universe which permeates all things living and inanimate and integrates the universe into an evolving cosmos.
-
-[^manifesto]: Hansalim. 2021. Hansalim Manifesto (English Version). Mosim and Salim Research Institute.
 
 The word 'Salim' (살림) has two related meanings.
 The first is 'housekeeping' which implies parental care, homemaking, food preparation, hospitality.
 It is perhaps the most practical of all human activities and is the bedrock of human survival and flourishing.
-The second meaning develops from this practical sense the philosophical concept of 'nurturing' which has the connotation of saving and restoring, bringing back to life, vivifying.[^mosim3]
-
-[^mosim3]: Yoon, Hyunggeun, ed. 2004. Salim's Words. Mosim and Salim, Book 3. Seoul: Mosim and Salim Research Institute.
+The second meaning develops from this practical sense the philosophical concept of 'nurturing' which has the connotation of saving and restoring, bringing back to life, vivifying.[@Yoon2004-dl]
 
 So we see that the word 'Hansalim' expresses a relationship and an action. 
 It encompasses the goal of nurturing or reviving all things, that is bringing all into a flourishing shared life together.
@@ -120,7 +107,7 @@ In these communities farming is done together by a group of family farms who par
 To join Hansalim as a producer, you would join one of these communities and receive training in eco-friendly farming and Hansalim's production and processing standards.
 
 There are 136 producer communities which cultivate a total of 11,300 acres.
-In addition to the producer communities there are 110 processing units which process raw materials from Hansalim's producers as well as seafood and other products from local organic and environmentally friendly sources.[^h2024]
+In addition to the producer communities there are 110 processing units which process raw materials from Hansalim's producers as well as seafood and other products from local organic and environmentally friendly sources.[@Hansalim2024-zt]
 The producer organizations are brought together into 15 regional federations with their own elected representatives which together form Hansalim's National Producer Federation with their own elected president and employed staff.
 Many of these regional federations pool resources to run local distribution hubs with their own processing facilities and some have created complex systems to process and re-circulate farm wastes as inputs between multiple local farms.
 
@@ -558,25 +545,15 @@ Happily (or perhaps sadly, depending on your point of view) that is not the case
 
 One of the most extraordinary features of Hansalim is the depth of their commitment to deliberative democracy and local autonomy.
 This emphasis on democracy has deep roots.
-These roots traverse Korea's pro-democracy movement during the 1960s and 70s (in which many of the Hansalim founders were involved[^kim2019-dd]), the independence movement during Japanese colonial rule from 1910-1945[^kim2017] and finally also in Korea's traditional rural institutions known as Dure (farmers village cooperatives) and Gye (village credit unions) which existed during the Joseon dynasty prior to the colonial era and which probably originated even earlier in Korea's ancient past.[^lee2006]
+These roots traverse Korea's pro-democracy movement during the 1960s and 70s (in which many of the Hansalim founders were involved[@Kim2019-dd]), the independence movement during Japanese colonial rule from 1910-1945[@Kim2017-xf] and finally also in Korea's traditional rural institutions known as Dure (farmers village cooperatives) and Gye (village credit unions) which existed during the Joseon dynasty prior to the colonial era and which probably originated even earlier in Korea's ancient past.[@Lee2006-cw]
 A bit of history is in order to help understand the significance of democracy in Hansalim (see @fig-timeline).
-
-[^kim2019-dd]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure.
-
-[^kim2017]: Hyungmi, Kim. 2017. “The Experience of the Consumer Co-operative Movement in Korea: Its Break off and Rebirth, 1919–2010.” In A Global History of Consumer Co-Operation since 1850, 353–78. Brill.
-
-[^lee2006]: Lee, E-Wha. (2001) 2006. Korea’s Pastimes and Customs: A Social History. Translated by Ju-Hee Park. Paramus, New Jersey: Homa & Sekey Books.
 
 ### Rooted in history {.unnumbered}
 
 This part of the story starts in 1919 with the March First Movement and the struggle for independence against Japanese colonial rule.
-As part of this movement the first credit union was established in April 1919, the Kangkye Public Co-operative.[^kangye]
+As part of this movement the first credit union was established in April 1919, the Kangkye Public Co-operative.[@Kim2017-xf, p. 355]
 Soon, similar cooperatives were established among housewives, students, workers, and farmers to promote the economic independence of Koreans from colonial domination.
-By 1938 there were more than 500 cooperatives with at least 140,000 members which helped to support the livelihoods of the poor and provide education to preserve the Korean language and cultural identity.[^kim2022]
-
-[^kangye]: Hyungmi, Kim. 2017. “The Experience of the Consumer Co-operative Movement in Korea: Its Break off and Rebirth, 1919–2010.” p. 355.
-
-[^kim2022]: Kim, Yi-Kyung. 2022. “The Formation and Development of the Korean Cooperative Movement under Japanese Colonial Rule - Focus on Concepts, Participants, and Solidarity.” PhD, SUNGKYUNKWAN UNIVERSITY (성균관대학교 일반대학원).
+By 1938 there were more than 500 cooperatives with at least 140,000 members which helped to support the livelihoods of the poor and provide education to preserve the Korean language and cultural identity.[@Kim2022-im]
 
 ::: {#fig-timeline}
 
@@ -592,32 +569,26 @@ Timeline of Korean history and evolution of the cooperative movement
 From the 1950s onwards, following the Korean war, grassroots cooperatives that had emerged as part of the anti-colonial independence movement in the 1920s and 30s began to re-form.
 At the same time the state adopted the colonial era apparatus of cooperatives created by the Japanese to control the rural and industrial economy.
 Park Chung-hee united the agricultural and financial cooperatives created by the colonial government to form the National Agricultural Cooperative Federation (NACF or Nonghyup) which now boasts of being one of the worlds’ largest agricultural cooperatives.
-Although it is called a cooperative, it functioned as a para-state organisation and was used as a bureaucratic tool of state control to drive through the green revolution in agriculture and to manipulate political support for the Park regime among the rural population.[^nonghyup]
+Although it is called a cooperative, it functioned as a para-state organisation and was used as a bureaucratic tool of state control to drive through the green revolution in agriculture and to manipulate political support for the Park regime among the rural population.[@Burmeister2006-aa]
 
-[^nonghyup]: Burmeister, Larry L. 2006. “Agricultural Cooperative Development and Change: A Window on South Korea’s Agrarian Transformation.” In Transformations in Twentieth Century Korea, edited by Yun-Shik Chang and Steven Hugh Lee, 78–100. Routledge Advances in Korean Studies. Routledge.
-
-In contrast, closely connected to the emerging anti-Park democratisation movement, grassroots cooperatives started to spread again and to promote cooperative ideas throughout the country, establishing schools, consumer cooperatives, credit unions, and medical cooperatives to respond to the desperate need for affordable medical treatment for survivors of the war.[^kim2017]
+In contrast, closely connected to the emerging anti-Park democratisation movement, grassroots cooperatives started to spread again and to promote cooperative ideas throughout the country, establishing schools, consumer cooperatives, credit unions, and medical cooperatives to respond to the desperate need for affordable medical treatment for survivors of the war.[@Kim2017-xf]
 The organic farming movement also began to spread through the influence of the Poolmoo school (now known as Poolmoowon) which established the first consumer cooperative in 1959 in South Chungcheong Province and, starting in 1975, developed the largest organic farming region in Korea.
 Through the 1970s and early 1980s, the pro-democracy Catholic Farmers Movement, Catholic Priests' Association for Justice (CPAJ) and other Christian groups, credit unions and consumer cooperatives along with democratic movements among factory workers, peasant farmers, and students continued to increase in influence and spread throughout the country.
 
 Among the leaders of this movement was the Catholic Bishop Ji Hak-soon, who became the first bishop of Wonju in 1965.
-He had left North Korea before the war to train as priest in Rome and, while there, he was deeply impacted by the spirit of the Vatican Two Council which urged the church to become more outward focused on the needs of local communities and to support ecumenical unity; to become a church run by and for the people, and for the poor and marginalised in particular.[^kim2019-dh]
-
-[^kim2019-dh]: Kim, So-Nam. 2019. “Cooperative and Life Movements in Wonju.” In 100 Years of the Korean Co-Operative Movement Vol. 1, edited by Seong-Bu Kim, Kim Chang-jin, Kim Ki-tae, Kim Hyeong-mi, Pak Bong-hui, Yeom Chan-hui, Yi Kyeong-ran, Jeong Kyu-ho, Lim Chae-do, and Han Seong-hoon, 253–85. Seoul, Korea: Autumn Morning.
+He had left North Korea before the war to train as priest in Rome and, while there, he was deeply impacted by the spirit of the Vatican Two Council which urged the church to become more outward focused on the needs of local communities and to support ecumenical unity; to become a church run by and for the people, and for the poor and marginalised in particular.[@Kim2019-dh]
 
 It was in Wonju, that Ji Hak-soon met Jang Il-soon who was to become one of his closest friends.
 Jang Il-soon was a native of Wonju and quit Seoul National University (SNU) after the war to found Daeseong School in Wonju to provide a free education to local children.
 After a failed attempt to run for political office, he spent three years in prison between 1961 and 63, originally facing a death sentence, accused of being a communist.
 After his sentence was commuted and he was released the state put him under surveillance and prohibited him from public lecturing or writing.
 With no other options, he became a farmer and an artist, painting calligraphy which he gave away to everyone and anyone.
-Within the context of the church, Ji Hak-soon gave him the opportunity to teach again and, in 1967, he began training lay Catholic members to prepare for a transformation of the church into a self-reliant lay-centred organisation that supported a wider rural development movement of credit unions and cooperatives.[^kim2019-dd-133]
-
-[^kim2019-dd-133]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 133.
+Within the context of the church, Ji Hak-soon gave him the opportunity to teach again and, in 1967, he began training lay Catholic members to prepare for a transformation of the church into a self-reliant lay-centred organisation that supported a wider rural development movement of credit unions and cooperatives.[@Kim2019-dd, p. 133]
 
 With a population of just 100,000, Wonju diocese was an impoverished region of coal-mining and farming communities.
 The church was dependent upon foreign aid for its survival and the town itself was a cultural backwater with very few resources.
 As soon as Ji Hak-soon took office he and Jang Il-soon set up Wonju's first credit union in 1966 and founded Jinkwang Middle School in 1967.
-Jang Il-soon began to organise training courses for cooperative and credit union members and established the Cooperative Education Institute in Jinkwang school to develop the cooperative movement beyond the Catholic Church.[^Kim2019-dh]
+Jang Il-soon began to organise training courses for cooperative and credit union members and established the Cooperative Education Institute in Jinkwang school to develop the cooperative movement beyond the Catholic Church.[@Kim2019-dh]
 The school's students and teachers also created the first school cooperative in Korea, Jinkwang Cooperative, to purchase books and equipment and run the canteen.
 
 One of the teachers at the school was Park Jae-il.
@@ -643,10 +614,10 @@ Following the example of Jesus, they sought to serve those in need without disti
 
 [^personal]: Personal communication from a relative of a Wonju Hansalim founder.
 
-Jang Il-soon saw the cooperative movement as a training ground for democracy for the whole community and a means of empowering people to become responsible citizens.[^kim2019-dd-152]
-He described it as a "movement for service to the masses, abandoning arrogance and radical elite consciousness." and a "downward crawling movement."[^kim2019-dd-135]
+Jang Il-soon saw the cooperative movement as a training ground for democracy for the whole community and a means of empowering people to become responsible citizens.[@Kim2019-dd, p. 152]
+He described it as a "movement for service to the masses, abandoning arrogance and radical elite consciousness." and a "downward crawling movement."[@Kim2019-dd, p. 135]
 In his lectures, Jang Il-soon reminded people of their own traditional culture of rural cooperation in Korea through Dure (farmers coops), Gye (village credit unions) and Pumasi (informal labour exchange).
-He referenced the 19th century history of cooperation in the British working class (the Rochdale Pioneers) and the credit union movements in France and Germany as examples of people finding ways to break free from corporate exploitation and live together on their own terms through mutual aid and self-reliance.[^kim2019-dd-136]
+He referenced the 19th century history of cooperation in the British working class (the Rochdale Pioneers) and the credit union movements in France and Germany as examples of people finding ways to break free from corporate exploitation and live together on their own terms through mutual aid and self-reliance.[@Kim2019-dd, p. 136]
 He drew inspiration not only from Jesus's teachings but also from Buddhist scriptures, Daoist and Confucian philosophy and Ghandi's example of non-violent resistance to enlarge people's awareness of themselves and the world.
 
 As a symbol of this broad and inclusive vision, the Wonju Catholic Centre became a hub for students and other pro-democracy activists and writers who gathered from Wonju and beyond to talk and drink late into the evenings in the cosy basement room.
@@ -654,15 +625,7 @@ One of those young people was a poet named Kim Young-il who wrote under the pen 
 Originally from Mokpo, Kim Ji-ha had moved as a child to Wonju with his parents.
 At Seoul National University he became active within the pro-democracy movement in Seoul and, when he returned to Wonju, he brought with him a cast of activists and artists who quickly joined forces with the growing cultural movement (minjung movement) in Wonju.
 Together they created yard plays (a form of traditional peasant theatre called madang-geuk, 마당극), troupe dances and plays for theatre.
-These plays raised the profile of Wonju among the wider national minjung movement and before long, Wonju was being called "the holy land of democratisation."[^kim2019-dd-165]
-
-[^kim2019-dd-165]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 165.
-
-[^kim2019-dd-152]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 152.
-
-[^kim2019-dd-135]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 135.
-
-[^kim2019-dd-136]: Kim, Sam-Woong. 2019. Biography of Jang Il-soon: The Beautiful Life of Muwidang. Edited by Muwidang People. Seoul, Korea: Dure. p. 136.
+These plays raised the profile of Wonju among the wider national minjung movement and before long, Wonju was being called "the holy land of democratisation."[@Kim2019-dd, p. 165]
 
 Together, with the Wonju Group, Jang Il-soon and Ji Hak-soon reorganised the church in the Wonju diocese into a network of self-governing self-supporting parishes and set up a program of education and training aimed at empowering the poor and marginalised to form self-sufficient self-governing communities across Gangwon province.
 Their vision was for a cooperative movement that was economically and politically independent from the authoritarian state and which promoted rural and urban development led by communities themselves.
@@ -681,24 +644,26 @@ Their vision was for a cooperative movement that was economically and politicall
 
 However, just as things were starting to take off catastrophe hit.
 In 1972 the large-scale flooding of the Namhan River basin caused widespread devastation in Gangwon and surrounding provinces.
-In Wonju Diocese the floods damaged 50,000 buildings[^kim2019-dd] and displaced 100,000 people.[^kim2019-dh]
+In Wonju Diocese the floods damaged 50,000 buildings[@Kim2019-dd] and displaced 100,000 people.[@Kim2019-dh]
 Bishop Ji Hak-soon went to Germany to ask for funds from the catholic charities Miserere and Caritas to support rebuilding.
 With the money they provided (2.91 million marks or around $360,000) he set up a Disaster Countermeasures Project Committee to coordinate a long-term recovery project.
 Instead of simply providing unconditional aid, as was normally done under such circumstances, the committee targeted their resources at supporting communities to become self-sufficient.
-Food and money were given as wages for productive work rebuilding communities, restoring farmland and developing new income sources for farmers such as setting up craft workshops.
+Food and money were given as wages for productive work rebuilding communities, restoring farmland and developing new income sources for farmers such as setting up village craft workshops.
 
- focused on training and the creation of local consumer and producer cooperatives led by villagers themselves to create self-sufficient communities governed through local democracy.
+Young people from the Wonju Diocesan Youth Association who had been involved with the cooperative movement in Wonju were recruited to act as counsellors.
+This title of 'counsellor' was chosen intentionally to avoid the impression that they were responsible for leading or directing the disaster response.
+Instead, their role was to visit the affected villages, learn about their needs and provide advice and training to enable villagers to take leadership of the reconstruction and development process themselves.
+The requirements for receiving support for projects were that they were productive so as to provide a steady income, communal rather than individual and managed cooperatively by the villagers.
+The ultimate goal was to rebuild solidarity within and between village communities who had suffered years of exploitation under colonial and now military rule that had lead to widespread mistrust.
 
-The recovery project began in 1973 as Jang Il-soon 
-Jang Il-soon and the other Wonju Group members lead the rural development and education initiative.
-The rural development program of the Disaster Countermeasures Project Committee and its successor organisation, the Social Development Committee, established 74 credit unions in rural areas and mining villages
-By 1977, the cooperative movement had 
+This was a particularly special time for Jang Il-soon.
+He began to see what he had been dreaming of for so many years take shape in reality in his own community.
+Hundreds of villages across three provinces participated, creating credit unions and cooperatives, restoring the culture of shared agricultural labour and managing their affairs democratically through village assemblies.
+Others saw what was happening too and the pattern of rural development through cooperation that began in Wonju spread across the country.[@Kim2019-dd]
 
 ```{r}
 #| label: carry on from here!!
 ```
-
-A bit more detail about the Disaster Recovery Committee... and the democratising influence of it on Wonju, Gangwon province and beyond.
 
 Something about their reflections on the 70s and experience with the disaster recovery and new directions when Kim Ji-ha came out of prison.
 
@@ -743,7 +708,7 @@ So you see that neither the Hansalim Federation nor the Business Federation are 
 
 ### Mutual responsibilities {.unnumbered}
 
-The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram, @fig-stakeholders, which was published in the Hansalim 2017 White Paper.[^h2017]
+The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram, @fig-stakeholders, which was published in the Hansalim 2017 White Paper.[@Hansalim2017-qp]
 I have reproduced it here with some minor modifications and translated it into English.
 With the Hansalim Federation at the centre each of the stakeholders are listed along with their mutual responsibilities in relation to the Federation.
 Hansalim’s stakeholders include five categories: Producers, Members (i.e. consumer members), Practitioners, Activists and the Local Community.
@@ -804,9 +769,7 @@ The term used by the poet Kim Ji-ha to describe the evolutionary nature of a liv
 
 Yoon, in his 2024 report about Hansalim's evolving structure writes:
 
-> "When choosing policies and institutions in Hansalim, we can present the 'tilted balance' in the "Hansalim Manifesto" as a decision-making principle that balances reality and ideals, associations and businesses."[^yoon2024]
-
-[^yoon2024]: Yoon, Hyeong-Geun. 2024. “History of the Evolution of the Hansalim Composite Organisation.” 2023. Research Report. Seoul, Korea: Mosim and Salim Research Institute. p. 6. (Translation: J Dolley).
+> "When choosing policies and institutions in Hansalim, we can present the 'tilted balance' in the "Hansalim Manifesto" as a decision-making principle that balances reality and ideals, associations and businesses."[@Yoon2024-gs, translation by J. Dolley]
 
 Hansalim's journey from a small movement of producers and consumers to a national federation has been far from smooth and simple.
 As successful as it has been, it was and still is fraught with struggles, controversies, failures and frustrations.
