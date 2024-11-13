@@ -6,7 +6,6 @@ comments:
 ---
 
 ::: {.content-hidden when-format="pdf"}
-
 ```{r}
 #| label: load data
 #| output: false
@@ -19,102 +18,57 @@ library(plotly)
 load("production.RData")
 load("valueflow.RData")
 ```
-
 :::
 
-In 1986 pro-democracy protesters were out in the streets fighting with police and trying to escape tear gas.[^herald]
-Since seizing power in a military coup in 1961, General Park Chung-hee presided over 18 years of military rule.
-Following his assassination in 1979 and another coup, General Chun Doo-hwan installed himself as president, leading what was essentially a continuation of the military regime in the face of growing mass protests calling for democratic government.[@Hwang2021-dl] 
+In 1986 pro-democracy protesters were out in the streets fighting with police and trying to escape tear gas.[^01_hansalim-1] Since seizing power in a military coup in 1961, General Park Chung-hee presided over 18 years of military rule. Following his assassination in 1979 and another coup, General Chun Doo-hwan installed himself as president, leading what was essentially a continuation of the military regime in the face of growing mass protests calling for democratic government.[@Hwang2021-dl]
 
-[^herald]: https://www.koreaherald.com/view.php?ud=20230524000525
+[^01_hansalim-1]: https://www.koreaherald.com/view.php?ud=20230524000525
 
-In the midst of such turmoil, a small group of farmers and housewives opened a small rice store in the centre of Seoul.
-In light of the chaotic political situation, this looked like a foolish and insignificant action.
-However, the creation of that first store, called Hansalim Nongsan, was actually a radical act of resistance and hope in the face of political uncertainty.
-The men and women who opened Hansalim Nongsan belonged to a small cooperative of producers and consumers in a city called Wonju, about an hour away from Seoul, and that store represented a first step in launching an ecological alternative movement that had been gathering support in Wonju and beyond since the late 1970s.
-It's founders where known as the Wonju Group.
+In the midst of such turmoil, a small group of farmers and activists opened a small rice store in the centre of Seoul. In light of the chaotic political situation, this was seen by their fellow pro-democracy activists as a betrayal. However, the creation of that first store, called Hansalim Nongsan, was actually a radical act of resistance and hope in the face of political uncertainty. The men and women who opened Hansalim Nongsan belonged to a small cooperative of producers and consumers in a city called Wonju, about an hour away from Seoul, and that store represented a first step in launching an ecological alternative movement that had been gathering support in Wonju and beyond since the late 1970s. It's founders where known as the Wonju Group.
 
 ## A movement, a manifesto, a business
 
-The Wonju Group were a diverse collection of Catholic Farmers, urban housewives, pro-democracy activists, artists, poets and scholars who had been involved in the credit union movement in Wonju that was founded in the 1960s.
-They had witnessed the fundamentally destructive tendencies of capitalist and socialist industrialisation and they were looking for an alternative in the cooperative movement.
-However, they recognised that cooperatives were also vulnerable to the same fundamental mistake that lay at the heart of industrial civilization.
-That mistake was to assume a materialist, mechanistic view of the world which viewed humans and all life as replaceable parts in the machine of economic growth.
-It was this worldview, they argued, that gave rise to the characteristics of domination, alienation, separation and oppression in modern society.
+The Wonju Group were a diverse collection of Catholic Farmers, urban housewives, pro-democracy activists, artists, poets and scholars who had been involved in the credit union movement in Wonju that was founded in the 1960s. They had witnessed the fundamentally destructive tendencies of capitalist and socialist industrialisation and they were looking for an alternative in the cooperative movement. However, they recognised that cooperatives were also vulnerable to the same fundamental mistake that lay at the heart of industrial civilization. That mistake was to assume a materialist, mechanistic view of the world which viewed humans and all life as replaceable parts in the machine of economic growth. It was this worldview, they argued, that gave rise to the characteristics of domination, alienation, separation and oppression in modern society.
 
 ![The Wonju Group with the Hansalim Gathering (1989)](../images/chapter_01/Hansalim-Moim.jpeg)
 
-As an alternative, they proposed a worldview founded on the sacredness and interconnectedness of all life.
-The first version of this worldview or eco-philosophy was outlined in the Wonju Report in 1982.
-As the movement began to grow the Wonju Group set up the first Life Cooperative in Wonju in 1985 and the Hansalim Nongsan rice store a year later.[@Hansalim2017-qp]
-In this way, the Wonju Coop formally brought together organic farming and direct trade with the equal participation of consumers and producers.
+As an alternative, they proposed a worldview founded on the sacredness and interconnectedness of all life. The first version of this worldview or eco-philosophy was outlined in the Wonju Report in 1982. As the movement began to grow the Wonju Group set up the first Life Cooperative in Wonju in 1985 and the Hansalim Nongsan rice store a year later.[@Hansalim2017-qp] In this way, the Wonju Coop formally brought together organic farming and direct trade with the equal participation of consumers and producers.
 
 ::: {layout="[70,30]"}
-
-Soon after, the Hansalim Community Consumers Union was set-up in Seoul with 70 members to trade directly with the Hansalim Producers Association that was set up with 70 farming households.
-Next, the Wonju Group hosted a year long process of study and discussion to develop the Hansalim Manifesto which was published in 1989 and which formally launched the Hansalim Life Movement.
-From this small beginning, the movement quickly expanded as other cooperatives and farming communities joined from across the country and consumer membership grew.
+Soon after, the Hansalim Community Consumers Union was set-up in Seoul with 70 members to trade directly with the Hansalim Producers Association that was set up with 70 farming households. Next, the Wonju Group hosted a year long process of study and discussion to develop the Hansalim Manifesto which was published in 1989 and which formally launched the Hansalim Life Movement. From this small beginning, the movement quickly expanded as other cooperatives and farming communities joined from across the country and consumer membership grew.
 
 ![The Hansalim Manifesto, English version](../images/chapter_01/Hansalim-Manifesto.jpeg){width="" fig-align="left"}
-
 :::
 
-By 1990 there were four Life Cooperatives with over 5,500 members and within just over another 10 years membership had grown to over 40,000.
-That is when things really began to take off and by 2008 there were 19 Life Cooperatives managing 84 stores for their 170,000 members.
-In 2023 Hansalim's 27 Life Cooperatives and 15 Producer Federations handled annual sales of 485,066 million KRW (324.3 million euros) through 240 stores, an online store and a mobile app.[@Hansalim2024-zt]
-From these sales, 330,610 million KRW (221 million euros) were returned to the 136 producer communities.
-That is nearly 70%!
-So what kind of business model has Hansalim created that provides those returns to producers while covering the shared business operations and funding a whole range of movement activities from the remaining 30%?
-And what lies at the heart of this unusual way of doing business?
+By 1990 there were four Life Cooperatives with over 5,500 members and within just over another 10 years membership had grown to over 40,000. That is when things really began to take off and by 2008 there were 19 Life Cooperatives managing 84 stores for their 170,000 members. In 2023 Hansalim's 27 Life Cooperatives and 15 Producer Federations handled annual sales of 485,066 million KRW (324.3 million euros) through 240 stores, an online store and a mobile app.[@Hansalim2024-zt] From these sales, 330,610 million KRW (221 million euros) were returned to the 136 producer communities. That is nearly 70%! So what kind of business model has Hansalim created that provides those returns to producers while covering the shared business operations and funding a whole range of movement activities from the remaining 30%? And what lies at the heart of this unusual way of doing business?
 
 (Graph of growth)
 
 ## Built on a relationship of mutual care
 
-At its simplest, the Hansalim Life Movement is a relationship of mutual care and responsibility between rural and urban communities.
-The core of Hansalim's approach is expressed in this phrase: “Let the producer take responsibility for sustaining the consumer's life and the consumer for sustaining the producer's livelihood”.[@Hansalim2021-tf]
-However, this mutual responsibility is about much more than simply direct sales as it also encompasses a shared commitment to protecting and restoring ecosystems and working for wider social and cultural change towards justice and peace.
+At its simplest, the Hansalim Life Movement is a relationship of mutual care and responsibility between rural and urban communities. The core of Hansalim's approach is expressed in this phrase: “Let the producer take responsibility for sustaining the consumer's life and the consumer for sustaining the producer's livelihood”.[@Hansalim2021-tf] However, this mutual responsibility is about much more than simply direct sales as it also encompasses a shared commitment to protecting and restoring ecosystems and working for wider social and cultural change towards justice and peace.
 
-This expansive goal is captured by the name itself: “Hansalim” (한살림).
-The first part of the word, 'Han' (한) contains two sets of paradoxical meanings.
-It expresses, firstly, a paradoxical double sense of being collectively one and  individually one and, secondly, of spreading out as one and gathering in as one.[@Hansalim2021-cy]
-In ancient Korean philosophy 'Han' refers to the divine Spirit or life of the universe which permeates all things living and inanimate and integrates the universe into an evolving cosmos.
+This expansive goal is captured by the name itself: “Hansalim” (한살림). The first part of the word, 'Han' (한) contains two sets of paradoxical meanings. It expresses, firstly, a paradoxical double sense of being collectively one and individually one and, secondly, of spreading out as one and gathering in as one.[@Hansalim2021-cy] In ancient Korean philosophy 'Han' refers to the divine Spirit or life of the universe which permeates all things living and inanimate and integrates the universe into an evolving cosmos.
 
-The word 'Salim' (살림) has two related meanings.
-The first is 'housekeeping' which implies parental care, homemaking, food preparation, hospitality.
-It is perhaps the most practical of all human activities and is the bedrock of human survival and flourishing.
-The second meaning develops from this practical sense the philosophical concept of 'nurturing' which has the connotation of saving and restoring, bringing back to life, vivifying.[@Yoon2004-dl]
+The word 'Salim' (살림) has two related meanings. The first is 'housekeeping' which implies parental care, homemaking, food preparation, hospitality. It is perhaps the most practical of all human activities and is the bedrock of human survival and flourishing. The second meaning develops from this practical sense the philosophical concept of 'nurturing' which has the connotation of saving and restoring, bringing back to life, vivifying.[@Yoon2004-dl]
 
-So we see that the word 'Hansalim' expresses a relationship and an action. 
-It encompasses the goal of nurturing or reviving all things, that is bringing all into a flourishing shared life together.
-In fact, the word 'Hansalim' is often used as a verb as when members encourage each other by saying "let's Hansalim!"
+So we see that the word 'Hansalim' expresses a relationship and an action. It encompasses the goal of nurturing or reviving all things, that is bringing all into a flourishing shared life together. In fact, the word 'Hansalim' is often used as a verb as when members encourage each other by saying "let's Hansalim!"
 
-Among Hansalim members, the word “Salim” is used to express their purpose in all their activities.
-So the collective mission of Hansalim is summed up in four phrases that each incorporate this word Salim.
+Among Hansalim members, the word “Salim” is used to express their purpose in all their activities. So the collective mission of Hansalim is summed up in four phrases that each incorporate this word Salim.
 
-The first, 'Nurturing Food' (밥상살림 — bapsang-salim) refers to the goal of providing consumers with safe, healthy, eco-friendly food and other household goods and this defines the responsibility that producers adopt for the life of consumers. 
-The word in Korean directly translates as nurturing the dining table and the significance of this is that it refers to the act of sharing a meal, not simply consuming food.
-Second, 'Nurturing Agriculture' (농업살림 — nongup-salim) refers to the goal of securing stable and sustainable livelihoods for producers and this defines the responsibility which consumers adopt for the livelihoods of producers.
-Third, 'Nurturing Life' (생명살림 — saengmyeong-salim) expresses the responsibility of care for others (human and non-human) which producers and consumers together share and which is worked out through outward focused activities such as promoting eco-friendly farming, environmental campaigning, education, social welfare projects, and inward contemplative and reflective practices.
-Finally, 'Nurturing Community' (지역살림 — jiyeok-salim), emphasises the need to strengthen local community resources and relationships and to reach out to neighbours in need.
+The first, 'Nurturing Food' (밥상살림 — bapsang-salim) refers to the goal of providing consumers with safe, healthy, eco-friendly food and other household goods and this defines the responsibility that producers adopt for the life of consumers. The word in Korean directly translates as nurturing the dining table and the significance of this is that it refers to the act of sharing a meal, not simply consuming food. Second, 'Nurturing Agriculture' (농업살림 — nongup-salim) refers to the goal of securing stable and sustainable livelihoods for producers and this defines the responsibility which consumers adopt for the livelihoods of producers. Third, 'Nurturing Life' (생명살림 — saengmyeong-salim) expresses the responsibility of care for others (human and non-human) which producers and consumers together share and which is worked out through outward focused activities such as promoting eco-friendly farming, environmental campaigning, education, social welfare projects, and inward contemplative and reflective practices. Finally, 'Nurturing Community' (지역살림 — jiyeok-salim), emphasises the need to strengthen local community resources and relationships and to reach out to neighbours in need.
 
 So how are these values put into practice? I'm going to tackle this question from bottom up, first from the rural or producer perspective and then from the urban or consumer perspective before describing the alternative economic system that brings them together.
 
 ## In the form of a multistakeholder cooperative
 
-The producer community is the smallest level of organization in Hansalim.
-In these communities farming is done together by a group of family farms who partner with one another to plan and coordinate their production, share knowledge and labour, and manage shared facilities and equipment.
-To join Hansalim as a producer, you would join one of these communities and receive training in eco-friendly farming and Hansalim's production and processing standards.
+The producer community is the smallest level of organization in Hansalim. In these communities farming is done together by a group of family farms who partner with one another to plan and coordinate their production, share knowledge and labour, and manage shared facilities and equipment. To join Hansalim as a producer, you would join one of these communities and receive training in eco-friendly farming and Hansalim's production and processing standards.
 
-There are 136 producer communities which cultivate a total of 11,300 acres.
-In addition to the producer communities there are 110 processing units which process raw materials from Hansalim's producers as well as seafood and other products from local organic and environmentally friendly sources.[@Hansalim2024-zt]
-The producer organizations are brought together into 15 regional federations with their own elected representatives which together form Hansalim's National Producer Federation with their own elected president and employed staff.
-Many of these regional federations pool resources to run local distribution hubs with their own processing facilities and some have created complex systems to process and re-circulate farm wastes as inputs between multiple local farms.
+There are 136 producer communities which cultivate a total of 11,300 acres. In addition to the producer communities there are 110 processing units which process raw materials from Hansalim's producers as well as seafood and other products from local organic and environmentally friendly sources.[@Hansalim2024-zt] The producer organizations are brought together into 15 regional federations with their own elected representatives which together form Hansalim's National Producer Federation with their own elected president and employed staff. Many of these regional federations pool resources to run local distribution hubs with their own processing facilities and some have created complex systems to process and re-circulate farm wastes as inputs between multiple local farms.
 
 (map of producer communities)
 
-::: {layout-nrow=2}
-
+::: {layout-nrow="2"}
 ![Hansalim Producer Community in Byeonsan](../images/chapter_01/Byeonsan-Farm.jpeg){group="producers"}
 
 ![Byeonsan Producer Community shared facilities](../images/chapter_01/Byeonsan-Producer-Community.jpeg){group="producers"}
@@ -122,18 +76,13 @@ Many of these regional federations pool resources to run local distribution hubs
 ![Hansalim Producer Community in Jeju, head office](../images/chapter_01/Jeju-Producer-Community.jpeg){group="producers"}
 
 ![Hansalim Producer Community in Asan, distribution hub](../images/chapter_01/Asan-Distribution-Centre.jpeg){group="producers"}
-
 :::
 
-When you join Hansalim as a consumer you become a member of your local Life Cooperative (one among 27 as of 2024).
-The word “Life” is significant because these cooperatives are not like the conventional consumer cooperatives that you would encounter in Europe or America.
-Their focus is not only responsible consumption but also seeking to live together in solidarity with one another and with producers and rural communities.
-Each Life Cooperative in Hansalim is a democratic autonomous organization formed by members to carry out collective activities, set-up and run Hansalim stores, organize charitable, cultural and educational activities and the joint activities between rural producers and urban consumers.
+When you join Hansalim as a consumer you become a member of your local Life Cooperative (one among 27 as of 2024). The word “Life” is significant because these cooperatives are not like the conventional consumer cooperatives that you would encounter in Europe or America. Their focus is not only responsible consumption but also seeking to live together in solidarity with one another and with producers and rural communities. Each Life Cooperative in Hansalim is a democratic autonomous organization formed by members to carry out collective activities, set-up and run Hansalim stores, organize charitable, cultural and educational activities and the joint activities between rural producers and urban consumers.
 
 (map of Life Coops)
 
-::: {layout-nrow=2}
-
+::: {layout-nrow="2"}
 ![Jeju Hansalim Life Coop office](../images/chapter_01/Jeju-Hansalim-Office.jpeg){group="consumers"}
 
 ![Jeju Hansalim community kitchen](../images/chapter_01/Jeju-Hansalim-Kitchen.jpeg){group="consumers"}
@@ -141,53 +90,34 @@ Each Life Cooperative in Hansalim is a democratic autonomous organization formed
 ![Jeju Hansalim community permaculture garden](../images/chapter_01/Jeju-Hansalim-Community-Garden.jpeg){group="consumers"}
 
 ![Busan Hansalim community kitchen](../images/chapter_01/Busan-Hansalim-Kitchen.jpg){group="consumers"}
-
 :::
 
-Together, the producer communities and federations and the Life Coops form a federation of cooperatives, associations and businesses linked together through a shared business federation and the Hansalim Federation with its support organisations including a research institute, charitable foundation, solar power coop, publishing house, training institute and peer-to-peer finance platform.
-So how does this business work?
+Together, the producer communities and federations and the Life Coops form a federation of cooperatives, associations and businesses linked together through a shared business federation and the Hansalim Federation with its support organisations including a research institute, charitable foundation, solar power coop, publishing house, training institute and peer-to-peer finance platform. So how does this business work?
 
 ## Creating an alternative economy
 
-In simple terms, the Hansalim business model can be described as a contract-based direct sales arrangement in which prices and quantities are agreed annually in advance by producers and consumers with support from Hansalim's professional staff.
-However, it is also very flexible in ways that are designed to support the needs of producers.
+In simple terms, the Hansalim business model can be described as a contract-based direct sales arrangement in which prices and quantities are agreed annually in advance by producers and consumers with support from Hansalim's employees. However, it is also very flexible in ways that are designed to support the needs of producers.
 
 ### A system designed for producers {.unnumbered}
 
-There are four key features of Hansalim's business model.
-Firstly: flexibility of production.
-Hansalim's production system allows for a relatively wide range of production philosophies and techniques among member producers to ensure that producers have maximum autonomy.
-For example, one producer community might prefer a relatively simple style of organic farming with a small number of crops while another aspires to build a complex system of circulating agriculture with a large diversity of crops and livestock supported by recycling of farm wastes from one part of the system as inputs to others.
-Still others, especially fruit producers, might find it impossible to grow without a limited use of safe pesticides.
-A dogmatic insistence on a single farming philosophy would exclude many farmers who might be unable to follow a one-size-fits-all system in the face of local conditions or other resource constraints.
-Hansalim's more flexible approach removes a significant barrier to entry for farmers who would otherwise need to spend a long time learning new techniques before starting to earn an income.
-This brings the added advantage that farmers who want to transition from conventional to organic farming can do so in a staged process while still making a living.
-However, it also creates a problem. How to maintain the trust of consumers when the diversity of production techniques is so wide?
+There are four key features of Hansalim's business model. Firstly: flexibility of production. Hansalim's production system allows for a relatively wide range of production philosophies and techniques among member producers to ensure that producers have maximum autonomy. For example, one producer community might prefer a relatively simple style of organic farming with a small number of crops while another aspires to build a complex system of circulating agriculture with a large diversity of crops and livestock supported by recycling of farm wastes from one part of the system as inputs to others. Still others, especially fruit producers, might find it impossible to grow without a limited use of home made natural pesticides. A dogmatic insistence on a single farming philosophy would exclude many farmers who might be unable to follow a one-size-fits-all system in the face of local conditions or other resource constraints. Hansalim's more flexible approach removes a significant barrier to entry for farmers who would otherwise need to spend a long time learning new techniques before starting to earn an income. This brings the added advantage that farmers who want to transition from conventional to organic farming can do so in a staged process while still making a living. However, it also creates a problem. How to maintain the trust of consumers when the diversity of production techniques is so wide?
 
-This brings us to the second feature of Hansalim's business model: simple and honest labeling.
-Transparency with consumer members is ensured through Hansalim's own labelling system.
-Products are labelled under four main categories:
+This brings us to the second feature of Hansalim's business model: simple and honest labeling. Transparency with consumer members is ensured through Hansalim's own labelling system. Products are labelled under four main categories:
 
-1. Organic (which would include conventional organic, permaculture and EM techniques);
-2. Pesticide-free (when crop types and local conditions make it non-viable to exclude use of fertilizers);
-3. Low pesticide (for certain fruit crops which would be prohibitively difficult to grow without a limited use of pesticides);
-4. Domestic (for miscellaneous grains such as wheat or barley which are used as raw ingredients in some processed goods).
+1.  Organic (which would include conventional organic, permaculture and EM techniques);
+2.  Pesticide-free (when crop types and local conditions make it non-viable to exclude use of fertilizers);
+3.  Low pesticide (for certain fruit crops which would be prohibitively difficult to grow without a limited use of pesticides);
+4.  Domestic (for miscellaneous grains such as barley or black bean which are used as raw ingredients in some processed goods and feed for livestock).
 
 For all four categories Hansalim's standards are stricter than the national safety standards and products are tested regularly for residues, contaminants and radiation as appropriate to protect trust between consumers and producers.
 
-To complement the flexibility and transparency of production methods the third feature - flexibility of supply - enhances the autonomy of producers and provides some added resilience to the system.
-Hansalim producers are not locked-in to exclusive supply contracts but have the freedom to supply whatever proportion of their crop to Hansalim they wish while simultaneously supplying through other channels such as government purchasing schemes for school meals.
-This applies to each producer community and also to each member of each community.
-So one farmer might supply 30% of their produce to Hansalim through their community while selling the rest through local government procurement for school meals.
-Or a producer community might sell Hansalim branded grapes through the Hansalim Federation while selling grape juice through another market under their own brand.
+To complement the flexibility and transparency of production methods the third feature - flexibility of supply - enhances the autonomy of producers and provides some added resilience to the system. Hansalim producers are not locked-in to exclusive supply contracts but have the freedom to supply whatever proportion of their crop to Hansalim they wish while simultaneously supplying through other channels such as government purchasing schemes for school meals. This applies to each producer community and also to each member of each community. So one farmer might supply 30% of their produce to Hansalim through their community while selling the rest through local government procurement for school meals. Or a producer community might sell Hansalim branded grapes through the Hansalim Federation while selling grape juice through another market under their own brand.
 
 Finally, for an additional level of flexibility, the contract-based system is supplemented by demand-based supply arrangements to allow greater flexibility for producers.
 
-Taken together, these four features of Hansalim's business model mean that, within and between producer communities the level of specialization or circular integration and the combination of sales channels are all decided by the producers themselves.
-This makes for an astonishingly diverse range of production operations each tailored to the local soil and climate conditions and preferences of producers themselves, while ensuring a stable guaranteed income to as many farmers as possible.
+Taken together, these four features of Hansalim's business model mean that, within and between producer communities the level of specialization or circular integration and the combination of sales channels are all decided by the producers themselves. This makes for an astonishingly diverse range of production operations each tailored to the local soil and climate conditions and preferences of producers themselves, while ensuring a stable guaranteed income to as many farmers as possible.
 
-::: {layout-nrow=7}
-
+::: {layout-nrow="7"}
 ![The word 'Hansalim' written in life alongside a rice paddy on Our Seed Farm in Goesan](../images/chapter_01/Our-Seed-Farm-Rice-Hansalim.jpeg){group="farms"}
 
 ![Rice terraces on Our Seed Farm in Goesan](../images/chapter_01/Our-Seed-Farm-Rice-Terrace.jpeg){group="farms"}
@@ -215,20 +145,14 @@ This makes for an astonishingly diverse range of production operations each tail
 ![Growing mushrooms on a Hansalim farm](../images/chapter_01/Mushrooms.jpeg){group="farms"}
 
 ![An orchard on a Hansalim farm on Jeju Island](../images/chapter_01/Jeju-Orchard.jpeg){group="farms"}
-
 :::
 
 ![Lowland farming at the foot of a mountain in Byeonsan at the Sandle-pada Hansalim Producer Community](../images/chapter_01/Byeonsan-Field-1.jpeg){group="farms"}
 
-These images show just a tiny snapshot of some of the different farming landscapes, crops and approaches which form Hansalim's complex agricultural systems.
-The system of labelling helps provide a sense of order to this complexity for the sake of Hansalim's consumer members and also facilitates the progression of Hansalim producers further away from conventional farming methods towards progressively more eco-friendly alternatives.
-Let's look at the overall share of production according to production type, crop type and supply type.
-The following graph, @fig-productionflow, shows the flow of goods by tons.
+These images show just a tiny snapshot of some of the different farming landscapes, crops and approaches which form Hansalim's complex agricultural systems. The system of labelling helps provide a sense of order to this complexity for the sake of Hansalim's consumer members and also facilitates the progression of Hansalim producers further away from conventional farming methods towards progressively more eco-friendly alternatives. Let's look at the overall share of production according to production type, crop type and supply type. The following graph, @fig-productionflow, shows the flow of goods by tons.
 
 :::: {#fig-productionflow}
-
 ::: {.content-hidden when-format="pdf"}
-
 ```{r}
 #| label: production flow
 
@@ -241,43 +165,26 @@ production.fig <- production.fig %>% layout(
 
 production.fig
 ```
-
 :::
 
 Flow of production quantities by type, crop and contract in 2023 (tons).
 ::::
 
-On the left you can see the four labelled production types of ***organic***, ***pesticide-free***, ***low-pesticide*** and ***domestic***.
-In the centre, the crop types are divided into ***vegetables***, ***staple grains***, ***roots and tubers***, ***fruit***, and ***miscellaneous grains***.
-On the right, crop types are categorized into supply type as either ***contract-based*** or ***demand-based*** supply.
-[If you interact with the graph you can see the number of tons of each combination.]{.content-visible when-format="html"}
-The majority of production is organic and this accounts for most of the vegetable cultivation, almost all staple grains and root and tubers.
-These crop types are almost entirely supplied on a contract-basis.
-Pesticide-free production accounts for some vegetable supply, a fraction of staple grains and some fruit crops.
-It is in fruit cultivation that higher proportion of crops are cultivated according to 'low-pesticide' standards.
-This is because many fruit crops are especially vulnerable to pests and would no be viable for producers without some use of non-synthetic pesticides.
-Miscellaneous grains are mostly produced under the domestic label and supplied on a demand-basis.
+On the left you can see the four labelled production types of ***organic***, ***pesticide-free***, ***low-pesticide*** and ***domestic***. In the centre, the crop types are divided into ***vegetables***, ***staple grains***, ***roots and tubers***, ***fruit***, and ***miscellaneous grains***. On the right, crop types are categorized into supply type as either ***contract-based*** or ***demand-based*** supply. [If you interact with the graph you can see the number of tons of each combination.]{.content-visible when-format="html"} The majority of production is organic and this accounts for most of the vegetable cultivation, almost all staple grains and root and tubers. These crop types are almost entirely supplied on a contract-basis. Pesticide-free production accounts for some vegetable supply, a fraction of staple grains and some fruit crops. It is in fruit cultivation that higher proportion of crops are cultivated according to 'low-pesticide' standards. This is because many fruit crops are especially vulnerable to pests and would no be viable for producers without some use of non-synthetic pesticides. Miscellaneous grains are mostly produced under the domestic label and supplied on a demand-basis.
 
-So what happens to the revenue from these sales?
-As I mentioned above, until recently, with margins well below 30%, Hansalim was able to return 73% or more of the product price to the producers.
-Now, following several years of rising costs and worsening impacts of climate change the margin has come under increasing pressure and currently stands at just over 31% which leaves almost 69% for producers.
-This table in @fig-margin shows the breakdown of what the margin covers.
+So what happens to the revenue from these sales? As I mentioned above, until recently, with margins well below 30%, Hansalim was able to return 73% or more of the product price to the producers. Now, following several years of rising costs and worsening impacts of climate change the margin has come under increasing pressure and currently stands at just over 31% which leaves almost 69% for producers. This table in @fig-margin shows the breakdown of what the margin covers.
 
-:::: {#fig-margin}
-
+::::: {#fig-margin}
 ::: {.content-visible when-format="pdf"}
-
-|Division|Rate | Subdivision | Rate |
-| --- | --- | --- | --- |
+| Division | Rate | Subdivision | Rate |
+|------------------|------------------|------------------|------------------|
 | Hansalim Federation | 0.81% | Subscription fees<br>Service revenue | 0.55%<br>0.26% |
 | Hansalim Business Federation | 8.86% | Business share rate<br>Production Support Fund<br>Price Stabilisation Fund | 8.61%<br>0.165%<br>0.085% |
 | Member Life Coops | 21.70% | Regional Margin Rate <br>Production Stabilisation Fund | 21.60%<br>0.10% |
-| Gross margin rate (GPR) | 31.37% | | |
-
+| Gross margin rate (GPR) | 31.37% |  |  |
 :::
 
 ::: {.content-hidden when-format="pdf"}
-
 ```{r}
 #| label: margin
 ```
@@ -332,20 +239,15 @@ This table in @fig-margin shows the breakdown of what the margin covers.
 </tbody>
 </table>
 ```
-
 :::
 
 The breakdown of Hansalim's margin in 2023.
-::::
+:::::
 
-That is virtually the reverse of conventional market distribution which usually takes a 50 - 70% margin.
-So what does this distribution of revenue look like from the point of view of the Life Coops, producers and the federal organisations?
-The following chart, @fig-valueflow, shows the flow of value (in euros) from the sales of goods (on the left) through each Life Coop (center) to the share of revenue provided to each category of organization (right).
+That is virtually the reverse of conventional market distribution which usually takes a 50 - 70% margin. So what does this distribution of revenue look like from the point of view of the Life Coops, producers and the federal organisations? The following chart, @fig-valueflow, shows the flow of value (in euros) from the sales of goods (on the left) through each Life Coop (center) to the share of revenue provided to each category of organization (right).
 
 :::: {#fig-valueflow}
-
 ::: {.content-hidden when-format="pdf"}
-
 ```{r}
 #| label: value flow
 
@@ -358,34 +260,26 @@ value.flow.fig <- value.flow.fig %>% layout(
 
 value.flow.fig
 ```
-
 :::
 
 Flow of value from sales revenue through each Life Coop to other organizations (euros).
 ::::
 
-You will notice that the vast majority of sales are of 'federation goods' which are those supplied through the business federation's distribution channels.
-A much smaller percentage of sales are accounted for by so-called 'local goods' which are supplied independently from Hansalim's central distribution system.
-The central column of the chart looks a bit messy, but the point is that the majority of sales are through shops managed by the Life Coops in Seoul and Gyeonggi (the province surrounding Seoul) which together form the largest and densest population centre in Korea.
-On the right hand side you can see that the share of revenue returned to producers is by far the largest, while the margin covers the budgets of the Life Coops and finally the Business Federation and the Hansalim Federation.
+You will notice that the vast majority of sales are of 'federation goods' which are those supplied through the business federation's distribution channels. A much smaller percentage of sales are accounted for by so-called 'local goods' which are supplied independently from Hansalim's central distribution system. The central column of the chart looks a bit messy, but the point is that the majority of sales are through shops managed by the Life Coops in Seoul and Gyeonggi (the province surrounding Seoul) which together form the largest and densest population centre in Korea. On the right hand side you can see that the share of revenue returned to producers is by far the largest, while the margin covers the budgets of the Life Coops and finally the Business Federation and the Hansalim Federation.
 
 This distribution revenue is achieved through a combination of:
 
-1. Recovered costs from distribution by removing the multiple opportunities from profit gauging by intermediaries;
-2. Prices set to reflect the true costs of production; and
-3. Economies of scope and scale achieved through shared business activities and collectively owned capital at local, regional and national levels.
+1.  Recovered costs from distribution by removing the multiple opportunities from profit gauging by intermediaries;
+2.  Prices set to reflect the true costs of production; and
+3.  Economies of scope and scale achieved through shared business activities and collectively owned capital at local, regional and national levels.
 
 After providing for producers' livelihoods, what then does the remaining 30% pay for?
 
 ### A different kind of consumer experience {.unnumbered}
 
-The largest portion (21.7%) goes to the Life Coops themselves to cover the costs of running stores, handling local distribution and their various educational, participation and engagement activities.
-Life Coops are autonomous member owned businesses which run the Hansalim stores in their local areas.
-They decide when and where to open new stores, how to manage them and how to organize local distribution options such as home delivery.
-Stores are usually run by an employed manager and the Life Coop's Store Activists (consumer members who are trained and paid to staff the stores) and products are ordered through the Hansalim Business Federation and delivered from their national logistics centre.
+The largest portion (21.7%) goes to the Life Coops themselves to cover the costs of running stores, handling local distribution and their various educational, participation and engagement activities. Life Coops are autonomous member owned businesses which run the Hansalim stores in their local areas. They decide when and where to open new stores, how to manage them and how to organize local distribution options such as home delivery. Stores are usually run by an employed manager and the Life Coop's Store Activists (consumer members who are trained and paid to staff the stores) and products are ordered through the Hansalim Business Federation and delivered from their national logistics centre.
 
-::: {layout-nrow=3}
-
+::: {layout-nrow="3"}
 ![North Seoul Hansalim, Yangju Store (2024)](../images/chapter_01/Yangju-store.jpeg){group="stores"}
 
 ![North Seoul Hansalim, Ssangmoon Store with home delivery vehicle](../images/chapter_01/Ssangmoon-Store.jpeg){group="stores"}
@@ -397,17 +291,11 @@ Stores are usually run by an employed manager and the Life Coop's Store Activist
 ![Hansalim Store and Food Culture Center at Jeju head office](../images/chapter_01/Hansalim-Jeju-Store-1.jpeg){group="stores"}
 
 ![Inside the store at the Jeju Hansalim head office](../images/chapter_01/Hansalim-Jeju-Store-2.jpeg){group="stores"}
-
 :::
 
-In a Hansalim store you can buy virtually everything you need from food to household goods and even cosmetics.
-Almost all these products are made by Hansalim producers and processors with a few exceptions for some household items and a handful of fair trade products.
-Hansalim branded sales through the business federation are supplemented by local goods sourced by each store according to the decision of each Life Coop.
-What this means is that there is usually just one type of everything you need rather than multiple brands of the same product so the shop size is relatively small compared to a regular supermarket.
-Here are a few examples of the products that are available in my local Hansalim store.
+In a Hansalim store you can buy virtually everything you need from food to household goods and even cosmetics. Almost all these products are made by Hansalim producers and processors with a few exceptions for some household items and a handful of fair trade products. Hansalim branded sales through the business federation are supplemented by local goods sourced by each store according to the decision of each Life Coop. What this means is that there is usually just one type of everything you need rather than multiple brands of the same product so the shop size is relatively small compared to a regular supermarket. Here are a few examples of the products that are available in my local Hansalim store.
 
-::: {layout-nrow=7}
-
+::: {layout-nrow="7"}
 ![Hansalim Rice](../images/chapter_01/Products-Rice.jpeg){group="products"}
 
 ![Sweet potatoes](../images/chapter_01/Products-Sweet-Potatoes.jpeg){group="products"}
@@ -435,24 +323,15 @@ Here are a few examples of the products that are available in my local Hansalim 
 ![Household cleaning products are also available including toilet paper and kitchen paper made in Hansalim's Anseong logistics centre from recycled milk and drinks cartons](../images/chapter_01/Products-Cleaning.jpeg){group="products"}
 
 ![There are a small number of Fair Trade goods from select partners in other countries such as Olive Oil and chocolate](../images/chapter_01/Products-Olive-Oil.jpeg)
-
 :::
 
-Hansalim stores also differ from a conventional supermarket in another way.
-They often provide the venue for member activities and encounters between consumers and producers facilitated by the Life Coop's Organizing Activists (members who are trained and paid to organize opportunities for consumers and producers to meet each other and share food and other activities together).
-From the beginning of Hansalim, relationship building among consumers and between consumers and producers has been a top priority.
+Hansalim stores also differ from a conventional supermarket in another way. They often provide the venue for member activities and encounters between consumers and producers facilitated by the Life Coop's Organizing Activists (members who are trained and paid to organize opportunities for consumers and producers to meet each other and share food and other activities together). From the beginning of Hansalim, relationship building among consumers and between consumers and producers has been a top priority.
 
 ![An activity room inside a Hansalim Store showing the small kitchen, library and meeting space](../images/chapter_01/Hansalim-Store-Activity-Room.jpeg){group="stores"}
 
-There are various ways consumers can build community together and participate in the livelihoods of producers.
-Neighbourhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc.
-'Helping hands' visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together.
-Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups.
-Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other.
-Producers also visit stores to introduce their new products and many develop special relationships with particular Life Coops as well as participating in Hansalim conferences and multistakeholder committees.
+There are various ways consumers can build community together and participate in the livelihoods of producers. Neighbourhood meetings and small groups provide a context for consumer members to learn and build relationships through reading groups, cooking classes, social activities, and environmental activism etc. 'Helping hands' visits are organized by Activists to bring members to help producers with farming activities such as planting, weeding and harvest and to join in with traditional rural rituals and share meals together. Community work is also an important shared activity in which members and producers raise money for charitable causes, donate food to people in need and provide education and support to marginalized groups. Consumers often visit the producer communities for local festivals or just to see the farm, share a meal and get to know each other. Producers also visit stores to introduce their new products and many develop special relationships with particular Life Coops as well as participating in Hansalim conferences and multistakeholder committees.
 
-::: {layout-nrow=6}
-
+::: {layout-nrow="6"}
 ![A visit to Nunbisan farm by Life Coop members](../images/chapter_01/Activity-Farm-Visit-1.jpeg){group="activities"}
 
 ![Sharing a meal during the visit to Nunbisan](../images/chapter_01/Activity-Sharing-Meal.jpeg){group="activities"}
@@ -476,18 +355,11 @@ Producers also visit stores to introduce their new products and many develop spe
 ![A 'yard sale' to raise money for charity organised by Hansalim Activists](../images/chapter_01/Activity-Charity-Sale.jpeg){group="activities"}
 
 ![A national research forum organised by Wonju Hansalim Life Coop](../images/chapter_01/Activity-Forum.jpeg){group="activities"}
-
 :::
 
-Each of these activities are supported by funds allocated in the budgets of the Life Coops and the Hansalim Federation which ultimately come from their combined sales.
-The chart below, @fig-participation, gives you an idea of the amount of interaction between consumers and producers in the course of a single year.
-It shows the number of 'person-visits' categorized by each Life Coop and by the type of activity in 2023.
-*Exchange* refers to activities involving interaction between producers and consumers and *engagement* refers to activities among consumers themselves.
-You can see that there were around 59,000 encounters between individuals in 2023 that were directly facilitated by Hansalim’s member Life Coops.
-Although many of these are repeat visits of individuals (so the total number of people involved will be somewhat less) you still get a sense of the sheer scale of relationship building that is going on within Hansalim.
+Each of these activities are supported by funds allocated in the budgets of the Life Coops and the Hansalim Federation which ultimately come from their combined sales. The chart below, @fig-participation, gives you an idea of the amount of interaction between consumers and producers in the course of a single year. It shows the number of 'person-visits' categorized by each Life Coop and by the type of activity in 2023. *Exchange* refers to activities involving interaction between producers and consumers and *engagement* refers to activities among consumers themselves. You can see that there were around 59,000 encounters between individuals in 2023 that were directly facilitated by Hansalim’s member Life Coops. Although many of these are repeat visits of individuals (so the total number of people involved will be somewhat less) you still get a sense of the sheer scale of relationship building that is going on within Hansalim.
 
 ::: {#fig-participation}
-
 ```{r}
 #| label: participation
 ```
@@ -497,15 +369,11 @@ Although many of these are repeat visits of individuals (so the total number of 
 Participation in 2023: engagement among consumers and exchanges between consumers and producers.
 :::
 
-In addition to selling to members and organizing member activities, Life Coops also engage with the wider community by running a whole range of educational activities and training, community kitchens, environmental campaigns and community building activities and some have also set up new cooperatives in solar power and in the care sector.
-On top of all these activities, the high point of Hansalim's cultural life are the festivals which are held at national and local levels.
-For example, the Autumn festivals bring producers and consumers together for food, drinking and traditional games and dancing.
-They provide a special context for making friends and creating a sense of shared identity and camaraderie.
+In addition to selling to members and organizing member activities, Life Coops also engage with the wider community by running a whole range of educational activities and training, community kitchens, environmental campaigns and community building activities and some have also set up new cooperatives in solar power and in the care sector. On top of all these activities, the high point of Hansalim's cultural life are the festivals which are held at national and local levels. For example, the Autumn festivals bring producers and consumers together for food, drinking and traditional games and dancing. They provide a special context for making friends and creating a sense of shared identity and camaraderie.
 
 ![Celebration Festival at Goesan](../images/chapter_01/Festival-Dragon-Flags.jpeg){group="festivals"}
 
-::: {layout-nrow=2}
-
+::: {layout-nrow="2"}
 ![Dancing at the festival in Goesan](../images/chapter_01/Festival-Dancers.jpeg){group="festivals"}
 
 ![Autumn harvest festival in Goesan (in the foreground is the rope used for the mass tug-of-war game!)](../images/chapter_01/Festival-Goesan-Dancers.jpeg){group="festivals"}
@@ -513,188 +381,37 @@ They provide a special context for making friends and creating a sense of shared
 ![Hansalim flag flying among the dancers at the Autumn festival](../images/chapter_01/Festival-Goesan-Flag.jpeg){group="festivals"}
 
 ![The being prepared for the giant tug-of-war game](../images/chapter_01/Festival-Goesan-Rope.jpeg){group="festivals"}
-
 :::
 
-For consumers and producers then, there is a lot of fun to be had as a member of a Hansalim community.
-This is a vitally important part of the rhythm of hard work broken up by fantastic celebrations and informal contexts for relaxation together.
-None of this would be possible, however, without the hard and often hidden work of the Practitioners.
+For consumers and producers then, there is a lot of fun to be had as a member of a Hansalim community. This is a vitally important part of the rhythm of hard work broken up by fantastic celebrations and informal contexts for relaxation together. None of this would be possible, however, without the hard and often hidden work of the Practitioners.
 
 ### The special role of practitioners {.unnumbered}
 
-In Hansalim, employees are referred to as 'practitioners.'
-They are the people who make it possible to put the producer-consumer relationship into practice by running the businesses, coordinating movement activities and organizing the many processes that are required to keep each member organization running and working together as a federation. 
-They are not only professionals in logistics, marketing, strategy etc. but they also act as mediators between consumer and producer members and their organizations.
-Whereas a manager in a corporate enterprise might be able to focus solely on negotiating financial dealings with clients and suppliers, Hansalim practitioners often find themselves also negotiating the complex conflicts in values and expectations between Hansalim members, making their role especially difficult and important.
+In Hansalim, employees are referred to as 'practitioners.' They are the people who make it possible to put the producer-consumer relationship into practice by running the businesses, coordinating movement activities and organizing the many processes that are required to keep each member organization running and working together as a federation. They are not only professionals in logistics, marketing, strategy etc. but they also act as mediators between consumer and producer members and their organizations. Whereas a manager in a corporate enterprise might be able to focus solely on negotiating financial dealings with clients and suppliers, Hansalim practitioners often find themselves also negotiating the complex conflicts in values and expectations between Hansalim members, making their role especially difficult and important.
 
-The largest employer of practitioners within Hansalim is the Business Federation which takes the next largest share of revenue after the Life Coops (8.86%) to cover the costs of labour, logistics, promotion and marketing, product development etc.
-One of the most important asset managed by the business federation is the Anseong Logistics Centre.
+The largest employer of practitioners within Hansalim is the Business Federation which takes the next largest share of revenue after the Life Coops (8.86%) to cover the costs of labour, logistics, promotion and marketing, product development etc. One of the most important asset managed by the business federation is the Anseong Logistics Centre.
 
 ![Hansalim's Anseong logistics and processing centre](../images/chapter_01/Logistics-Anseong.jpeg)
 
-Finally, the smallest share of the margin (0.81%) is used to fund the Hansalim Federation which organizes the national-level governance and policy-making processes, supports Hansalim's educational, cultural, publishing, research and charitable activities, coordinates collaboration and solidarity activities with others in Korea and abroad, and provides support to the member Life Coops.
+Finally, the smallest share of the margin (0.81%) is used to fund the Hansalim Federation which organizes the national-level governance and policy-making processes, supports Hansalim's educational, cultural, publishing, research and coordinates collaboration and solidarity activities with others in Korea and especially small-scale farmers abroad, and provides support to the member Life Coops.
 
-In 2023 there were a total of 291 practitioners working in the member Life Coops, a further 235 working for the Business Federation and 40 at the Hansalim Federation.
-These were supplemented by 1,396 Activists working in the stores and to organize member activities.
-Together with the 3,579 producers and processors they generate enough revenue to support themselves and the broader collective efforts of the Hansalim Life Movement to bring about social and cultural change towards a more sustainable way of living.
+In 2023 there were a total of 291 practitioners working in the member Life Coops, a further 235 working for the Business Federation and 40 at the Hansalim Federation. These were supplemented by 1,396 Activists working in the stores and to organize member activities (see @fig-federation below. Together with the 3,579 producers and processors they generate enough revenue to support themselves and the broader collective efforts of the Hansalim Life Movement to bring about social and cultural change towards a more sustainable way of living.
 
-With such a large and complex organisation, you might think that there must be some strong central authority controlling everything from the top down and making sure efficiency is maximised and operations meticulously coordinated.
-Happily (or perhaps sadly, depending on your point of view) that is not the case in Hansalim.
+A report by Hansalim in 2020 estimated that, across the whole of Hansalim:
+
+> "There are 489 practitioners, 1,544 activists, 238 executives, 337 others, and a total of 2,370 members nationwide who organise this vast membership into businesses and movements. Add to this the 2,192 primary producers and 1,241 processors, and you have 6,041 people (as of December 2019) supporting their families."[@Hansalim2020-rw]
+
+With such a large and complex organisation, you might think that there must be some strong central authority controlling everything from the top down and making sure efficiency is maximised and operations meticulously coordinated. Happily (or perhaps sadly, depending on your point of view) that is not the case in Hansalim.
 
 ## Governed through deliberative democracy
 
-One of the most extraordinary features of Hansalim is the depth of their commitment to deliberative democracy and local autonomy.
-This emphasis on democracy has deep roots.
-These roots traverse Korea's pro-democracy movement during the 1960s and 70s (in which many of the Hansalim founders were involved[@Kim2019-dd]), the independence movement during Japanese colonial rule from 1910-1945[@Kim2017-xf] and finally also in Korea's traditional rural institutions known as Dure (farmers village cooperatives) and Gye (village credit unions) which existed during the Joseon dynasty prior to the colonial era and which probably originated even earlier in Korea's ancient past.[@Lee2006-cw]
-A bit of history is in order to help understand the significance of democracy in Hansalim (see @fig-timeline).
-
-### Rooted in history {.unnumbered}
-
-This part of the story starts in 1919 with the March First Movement and the struggle for independence against Japanese colonial rule.
-As part of this movement the first credit union was established in April 1919, the Kangkye Public Co-operative.[@Kim2017-xf, p. 355]
-Soon, similar cooperatives were established among housewives, students, workers, and farmers to promote the economic independence of Koreans from colonial domination.
-By 1938 there were more than 500 cooperatives with at least 140,000 members which helped to support the livelihoods of the poor and provide education to preserve the Korean language and cultural identity.[@Kim2022-im]
-
-::: {#fig-timeline}
-
-```{r}
-#| label: timeline
-```
-
-![](../diagrams/timeline.png){group="diagrams"}
-
-Timeline of Korean history and evolution of the cooperative movement
-:::
-
-From the 1950s onwards, following the Korean war, grassroots cooperatives that had emerged as part of the anti-colonial independence movement in the 1920s and 30s began to re-form.
-At the same time the state adopted the colonial era apparatus of cooperatives created by the Japanese to control the rural and industrial economy.
-Park Chung-hee united the agricultural and financial cooperatives created by the colonial government to form the National Agricultural Cooperative Federation (NACF or Nonghyup) which now boasts of being one of the worlds’ largest agricultural cooperatives.
-Although it is called a cooperative, it functioned as a para-state organisation and was used as a bureaucratic tool of state control to drive through the green revolution in agriculture and to manipulate political support for the Park regime among the rural population.[@Burmeister2006-aa]
-
-In contrast, closely connected to the emerging anti-Park democratisation movement, grassroots cooperatives started to spread again and to promote cooperative ideas throughout the country, establishing schools, consumer cooperatives, credit unions, and medical cooperatives to respond to the desperate need for affordable medical treatment for survivors of the war.[@Kim2017-xf]
-The organic farming movement also began to spread through the influence of the Poolmoo school (now known as Poolmoowon) which established the first consumer cooperative in 1959 in South Chungcheong Province and, starting in 1975, developed the largest organic farming region in Korea.
-Through the 1970s and early 1980s, the pro-democracy Catholic Farmers Movement, Catholic Priests' Association for Justice (CPAJ) and other Christian groups, credit unions and consumer cooperatives along with democratic movements among factory workers, peasant farmers, and students continued to increase in influence and spread throughout the country.
-
-Among the leaders of this movement was the Catholic Bishop Ji Hak-soon, who became the first bishop of Wonju in 1965.
-He had left North Korea before the war to train as priest in Rome and, while there, he was deeply impacted by the spirit of the Vatican Two Council which urged the church to become more outward focused on the needs of local communities and to support ecumenical unity; to become a church run by and for the people, and for the poor and marginalised in particular.[@Kim2019-dh]
-
-It was in Wonju, that Ji Hak-soon met Jang Il-soon who was to become one of his closest friends.
-Jang Il-soon was a native of Wonju and quit Seoul National University (SNU) after the war to found Daeseong School in Wonju to provide a free education to local children.
-After a failed attempt to run for political office, he spent three years in prison between 1961 and 63, originally facing a death sentence, accused of being a communist.
-After his sentence was commuted and he was released the state put him under surveillance and prohibited him from public lecturing or writing.
-With no other options, he became a farmer and an artist, painting calligraphy which he gave away to everyone and anyone.
-Within the context of the church, Ji Hak-soon gave him the opportunity to teach again and, in 1967, he began training lay Catholic members to prepare for a transformation of the church into a self-reliant lay-centred organisation that supported a wider rural development movement of credit unions and cooperatives.[@Kim2019-dd, p. 133]
-
-With a population of just 100,000, Wonju diocese was an impoverished region of coal-mining and farming communities.
-The church was dependent upon foreign aid for its survival and the town itself was a cultural backwater with very few resources.
-As soon as Ji Hak-soon took office he and Jang Il-soon set up Wonju's first credit union in 1966 and founded Jinkwang Middle School in 1967.
-Jang Il-soon began to organise training courses for cooperative and credit union members and established the Cooperative Education Institute in Jinkwang school to develop the cooperative movement beyond the Catholic Church.[@Kim2019-dh]
-The school's students and teachers also created the first school cooperative in Korea, Jinkwang Cooperative, to purchase books and equipment and run the canteen.
-
-One of the teachers at the school was Park Jae-il.
-In 1969, after his after his release from prison for his involvement in the June 3rd Movement (protests against the military regime's policy toward Japan) he moved to Wonju to join the Social Development Committee and the Catholic Farmers' Association, led by Bishop Ji Hak-soon.
-He became a teacher at Jinkwang School and attended one of Jang Il-soon's lectures after school one day.
-He was so captivated by the vision for reviving cooperation among the common people that he quit teaching to join the cooperative movement full time, taking up a key role in the Cooperative Education Institute.
-From that moment he became a lifelong student of Jang Il-soon and worked alongside him and Bishop Ji Hak-soon in the cooperative and rural development movement in Wonju.
-He would later become the president of the Catholic Farmers Association and then Hansalim's first chair of directors.
-
-In addition to promoting education Ji Hak-soon also built cultural spaces, hospitals and welfare facilities for the disabled.
-Among these projects, the most significant was the cultural centre which he built in front of Wonju Cathedral.
-Sponsored by religious organisations from Europe and the United States and dedicated on July 12th 1968, the Wonju Catholic Center was the first civic cultural centre of the Korean Catholic Church.
-The three story building -- run by the diocese and staffed by young lay church members -- included offices, meeting rooms, an exhibition hall, projection room, first-floor cafeteria, basement room and dormitories.
-It quickly became a popular meeting place for young people and a hive of creative activity, hosting performances by local musicians and exhibitions by local artists.
-The main hall was used to stage plays by Wonju's Sanya Theatre Company directed by Jang Il-soon's younger brother Jang Sang-soon and the basement room was the venue for DJs to play pop and classical music from a record collection which apparently exceeded even that of the local radio station!
-
-Around the Bishop, Jang Il-soon, Park Jae-il and their friends, an informal network of pro-democracy and cooperative movement activists began to gather.
-The Wonju Group, as they were known, began to expand the cooperative movement beyond Wonju into Gangwon province and to forge links across religious and ideological divides.
-Both Jang Il-soon and Ji Hak-soon made a point of reaching out beyond the boundaries of the Catholic church to other religious groups, not only to other Christian dominations but also to Buddhists.
-Priests, pastors and monks would visit each others congregations to preach and meet regularly at restaurants to share meals and talk together.
-The Catholic Church in Wonju became a church not only for believers but for all people striving to build a better and more democratic society.
-Following the example of Jesus, they sought to serve those in need without distinction and to freely support all who worked for the good of the whole community.[^personal]
-
-[^personal]: Personal communication from a relative of a Wonju Hansalim founder.
-
-Jang Il-soon saw the cooperative movement as a training ground for democracy for the whole community and a means of empowering people to become responsible citizens.[@Kim2019-dd, p. 152]
-He described it as a "movement for service to the masses, abandoning arrogance and radical elite consciousness." and a "downward crawling movement."[@Kim2019-dd, p. 135]
-In his lectures, Jang Il-soon reminded people of their own traditional culture of rural cooperation in Korea through Dure (farmers coops), Gye (village credit unions) and Pumasi (informal labour exchange).
-He referenced the 19th century history of cooperation in the British working class (the Rochdale Pioneers) and the credit union movements in France and Germany as examples of people finding ways to break free from corporate exploitation and live together on their own terms through mutual aid and self-reliance.[@Kim2019-dd, p. 136]
-He drew inspiration not only from Jesus's teachings but also from Buddhist scriptures, Daoist and Confucian philosophy and Ghandi's example of non-violent resistance to enlarge people's awareness of themselves and the world.
-
-As a symbol of this broad and inclusive vision, the Wonju Catholic Centre became a hub for students and other pro-democracy activists and writers who gathered from Wonju and beyond to talk and drink late into the evenings in the cosy basement room.
-One of those young people was a poet named Kim Young-il who wrote under the pen name "Ji-ha" (芝河).
-Originally from Mokpo, Kim Ji-ha had moved as a child to Wonju with his parents.
-At Seoul National University he became active within the pro-democracy movement in Seoul and, when he returned to Wonju, he brought with him a cast of activists and artists who quickly joined forces with the growing cultural movement (minjung movement) in Wonju.
-Together they created yard plays (a form of traditional peasant theatre called madang-geuk, 마당극), troupe dances and plays for theatre.
-These plays raised the profile of Wonju among the wider national minjung movement and before long, Wonju was being called "the holy land of democratisation."[@Kim2019-dd, p. 165]
-
-Together, with the Wonju Group, Jang Il-soon and Ji Hak-soon reorganised the church in the Wonju diocese into a network of self-governing self-supporting parishes and set up a program of education and training aimed at empowering the poor and marginalised to form self-sufficient self-governing communities across Gangwon province.
-Their vision was for a cooperative movement that was economically and politically independent from the authoritarian state and which promoted rural and urban development led by communities themselves.
-
-::: {layout-nrow=2}
-
-![Ji Hak-soon (1921-1993) - Bishop of Wonju, founder of Wonju Credit Union and Cooperative Movements](../images/chapter_01/Founders-Ji-Hak-soon.jpg)
-
-![Jang Il-soon (1928-1994) - teacher, farmer, artist, Hansalim founder](../images/chapter_01/Founders-Jang-Il-soon.jpeg)
-
-![Park Jae-il (1938-2010) - farmer, activist, Hansalim founder](../images/chapter_01/Founders-Park-Jae-il.jpeg)
-
-![Kim Ji-ha (1941-2022) - Poet, activist, Hansalim founder](../images/chapter_01/Founders-Kim-Ji-ha.jpeg)
-
-:::
-
-However, just as things were starting to take off catastrophe hit.
-In 1972 the large-scale flooding of the Namhan River basin caused widespread devastation in Gangwon and surrounding provinces.
-In Wonju Diocese the floods damaged 50,000 buildings[@Kim2019-dd] and displaced 100,000 people.[@Kim2019-dh]
-Bishop Ji Hak-soon went to Germany to ask for funds from the catholic charities Miserere and Caritas to support rebuilding.
-With the money they provided (2.91 million marks or around $360,000) he set up a Disaster Countermeasures Project Committee to coordinate a long-term recovery project.
-Instead of simply providing unconditional aid, as was normally done under such circumstances, the committee targeted their resources at supporting communities to become self-sufficient.
-Food and money were given as wages for productive work rebuilding communities, restoring farmland and developing new income sources for farmers such as setting up village craft workshops.
-
-Young people from the Wonju Diocesan Youth Association who had been involved with the cooperative movement in Wonju were recruited to act as counsellors.
-This title of 'counsellor' was chosen intentionally to avoid the impression that they were responsible for leading or directing the disaster response.
-Instead, their role was to visit the affected villages, learn about their needs and provide advice and training to enable villagers to take leadership of the reconstruction and development process themselves.
-The requirements for receiving support for projects were that they were productive so as to provide a steady income, communal rather than individual and managed cooperatively by the villagers.
-The ultimate goal was to rebuild solidarity within and between village communities who had suffered years of exploitation under colonial and now military rule that had lead to widespread mistrust.
-
-This was a particularly special time for Jang Il-soon.
-He began to see what he had been dreaming of for so many years take shape in reality in his own community.
-Hundreds of villages across three provinces participated, creating credit unions and cooperatives, restoring the culture of shared agricultural labour and managing their affairs democratically through village assemblies.
-Others saw what was happening too and the pattern of rural development through cooperation that began in Wonju spread across the country.[@Kim2019-dd]
-
-```{r}
-#| label: carry on from here!!
-```
-
-Something about their reflections on the 70s and experience with the disaster recovery and new directions when Kim Ji-ha came out of prison.
-
-However, despite the success of the flood recovery project, they had become discouraged by the failure of the movement to halt the destructive progress of industrialisation.
-They were also worried by the rise of militant marxism among the vanguard of the democracy movement which was becoming increasingly violent.
-They had hoped for an alternative to the fundamentally destructive tendencies of capitalist and socialist industrialisation in the cooperative movement but they began to recognise that cooperatives were also vulnerable to same fundamental problem that lay at the heart of industrial civilisation.
-That problem was a materialist, mechanistic view of the world which viewed humans and all life as replaceable parts in the machine of economic growth.
-It was this worldview that gave rise to the characteristics of domination, alienation, separation and oppression in modern society.
-
-When preparing to launch a new kind of cooperative movement, the Life Movement, the Hansalim founders drew on their own long experience of cooperation in Wonju and also studied the experience of other movements around the world.
-They took note of the cautionary tales democratic decline among the western cooperative movement and their own past struggles to mobilise members and manage participation.
-
-
-==Currently, 150,000 people, or 44% of Wonju's population of 360,000, are credit union members (141). The credit union has accumulated more than 1 trillion won in assets, contributing significantly to the development of the community.==[Jang Il-soon bio]
-
+One of the most extraordinary features of Hansalim is the depth of their commitment to deliberative democracy and local autonomy. This emphasis on democracy has deep roots, but before we explore those in more detail it is worth having overview of how Hansalim fits together today as a federation of democratic organisations. The governance structure of Hansalim is based on the principles of subsidiarity, mutual responsibility and deliberation rather than top down command and control.
 
 ### Subsidiarity {.unnumbered}
 
-Below, @fig-federation, is a diagram of Hansalim's various organizations as they existed in 2023 and how they related to each other, laid out in order of how authority is delegated from top to bottom.
-At the top are the individual members. The 890,000 Member households and the 3,579 Producers.
-They are the owners of Hansalim.
-Below you can see the Life Coops, Producer Organizations and the Support Organizations and in the box labelled 'Member Organisations Autonomous Activities' I have listed the numbers of people involved (as far as data is available).
-The word 'Practitioner' here is Hansalim's term for employed staff member (as mentioned above).
-Remember that 'Activists' refers to consumer members paid to either organise producer-consumer activities or work in the stores.
-Between them, the member organisations elect a total of 212 delegates to the General Assembly of the Hansalim Federation (maximum two 1-year terms).
-The General Assembly elects a board of 36 directors including the chair of directors who holds the title of president (maximum two 2-year terms).
-The board appoints the executive directors of the Federation, the Business Federation and the support organizations but cannot interfere with the governance and management of the member Life Coops or producer organizations.
-The standing committees, conferences and steering committees are where deliberations take place over policy and strategy decisions and they operate at local and national level involving producers, members and practitioners.
+Below, @fig-federation, is a diagram of Hansalim's various organizations as they existed in 2023 and how they related to each other, laid out in order of how authority is delegated from top to bottom. At the top are the individual members. The 890,000 Member households and the 3,579 Producers. They are the owners of Hansalim. Below you can see the Life Coops, Producer Organizations and the Support Organizations and in the box labelled 'Member Organisations Autonomous Activities' I have listed the numbers of people involved (as far as data is available). The word 'Practitioner' here is Hansalim's term for employed staff member (as mentioned above). Remember that 'Activists' refers to consumer members paid to either organise producer-consumer activities or work in the stores. Between them, the member organisations elect a total of 212 delegates to the General Assembly of the Hansalim Federation (maximum two 1-year terms). The General Assembly elects a board of 36 directors including the chair of directors who holds the title of president (maximum two 2-year terms). The board appoints the executive directors of the Federation, the Business Federation and the support organizations but cannot interfere with the governance and management of the member Life Coops or producer organizations. The standing committees, conferences and steering committees are where deliberations take place over policy and strategy decisions and they operate at local and national level involving producers, members and practitioners.
 
 ::: {#fig-federation}
-
 ```{r}
 #| label: federation
 ```
@@ -708,13 +425,9 @@ So you see that neither the Hansalim Federation nor the Business Federation are 
 
 ### Mutual responsibilities {.unnumbered}
 
-The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram, @fig-stakeholders, which was published in the Hansalim 2017 White Paper.[@Hansalim2017-qp]
-I have reproduced it here with some minor modifications and translated it into English.
-With the Hansalim Federation at the centre each of the stakeholders are listed along with their mutual responsibilities in relation to the Federation.
-Hansalim’s stakeholders include five categories: Producers, Members (i.e. consumer members), Practitioners, Activists and the Local Community.
+The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram, @fig-stakeholders, which was published in the Hansalim 2017 White Paper.[@Hansalim2017-qp] I have reproduced it here with some minor modifications and translated it into English. With the Hansalim Federation at the centre each of the stakeholders are listed along with their mutual responsibilities in relation to the Federation. Hansalim’s stakeholders include five categories: Producers, Members (i.e. consumer members), Practitioners, Activists and the Local Community.
 
 ::: {#fig-stakeholders}
-
 ```{r}
 #| label: stakeholders
 ```
@@ -724,71 +437,178 @@ Hansalim’s stakeholders include five categories: Producers, Members (i.e. cons
 A map of Hansalim stakeholders and their responsibilities.
 :::
 
-Along with Producers, the Members share the main responsibility for governance of the federation and their local associations and Life Coops.
-Members elect delegates to the General Assembly, participate in committees, respond to and carry out member surveys and also govern the business and movement activities of their own Life Coops.
-Members are also expected to consume responsibly and encouraged to participate in activities to support producers and help the local community.
-From the Federation they receive goods produced according to Hansalim standards and values as well as support (organisational and financial) for member engagement activities and member education.
+Along with Producers, the Members share the main responsibility for governance of the federation and their local associations and Life Coops. Members elect delegates to the General Assembly, participate in committees, respond to and carry out member surveys and also govern the business and movement activities of their own Life Coops. Members are also expected to consume responsibly and encouraged to participate in activities to support producers and help the local community. From the Federation they receive goods produced according to Hansalim standards and values as well as support (organisational and financial) for member engagement activities and member education.
 
-Producers also elect delegates to the General Assembly, participate in the production consultation system and respond to and carry out producer surveys.
-Their responsibility to the federation is to produce goods according to Hansalim standards and values and in return the federation is tasked with ensuring that their livelihoods are sustainable.
+Producers also elect delegates to the General Assembly, participate in the production consultation system and respond to and carry out producer surveys. Their responsibility to the federation is to produce goods according to Hansalim standards and values and in return the federation is tasked with ensuring that their livelihoods are sustainable.
 
-The Practitioners' main responsibility is for running the business activities of the member organisations and the shared business organisations (i.e. the Business Federation) but they also play a role in supporting the governance and movement activities.
-Although Practitioners are not directly represented in the General Assembly, the executive directors (a Practitioner role) sit on the board of directors at each level of organisation from member to federation respectively.
-The Workplace life council is the closest thing to a labour union in its role of representing the interests of Practitioners.
-The Federation's responsibility to Practitioners is to support their training and performance and increase job satisfaction.
-However, the role of Practitioners has evolved over time and is becoming increasingly ambiguous.
-Originally, during Hansalim's early days, their main role was to act as a bridge between producers and consumers while running the business activities.
-In the beginning people joined Hansalim as Practitioners to support their shared vision and often worked very long hours for low pay doing whatever was needed.
-Now, as Hansalim has grown larger, many of those who worked for Hansalim from the early days have taken on managerial positions while the hiring of new employees has become more formalized and specialized.
-As a consequence, the role of Practitioners as a bridge between consumers and producers has become weaker and the emphasis has shifted towards running business operations.
+The Practitioners' main responsibility is for running the business activities of the member organisations and the shared business organisations (i.e. the Business Federation) but they also play a role in supporting the governance and movement activities. Although Practitioners are not directly represented in the General Assembly, the executive directors (a Practitioner role) sit on the board of directors at each level of organisation from member to federation respectively. The Workplace life council is the closest thing to a labour union in its role of representing the interests of Practitioners. The Federation's responsibility to Practitioners is to support their training and performance and increase job satisfaction. However, the role of Practitioners has evolved over time and is becoming increasingly ambiguous. Originally, during Hansalim's early days, their main role was to act as a bridge between producers and consumers while running the business activities. In the beginning people joined Hansalim as Practitioners to support their shared vision and often worked very long hours for low pay doing whatever was needed. Now, as Hansalim has grown larger, many of those who worked for Hansalim from the early days have taken on managerial positions while the hiring of new employees has become more formalized and specialized. As a consequence, the role of Practitioners as a bridge between consumers and producers has become weaker and the emphasis has shifted towards running business operations.
 
-Activists were originally member volunteers whose role was to organize consumer activities and also act as a bridge with producers.
-After a while, it was decided that they should be financially compensated for their work and their roles should be more clearly specified.
-Now, Activists are members who have received training for specific roles and are paid a wage to work in the stores, receive phone orders and organize various activities for producers and members.
+Activists were originally member volunteers whose role was to organize consumer activities and also act as a bridge with producers. After a while, it was decided that they should be financially compensated for their work and their roles should be more clearly specified. Now, Activists are members who have received training for specific roles and are paid a wage to work in the stores, receive phone orders and organize various activities for producers and members.
 
-The Local Community is included as a stakeholder category as producers, members and activists seek to identify and take action on local needs.
-They work with local community organizations and representatives of such organizations are also invited to participate on various councils as appropriate.
-In fact, it is quite common for Hansalim members and producers to simultaneously hold official positions in Hansalim and other local grassroots organizations and social enterprises.
+The Local Community is included as a stakeholder category as producers, members and activists seek to identify and take action on local needs. They work with local community organizations and representatives of such organizations are also invited to participate on various councils as appropriate. In fact, it is quite common for Hansalim members and producers to simultaneously hold official positions in Hansalim and other local grassroots organizations and social enterprises.
 
-The organizational role of the Hansalim Federation in this structure is to support each of these different stakeholders to realize their own and Hansalim’s values in their various activities.
-However, the Hansalim Federation as a specific organisation did not exist until 2011 and the Business Federation wasn't created until 2002 when 
+The organizational role of the Hansalim Federation in this structure is to support each of these different stakeholders to realize their own and Hansalim’s values in their various activities. A large part of this involves organising committees and meetings, collecting opinions from members and supporting the deliberative process among member organisations through training, research and timely communication of information about each area of business and activism.
+
+### Deliberation {.unnumbered}
+
+The deliberative processes in Hansalim encompasses the grassroots groups and conferences and work their way through the various levels of organisation to the committees, boards of directors and general assemblies at local and national level. Formal meetings are required to follow the regulations in the articles of association and bylaws and are usually run according to an adapted set of rules from Robert's Rules of Order by Henry Martyn Robert (1837-1923)[@Hansalim2020-rw] and scrupulously minuted and reported. Opinions are also gathered through online forums, member surveys and organisation messaging boards. Finally, the auditing process provides an opportunity for independent monitoring and constructive criticism from people elected to the Supervisory Council.
+
+At the heart of the deliberative process is the delegate system In each Life Coop where the number of members is large enough to make direct participation impractical, delegates are elected with the responsibility of reflecting the opinions of the wider membership through their participation in the General Assembly. Their core role is to 'ensure that the wishes of members are properly and responsibly represented'.[@Hansalim2018-zz] Thus, in addition to attending the General Assembly to vote on decisions and elect directors, they are expected to be the channel of communication between the board of directors and members. To fulfil this role they need to join in with member activities and gatherings, listen to the opinions of other members, build relationships of trust and participate in the regular briefing sessions in preparation for the General Assembly. The term of office for delegates is set by the articles of association of each Life Coop within a range of four years. As members of the General Assembly they have the authority to amend the articles of association, elect and remove officers (i.e. members of the board of directors and executive directors), approve financial reports and budget plans, approve the supervisory council reports and decide on refunds of invested contributions to members who withdraw or are expelled.
+
+This is quite a heavy responsibility for an unpaid position and the success of the deliberative process depends upon the voluntary commitment of members willing to take up responsibility for democratic management of the cooperative. It also looks like a very inefficient system of management which requires excessive amounts of time and resources for the sake of a very slow decision making process. So how can we explain the persistence of Hansalim members with such a cumbersome system of governance? And does it bring any benefits that justify the continuing investment of time and energy?
+
+A quick detour through history is in order to help understand the significance of democracy for Hansalim (see @fig-timeline).
+
+## Rooted in a history of struggle
+
+For the Hansalim founders, democracy was not simply a suitable management structure but a fundamental way of life that had been tested and proved through decades of struggle against dictatorship going back the pro-democracy movement during the the 1960s and 70s (in which many of the Hansalim founders were involved[@Kim2019-dd]), 
+
+This part of the story starts in 1919 with the March First Movement and the struggle for independence against Japanese colonial rule. As part of this movement the first credit union was established in April 1919, the Kangkye Public Co-operative.[@Kim2017-xf, p. 355] Soon, similar cooperatives were established among housewives, students, workers, and farmers to promote the economic independence of Koreans from colonial domination. By 1938 there were more than 500 cooperatives with at least 140,000 members which helped to support the livelihoods of the poor and provide education to preserve the Korean language and cultural identity.[@Kim2022-im]
+
+::: {#fig-timeline}
+```{r}
+#| label: timeline
+```
+
+![](../diagrams/timeline.png){group="diagrams"}
+
+Timeline of Korean history and evolution of the cooperative movement
+:::
+
+From the 1950s onwards, following the Korean war, grassroots cooperatives that had emerged as part of the anti-colonial independence movement in the 1920s and 30s began to re-form. At the same time the state adopted the colonial era apparatus of cooperatives created by the Japanese to control the rural and industrial economy. Park Chung-hee united the agricultural and financial cooperatives created by the colonial government to form the National Agricultural Cooperative Federation (NACF or Nonghyup) which now boasts of being one of the worlds’ largest agricultural cooperatives. Although it is called a cooperative, it functioned as a para-state organisation and was used as a bureaucratic tool of state control to drive through the green revolution in agriculture and to manipulate political support for the Park regime among the rural population.[@Burmeister2006-aa]
+
+In contrast, closely connected to the emerging anti-Park democratisation movement, grassroots cooperatives started to spread again and to promote cooperative ideas throughout the country, establishing schools, consumer cooperatives, credit unions, and medical cooperatives to respond to the desperate need for affordable medical treatment for survivors of the war.[@Kim2017-xf] The organic farming movement also began to spread through the influence of the Poolmoo school (now known as Poolmoowon) which established the first consumer cooperative in 1959 in South Chungcheong Province and, starting in 1975, developed the largest organic farming region in Korea. Through the 1970s and early 1980s, the pro-democracy Catholic Farmers Movement, Catholic Priests' Association for Justice (CPAJ) and other Christian groups, credit unions and consumer cooperatives along with democratic movements among factory workers, peasant farmers, and students continued to increase in influence and spread throughout the country.
+
+Among the leaders of this movement was the Catholic Bishop Ji Hak-soon, who became the first bishop of Wonju in 1965. He had left North Korea before the war to train as priest in Rome and, while there, he was deeply impacted by the spirit of the Vatican Two Council which urged the church to become more outward focused on the needs of local communities and to support ecumenical unity; to become a church run by and for the people, and for the poor and marginalised in particular.[@Kim2019-dh]
+
+It was in Wonju, that Ji Hak-soon met Jang Il-soon who was to become one of his closest friends. Jang Il-soon was a native of Wonju and dropped out of Seoul National University (SNU) after the war to found Daeseong School in Wonju to provide a free education to local children. After a failed attempt to run for political office, he spent three years in prison between 1961 and 63, originally facing a death sentence, accused of being a communist. After his sentence was commuted and he was released the state put him under surveillance and prohibited him from public lecturing or writing. With no other options, he became a farmer and an artist, painting calligraphy which he gave away to everyone and anyone. Within the context of the church, Ji Hak-soon gave him the opportunity to teach again and, in 1967, he began training lay Catholic members to prepare for a transformation of the church into a self-reliant lay-centred organisation that supported a wider rural development movement of credit unions and cooperatives.[@Kim2019-dd, p. 133]
+
+With a population of just 100,000, Wonju diocese was an impoverished region of coal-mining and farming communities. The church was dependent upon foreign aid for its survival and the town itself was a cultural backwater with very few resources. As soon as Ji Hak-soon took office he and Jang Il-soon set up Wonju's first credit union in 1966 and founded Jinkwang Middle School in 1967. Jang Il-soon began to organise training courses for cooperative and credit union members and established the Cooperative Education Institute in Jinkwang school to develop the cooperative movement beyond the Catholic Church.[@Kim2019-dh] The school's students and teachers also created the first school cooperative in Korea, Jinkwang Cooperative, to purchase books and equipment and run the canteen.
+
+One of the teachers at the school was Park Jae-il. In 1969, after his after his release from prison for his involvement in the June 3rd Movement (protests against the military regime's policy toward Japan) he moved to Wonju to join the Social Development Committee and the Catholic Farmers' Association, led by Bishop Ji Hak-soon. He became a teacher at Jinkwang School and attended one of Jang Il-soon's lectures after school one day. He was so captivated by the vision for reviving cooperation among the common people that he quit teaching to join the cooperative movement full time, taking up a key role in the Cooperative Education Institute. From that moment he became a lifelong student of Jang Il-soon and worked alongside him and Bishop Ji Hak-soon in the cooperative and rural development movement in Wonju. He would later become the president of the Catholic Farmers Association and then Hansalim's first chair of directors.
+
+In addition to promoting education Ji Hak-soon also built cultural spaces, hospitals and welfare facilities for the disabled. Among these projects, the most significant was the cultural centre which he built in front of Wonju Cathedral. Sponsored by religious organisations from Europe and the United States and dedicated on July 12th 1968, the Wonju Catholic Center was the first civic cultural centre of the Korean Catholic Church. The three story building -- run by the diocese and staffed by young lay church members -- included offices, meeting rooms, an exhibition hall, projection room, first-floor cafeteria, basement room and dormitories. It quickly became a popular meeting place for young people and a hive of creative activity, hosting performances by local musicians and exhibitions by local artists. The main hall was used to stage plays by Wonju's Sanya Theatre Company directed by Jang Il-soon's younger brother Jang Sang-soon and the basement room was the venue for DJs to play pop and classical music from a record collection which apparently exceeded even that of the local radio station!
+
+Around the Bishop, Jang Il-soon, Park Jae-il and their friends, an informal network of pro-democracy and cooperative movement activists began to gather. The Wonju Group, as they were known, began to expand the cooperative movement beyond Wonju into Gangwon province and to forge links across religious and ideological divides. Both Jang Il-soon and Ji Hak-soon made a point of reaching out beyond the boundaries of the Catholic church to other religious groups, not only to other Christian dominations but also to Buddhists. Priests, pastors and monks would visit each others congregations to preach and meet regularly at restaurants to share meals and talk together. The Catholic Church in Wonju became a church not only for believers but for all people striving to build a better and more democratic society. Following the example of Jesus, they sought to serve those in need without distinction and to freely support all who worked for the good of the whole community.[^01_hansalim-2]
+
+[^01_hansalim-2]: Personal communication from a relative of a Wonju Hansalim founder.
+
+Jang Il-soon saw the cooperative movement as a training ground for democracy for the whole community and a means of empowering people to become responsible citizens.[@Kim2019-dd, p. 152] He described it as a "movement for service to the masses, abandoning arrogance and radical elite consciousness." and a "downward crawling movement."[@Kim2019-dd, p. 135] In his lectures, Jang Il-soon reminded people of their own traditional culture of rural cooperation in Korea through Dure (farmers coops), Gye (village credit unions) and Pumasi (informal labour exchange). He referenced the 19th century history of cooperation among the British working class (the Rochdale Pioneers) and the credit union movements in France and Germany as examples of people finding ways to break free from corporate exploitation and live together on their own terms through mutual aid and self-reliance.[@Kim2019-dd, p. 136] He drew inspiration not only from Jesus's teachings but also from Buddhist scriptures, Daoist and Confucian philosophy, Korean traditional spirituality and Ghandi's example of non-violent resistance to enlarge people's awareness of themselves and the world.
+
+As a symbol of this broad and inclusive vision, the Wonju Catholic Centre became a hub for students and other pro-democracy activists and writers who gathered from Wonju and beyond to talk and drink late into the evenings in the cosy basement room. One of those young people was a poet named Kim Young-il who wrote under the pen name "Ji-ha" (芝河). Originally from Mokpo, Kim Ji-ha had moved as a child to Wonju with his parents. At Seoul National University he became active within the pro-democracy movement in Seoul and, when he returned to Wonju, he brought with him a cast of activists and artists who quickly joined forces with the growing cultural movement (minjung movement) in Wonju. Together they created yard plays (a form of traditional peasant theatre called madang-geuk, 마당극), mask-dances and plays for theatre. These plays raised the profile of Wonju among the wider national minjung movement and before long, Wonju was being called "the holy land of democratisation."[@Kim2019-dd, p. 165]
+
+Together, with the Wonju Group, Jang Il-soon and Ji Hak-soon reorganised the church in the Wonju diocese into a network of self-governing self-supporting parishes and set up a program of education and training aimed at empowering the poor and marginalised to form self-sufficient self-governing communities across Gangwon province.
+Their vision was for a cooperative movement that was economically and politically independent from the authoritarian state and which promoted rural and urban development led by communities themselves.
+
+::: {layout-nrow="2"}
+![Ji Hak-soon (1921-1993) - Bishop of Wonju, founder of Wonju Credit Union and Cooperative Movements](../images/chapter_01/Founders-Ji-Hak-soon.jpg)
+
+![Jang Il-soon (1928-1994) - teacher, farmer, artist, Hansalim founder](../images/chapter_01/Founders-Jang-Il-soon.jpeg)
+
+![Park Jae-il (1938-2010) - farmer, activist, Hansalim founder](../images/chapter_01/Founders-Park-Jae-il.jpeg)
+
+![Kim Ji-ha (1941-2022) - Poet, activist, Hansalim founder](../images/chapter_01/Founders-Kim-Ji-ha.jpeg)
+:::
+
+### Bought through suffering {.unnumbered}
+
+However, just as things were starting to take off catastrophe hit. In 1972 the large-scale flooding of the Namhan River basin caused widespread devastation in Gangwon and surrounding provinces. In Wonju Diocese the floods damaged 50,000 buildings[@Kim2019-dd] and displaced 100,000 people.[@Kim2019-dh] Bishop Ji Hak-soon went to Germany to ask for funds from the catholic charities Miserere and Caritas to support rebuilding. With the money they provided (2.91 million marks or around $360,000) he set up a Disaster Countermeasures Project Committee to coordinate a long-term recovery project. However, instead of simply providing unconditional aid, as was normally done under such circumstances, the committee targeted their resources at supporting communities to become self-sufficient. Food and money were given as wages for productive work rebuilding communities, restoring farmland and developing new income sources for farmers such as setting up village craft workshops.
+
+Young people from the Wonju Diocesan Youth Association who had been involved with the cooperative movement in Wonju were recruited to act as counsellors. This title of 'counsellor' was chosen intentionally to avoid the impression that they were responsible for leading or directing the disaster response. Instead, their role was to visit the affected villages, learn about their needs and provide advice and training to enable villagers to take leadership of the reconstruction and development process themselves. The requirements for receiving support for projects were that they were productive so as to provide a steady income, communal rather than individual and managed cooperatively by the villagers. The ultimate goal was to rebuild solidarity within and between village communities who had suffered years of exploitation under colonial and now military rule that had led to widespread mistrust among the rural population.
+
+This was a particularly special time for Jang Il-soon. He began to see what he had been dreaming of for so many years take shape in reality in his own community. Hundreds of villages across three provinces participated, creating credit unions and cooperatives, restoring the culture of shared agricultural labour and managing their affairs democratically through village assemblies. Others saw what was happening too and the pattern of rural development through cooperation that began in Wonju spread across the country.[@Kim2019-dd] But it was not to last long.
+
+Although the Wonju movement made a significant and lasting contribution to rural development and democratisation[^wonju], it was carried out in resistance against the increasingly authoritarian Yusin regime under Park Chung-hee. Top-down state-led projects of agricultural industrialisatio, rural improvement and political indoctrination through Nonghyup and the Saemaul Movement (New Village Movemet) contributed to the ongoing suppression of the Wonju group's activities. In a bid to achieve self-sufficiency in rice, the state adopted a new high yielding rice variety, Tongil rice, which was rapidly extended to farmers through a combination of incentives and coercion[@Burmeister1987-zt]. It required heavy fertiliser and pesticide application to achieve its promised yields[@Hong2021-sc] which were supplied exclusively through Nonghyup. These pesticides were highly toxic and little training was provided to farmers about how to minimise risk of exposure. Despite the undeniable improvement in rural incomes stimulated by the state-led green revolution, as the use of chemical pesticides rapidly increased through the 1970s many farmers became sick from pesticide poisoning, ecosystems became increasingly polluted and food safety concerns grew among consumers. Jang Il-soon and others in the Wonju Group began to recognise the dangers of too narrow a focus on productivity and profit sharing. Somehow, cooperation needed to be extended beyond humans to include the natural world in a symbiotic relationship.
+
+Then, in 1974, in what seemed like retaliation against the Wonju Group, Bishop Ji Hak-soon and Kim Ji-ha were arrested, along with 253 others. Ji Hak-soon was court martialled under new emergency measures brought in by Park in reaction to growing unrest and pro-democracy protests among university students nationwide. His sentence was 15 years in prison on the charge of funding an anti-state group and masterminding a plot to overthrow the government.[@Kim2019-dd] Kim Ji-ha was sentenced to death, commuted to life and released after 10 months only to be arrested again and his death sentences renewed. He spent 7 years in prison until he received a stay of execution.
+
+[^wonju]: Currently, 150,000 people, or 44% of Wonju's population of 360,000, are credit union members.
+
+Under pressure from the newly mobilised Catholic resistance and widespread anti-government protests, Park released Ji Hak-soon in 1975. But the government's suppression of democratic movements intensified with new emergency measures and sweeping powers to control anyone who opposed him. During this difficult time, unable to engage directly in pro-democracy activism or the cooperative movement Jang Il-soon painted calligraphy, drew illustrations and wrote poetry, holding exhibitions to raise funds in support of others and communicate his resistance through art. In the years up to 1979 unrest and mass protests continued to spread until the shocking assassination of General Park by his own head of Central Intelligence, Kim Jae-gyu.
+
+The democracy movement, that had been suppressed by Park, sprang back to life, as people rekindled hope for a transition to genuine democracy.
+But the new government fell in a matter of weeks as the chief of defence General Chun Doo-hwan led a military insurrection on December 12th 1979 and soon declared martial law.
+
+The immediate reaction by citizens has become known as the "Seoul Spring".
+Waves of mass protests spread across the country as students and workers took to the streets to oppose the military's takeover and call for democracy.
+The military's brutal response involved mass arrests, beatings, torture and killing of protesters.
+Things quickly came to a head in the city of Gwangju in south Jeolla province, a hotbed of pro-democracy activism.
+
+While mass protests in the city had been held peacefully with police cooperation during the previous days, in preparation for General Chun's final takeover of the government, paratroops and tanks had been sent to Gwangju to suppress the protests, beginning by arresting most of the leaders of Gwangju's democracy movement.
+On May 18th, when students attempted to enter the city's Chonnam National University campus they were brutally beaten by the waiting paratroopers and turned away from the university gates.
+This provoked spontaneous protests among students which spread across the city throughout the day, calling for an end to martial law and the removal of Chun Doo-hwan.
+This time, they were met by violence from the riot police and confrontations escalated throughout the day as students fought back and the numbers of protesters steadily grew.
+When the paratroopers began to chase down and to strip and beat the demonstrators and bystanders alike, the student protest became a popular revolt.
+
+The next day it wasn't just hundreds of students on the streets but around four thousand citizens - high school students, shop owners, labourers, housewives, priests and teachers - came out to support the students and confront the police and paratroopers in front of Province Hall.
+When the police fired tear gas and the paratroopers charged the demonstrators, they responded by breaking up paving stones to throw and collected metal pipes and other implements to use as makeshift weapons.
+Molotov cocktails, drums of oil and nearby vehicles were used to attack and drive back the troops.
+Taxi drivers took on the role of ambulances to take the injured protesters to hospitals.
+Buses, trucks and phone booths became barricades.
+
+The clashes between citizens and military became more violent and the paratroopers used their batons, rifle buts and bayonets to attack the crowds and hunted people down as they fled down alleys and into nearby buildings.
+Whoever they captured they stripped, beat and tortured, leaving many dead or with life changing injuries and taking many more students back to their camp as prisoners.
+Even some of the riot police who tried to help the wounded, unaccustomed to the extreme violence perpetrated by the military forces, were themselves attacked by the paratroopers.
+
+Over the next few days more than 200,000 demonstrators fought against the police and paratroopers across the city.
+Convoys of over 100 taxis and some buses and trucks joined the demonstrators on the streets and some began to use vehicles as battering rams and fire bombs to attack the paratroopers blockades.
+The streets were covered in burning cars, debris and the bodies of dead and injured protesters lying in pools of blood.
+Citizen Militia began to capture vehicles, explosives, rifles and ammunition to strengthen their stand against government forces who had begun to use live ammunition on the crowds leading to several fatalities and provoking growing rage among the citizens.
+Then the paratroopers deployed machine guns, automatic rifles and snipers to attack the citizens and military helicopters also opened fire on the crowds.
+Despite their resort to lethal force, the paratroopers were overwhelmed by the scale of the uprising, and withdrew to the outskirts of the city where they prepared for a large-scale offensive with reinforcements from the army's 20th Division.
+
+The demonstrators took control of Province Hall and other parts of the city center and organised a Citizen Settlement Committee to negotiate with the government forces.
+Having withdrawn from the city centre, soldiers blockaded Gwangju and were ordered to use lethal force against any resistance.
+Finally, after five days of blockade, in the middle of the night on the 27th May 1980 three special forces teams and a division of more than 3,000 soldiers moved on the city centre to recapture Province Hall and Gwangju Park in a battle that ended with 27 citizens and 2 soldiers dead and 295 citizens detained.
+
+Over the course of the uprising, 20,000 trained soldiers were deployed to the city of 800,000.
+The total number of casualties is not known, as the government acted quickly to cover up the incident and manipulate the data reported.
+Conservative estimates are that over 200 of Gwangju's residents were killed by government forces and many more hundreds injured while the so-called 'ring leaders' were imprisoned and tortured.
+Despite the immediate government cover up, news of the massacre at Gwangju spread among democracy activists and students and helped to undermine the legitimacy of the Chun regime, becoming a rallying cry for the pro-democracy movement.
+
+The events in Gwangju were followed by rumours that the government was preparing to target other cities like Wonju which were also centres of pro-democracy activism. Deeply shocked and grieved by the news of Gwangju, and fearing for the people of his own city, Jang Il-soon went into hiding and urged everyone to keep quiet. His lack of action angered many in the democratisation movement and marked the beginning of a shift in his attitude towards forms of political resistance.
+
+A few months after the Gwangju uprising and subsequent massacre, Kim Ji-ha was released from prison in December 1980. A lot had happened since his initial arrest and he had also had time to reflect himself on the experience of the Wonju Group. When he was reunited with Jang Il-soon they discovered they had both come to the same change of direction in their thinking.
+
+Jang Il-soon described it in this way:
+
+> "The Hansalim movement was something I had been thinking about for decades, and another was the consumer cooperative movement in the 70s (260), and as I continued the anti-dictatorship movement, I realized that I had to break out of the old Marxist paradigm, because it was not going to solve the problem, and it was going to continue the vicious circle. When I saw that they were spraying pesticides and fertilizers and trying to industrialize the city, I thought that the entire riverbed would be devastated. I told Mr. Park Jae-il, who was trying to start a rural movement in Wonju after the June 3 incident, "We should go in the direction of saving the farmland and food for the community."" [quoted in, @Kim2019-dd, p. 260-261, translation J. Dolley]
+
+Since the mid-1970s, Jang Il-soon had been developing his philosophy and way of life around the teachings of Haewol (Choi Si-hyung), a virtually forgotten leader of an indigenous Korean religion called Donghak (sometimes written Tonghak and now known as Cheondogyo or the Heavenly Way). It was the ethical and cosmic vision of Donghak, and especially the practical spirituality of Haewol which became the foundation of the Hansalim movement as it emerged in Wonju through the 1980s.
+
+Donghak was founded in 1860 by Su-un (Choi Je-u) 
+
+
+This new direction was sharply at odds with the rest of the democratisation movement at the time which was becoming more explicitly revolutionary and militant in response to Chun Doo-hwan's intensification of violent suppression. By 1985, it was clear that the memory of the Gwangju uprising and the Chun government's massacre of civilians was firmly fixed in the national psyche and each year following, the anniversary of the uprising was marked by increasing numbers of participants who commemorated the victim's sacrifice for democracy. Students began to resort to to self-immolation and public suicide as new forms of protest. Jang Il-soon was horrified by this self-destructive violence in protest against the regime and called instead for non-violent, passive resistance instead of violent struggle.
 
 
 
+
+However, despite the success of the flood recovery project, they had become discouraged by the failure of the movement to halt the destructive progress of industrialisation. They were also worried by the rise of militant marxism among the vanguard of the democracy movement which was becoming increasingly violent. They had hoped for an alternative to the fundamentally destructive tendencies of capitalist and socialist industrialisation in the cooperative movement but they began to recognise that cooperatives were also vulnerable to same fundamental problem that lay at the heart of industrial civilisation. That problem was a materialist, mechanistic view of the world which viewed humans and all life as replaceable parts in the machine of economic growth. It was this worldview that gave rise to the characteristics of domination, alienation, separation and oppression in modern society.
+
+When preparing to launch a new kind of cooperative movement, the Life Movement, the Hansalim founders drew on their own long experience of cooperation in Wonju and also studied the experience of other movements around the world. They took note of the cautionary tales democratic decline among the western cooperative movement and their own past struggles to mobilise members and manage participation.
 
 ## On a tumbling unfinished journey
 
 The term used by the poet Kim Ji-ha to describe the evolutionary nature of a living movement such as Hansalim is "tilted balance" or a kind of dynamic (dis)equilibrium:
 
-> "The philosophy of ‘tilted balance’, along with paradoxes, is crucial to understanding life.
-> However, the term ‘tilted balance’ does not adequately describe the world of life.
-> That is, the adjective 'tilted' and the noun ‘balance’, which denote states, do not capture the dynamism of the ever-changing world of life.
-> The world of life is constantly tilting and tumbling rather than being in a stable balance."[^tilted1]
+> "The philosophy of ‘tilted balance’, along with paradoxes, is crucial to understanding life. However, the term ‘tilted balance’ does not adequately describe the world of life. That is, the adjective 'tilted' and the noun ‘balance’, which denote states, do not capture the dynamism of the ever-changing world of life. The world of life is constantly tilting and tumbling rather than being in a stable balance."[^01_hansalim-3]
 
-[^tilted1]: Kim Ji-ha, ‘On the Tilted Balance,’ The Complete Works of Kim Ji-ha, Volume 2, Practical Literature, 2002. Reproduced in: Yoon, Hyunggeun, ed. 2004. Salim’s Words. Mosim and Salim, Book 3. Seoul: Mosim and Salim Research Institute. p. 184-185. (Translation: J Dolley).
+[^01_hansalim-3]: Kim Ji-ha, ‘On the Tilted Balance,’ The Complete Works of Kim Ji-ha, Volume 2, Practical Literature, 2002. Reproduced in: Yoon, Hyunggeun, ed. 2004. Salim’s Words. Mosim and Salim, Book 3. Seoul: Mosim and Salim Research Institute. p. 184-185. (Translation: J Dolley).
 
 Yoon, in his 2024 report about Hansalim's evolving structure writes:
 
 > "When choosing policies and institutions in Hansalim, we can present the 'tilted balance' in the "Hansalim Manifesto" as a decision-making principle that balances reality and ideals, associations and businesses."[@Yoon2024-gs, translation by J. Dolley]
 
-Hansalim's journey from a small movement of producers and consumers to a national federation has been far from smooth and simple.
-As successful as it has been, it was and still is fraught with struggles, controversies, failures and frustrations.
-One common phrase I heard from my interviewees in Hansalim is that "Hansalim looks beautiful from far away, but when you get closer you can see it is a lot more ugly."
+Hansalim's journey from a small movement of producers and consumers to a national federation has been far from smooth and simple. As successful as it has been, it was and still is fraught with struggles, controversies, failures and frustrations. One common phrase I heard from my interviewees in Hansalim is that "Hansalim looks beautiful from far away, but when you get closer you can see it is a lot more ugly."
 
-That ugliness is the reality of trying to work and live together with people whose backgrounds, perspectives and desires are so often radically different and even competing.
-It is the challenge of finding compromises that reflect a shared core of values while also trading off some of those values against others for the sake of a unity which is always and inevitably unsatisfactory.
-That is why, in addition to "moderation" - the virtue required to find the "middle way" - "discernment" is also key to maintaining this continually oscillating 'tilted balance.'
-Again, Kim Ji-ha explains this idea as a key aspect of the Confucian concept of the doctrine of the mean (中庸):
+That ugliness is the reality of trying to work and live together with people whose backgrounds, perspectives and desires are so often radically different and even competing. It is the challenge of finding compromises that reflect a shared core of values while also trading off some of those values against others for the sake of a unity which is always and inevitably unsatisfactory. That is why, in addition to "moderation" - the virtue required to find the "middle way" - "discernment" is also key to maintaining this continually oscillating 'tilted balance.' Again, Kim Ji-ha explains this idea as a key aspect of the Confucian concept of the doctrine of the mean (中庸):
 
-> "A more precise expression of this spirit is the term shijung (discernment - 时中), which appears in "The Doctrine of the Mean", the second of the Four Books, written by Confucius's grandson Zisi (子思).
-> It means to strike a balance in an ever-changing situation.
-> This kind of person is called a virtuous person.
-> A person who is principled, but is also able to make judgements and adjust their behaviour according to the time and situation."[^tilted2]
+> "A more precise expression of this spirit is the term shijung (discernment - 时中), which appears in "The Doctrine of the Mean", the second of the Four Books, written by Confucius's grandson Zisi (子思). It means to strike a balance in an ever-changing situation. This kind of person is called a virtuous person. A person who is principled, but is also able to make judgements and adjust their behaviour according to the time and situation."[^01_hansalim-4]
 
-[^tilted2]: Kim Ji-ha, ‘On the Tilted Balance,’ The Complete Works of Kim Ji-ha, Volume 2, Practical Literature, 2002. Reproduced in: Yoon, Hyunggeun, ed. 2004. Salim’s Words. Mosim and Salim, Book 3. Seoul: Mosim and Salim Research Institute. p. 182. (Translation: J Dolley).
+[^01_hansalim-4]: Kim Ji-ha, ‘On the Tilted Balance,’ The Complete Works of Kim Ji-ha, Volume 2, Practical Literature, 2002. Reproduced in: Yoon, Hyunggeun, ed. 2004. Salim’s Words. Mosim and Salim, Book 3. Seoul: Mosim and Salim Research Institute. p. 182. (Translation: J Dolley).
 
-It is this principle, rather than any specific organisational model, 
-
+It is this principle, rather than any specific organisational model,
 
 ```{mermaid}
 %%| label: transformation
@@ -842,32 +662,18 @@ gantt
         Mosim and Salim Research Institute  :2002-02-01, 22y
 ```
 
-
 ## Conclusion
 
-For those in Europe and other regions of the world outside Korea, Hansalim can appear to be a uniquely Korean phenomenon.
-"Surely, it is only the collectivist culture of Korea that makes such a community possible.
-It could never succeed in our hyper-individualist western societies."
-But you must not forget that the two strongest influences on contemporary Korean culture are Confucianism and American consumerism.
-The former provided the rationale for a strictly hierarchical and patriarchal culture that dominated Korean society for several hundred years before the latter collided head on with it during the post-war period, giving rise to a uniquely oppressive mixture of competitive consumerism and rigid conformism.
+For those in Europe and other regions of the world outside Korea, Hansalim can appear to be a uniquely Korean phenomenon. "Surely, it is only the collectivist culture of Korea that makes such a community possible. It could never succeed in our hyper-individualist western societies." But you must not forget that the two strongest influences on contemporary Korean culture are Confucianism and American consumerism. The former provided the rationale for a strictly hierarchical and patriarchal culture that dominated Korean society for several hundred years before the latter collided head on with it during the post-war period, giving rise to a uniquely oppressive mixture of competitive consumerism and rigid conformism.
 
-It was in this context that Hansalim emerged as a concrete expression of the desire felt among many at the time for a different kind of society built upon equality, mutual respect and care for other humans and the nonhuman world.
-I have a feeling that this same desire has not gone away, but only deepened, not only among Koreans but equally among contemporary people in Europe and beyond.
+It was in this context that Hansalim emerged as a concrete expression of the desire felt among many at the time for a different kind of society built upon equality, mutual respect and care for other humans and the nonhuman world. I have a feeling that this same desire has not gone away, but only deepened, not only among Koreans but equally among contemporary people in Europe and beyond.
 
-However, no matter how much you desire to create something like Hansalim, managing such a large organization (or rather, federation of organisations) without a dictatorial head office but in a deliberative and democratic way is very, very hard work.
-If you were in it for the money, you would not do it like this.
-But for every member of Hansalim I have spoken to so far, its not about money, but about being part of a community dedicated to caring for each other and to creating a peaceful and thriving future for the world.
-So as a reader from outside Korea who aspires to transform food systems, you need to keep in mind that Hansalim's success is mingled with failures and disappointments and comes at the cost of a great deal of personal sacrifice, collective conflict and agonising, trial and error and lots and lots and lots of ..... meetings.
-Just look again at @fig-federation and notice the number of committee members in the column for Life Coops!
+However, no matter how much you desire to create something like Hansalim, managing such a large organization (or rather, federation of organisations) without a dictatorial head office but in a deliberative and democratic way is very, very hard work. If you were in it for the money, you would not do it like this. But for every member of Hansalim I have spoken to so far, its not about money, but about being part of a community dedicated to caring for each other and to creating a peaceful and thriving future for the world. So as a reader from outside Korea who aspires to transform food systems, you need to keep in mind that Hansalim's success is mingled with failures and disappointments and comes at the cost of a great deal of personal sacrifice, collective conflict and agonising, trial and error and lots and lots and lots of ..... meetings. Just look again at @fig-federation and notice the number of committee members in the column for Life Coops!
 
-Having said all that, even if you are prepared for such a challenge, I do not think it is possible to simply transplant Hansalim's model to other countries.
-It has its own history and unique context from which it emerged and it is not a static model but an evolving community in a continual process of change.
+Having said all that, even if you are prepared for such a challenge, I do not think it is possible to simply transplant Hansalim's model to other countries. It has its own history and unique context from which it emerged and it is not a static model but an evolving community in a continual process of change.
 
-But what is perhaps much more useful than a blueprint, is Hansalim's story and the myriad stories of the people who practice Hansalim (as a verb).
-These stories carry the values of Hansalim, the spirit and emotion of Hansalim people and the experience of countless challenges and success that they faced along the way.
-These stories, more than anything else, carry the seeds that could produce new fruit in other contexts, as long as there are those with the determination to cultivate them.
+But what is perhaps much more useful than a blueprint, is Hansalim's story and the myriad stories of the people who practice Hansalim (as a verb). These stories carry the values of Hansalim, the spirit and emotion of Hansalim people and the experience of countless challenges and success that they faced along the way. These stories, more than anything else, carry the seeds that could produce new fruit in other contexts, as long as there are those with the determination to cultivate them.
 
 To hear some of these stories, I am afraid you will have to wait a little longer for the rest of the book to be written and published. I'll do my best to finish it as soon as possible! Each new chapter will be published here as soon as it is written.
 
-And of course, it is a story without an ending.
-Which means, in all likelihood, there are those among you reading this book who will end up playing a role in it one way or another.
+And of course, it is a story without an ending. Which means, in all likelihood, there are those among you reading this book who will end up playing a role in it one way or another.
