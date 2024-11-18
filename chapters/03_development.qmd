@@ -1,0 +1,64 @@
+---
+title: "Development"
+comments:
+  giscus: 
+    repo: JonathanDolley/book.livingtogether.xyz
+---
+
+::: {.callout-note}
+Chapter notes
+:::
+
+Timeline of organisational change.
+
+```{mermaid}
+%%| label: transformation
+gantt
+    title Organisational Transformation
+    dateFormat YYYY-MM-DD
+    section National Organisation
+        Hansalim Nongsan          :1986-12-01, 3y
+        National Hansalim Council    :milestone, 1989-12-01
+        Hansalim National Council   :milestone, 1996-02-01
+        Hansalim National Gathering :milestone, 2001-03-01
+        Hansalim Business Federation (logistics division functions) :2002-03-01, 9y
+        Hansalim Corporation    :2004-02-01, 7y
+        Hansalim Federation :2011-02-01, 13y
+        Hansalim Business Federation (purchasing, logistics, external distribution)  :2019-01-01, 5y
+    section Production Organisation
+        Hansalim Producers Council :1988-11-01, 1y
+        Hansalim Producers Committee    :1999-01-01, 1y
+        Hansalim Agricultural Co. Ltd. (separate logistics division)    :2001-02-01, 1y
+        Hansalim Producers Association (relaunch)   :2003-02-01, 8y
+    section Regional Organisations (Seoul)
+        Hansalim Nongsan    :1986-12-01, 2y
+        Hansalim Communities Consumer Coop   :1988-04-01, 5y
+        Hansalim Life Coop  :1993-02-01, 10y
+        Hansalim Corporation    :1994-02-01, 7y
+        Paju Life Coop  :2003-01-01, 20y
+        Seoul Life Coop :2003-11-01, 20y
+        Gyeonggi South Life Coop    :2005-11-01, 18y
+        Seongnam Yongin Life Coop   :2006-11-01, 17y
+    section Regional Organisations (non-Seoul)
+        Wonju Union :1985-01-01, 3y
+        Gyeongnam Union :1986-01-01, 5y
+        Gwangju Hansalim  :1988-01-01, 36y
+        Cheungju Hansalim   :1989-01-01, 35y
+        Daegu Hansalim  :1989-01-01, 35y
+        Wonju Hansalim  :1990-01-01, 34y
+        Gyeongnam Hansalim  :1991-01-01, 33y
+        Busan Hansalim  :2000-01-01, 24y
+        Cheonan Asan    :2002-01-01, 22y
+        Ulsan Hansalim  :2003-01-01, 21y
+        Cheonan South   :2004-01-01, 20y
+        Chungju Jaecheon    :2004-01-01, 20y
+        Yeoju Icheon Gwangju    :2004-01-01, 20y
+        Gwangju Life Coop   :2004-01-01, 20y
+        Cheonbuk :2005-01-01, 19y
+        Jeju    :2008-01-01, 16y
+        Gyeongbuk North :2011-01-01, 13y
+        Gyeonggi Southwest  :2012-01-01, 12y
+    section Support Organisations
+        Hansalim Gathering  :1989-10-01, 3y
+        Mosim and Salim Research Institute  :2002-02-01, 22y
+```

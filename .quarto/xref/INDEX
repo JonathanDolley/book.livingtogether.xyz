@@ -85,5 +85,11 @@
   },
   "chapters/references.qmd": {
     "references.html": "7c198ad3"
+  },
+  "chapters/02_history.qmd": {
+    "02_history.html": "f8162520"
+  },
+  "chapters/03_development.qmd": {
+    "03_development.html": "7bf6618e"
   }
 }

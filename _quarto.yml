@@ -20,6 +20,8 @@ book:
     - index.qmd
     - intro.qmd
     - chapters/01_hansalim.qmd
+    - chapters/02_history.qmd
+    - chapters/03_development.qmd
     - chapters/references.qmd
   appendices:
     - appendices/01_farming_blog.qmd
