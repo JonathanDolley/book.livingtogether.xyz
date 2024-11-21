@@ -190,7 +190,7 @@ So what happens to the revenue from these sales? As I mentioned above, until rec
 
 ::: {.content-hidden when-format="pdf"}
 ```{r}
-#| label: margin
+#| label: margin table
 ```
 
 ```{=html}
