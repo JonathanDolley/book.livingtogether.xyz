@@ -55,5 +55,5 @@ rsconnect/
 *.vsix
 
 # Quarto
-/.quarto/
-/_book/
+.quarto/
+_book/
