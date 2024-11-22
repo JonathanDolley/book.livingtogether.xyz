@@ -54,6 +54,6 @@ rsconnect/
 # Built Visual Studio Code Extensions
 *.vsix
 
-# Quarto
+# Quarto folders used in publishing process
 .quarto/
 _book/
