@@ -55,5 +55,5 @@ rsconnect/
 *.vsix
 
 # Quarto folders used in publishing process
-.quarto/*
-_book/*
+.quarto/**
+_book/**
