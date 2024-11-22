@@ -61,3 +61,4 @@ rsconnect/
 _book/search.json
 
 /.quarto/
+chapters/*.html
