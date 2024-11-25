@@ -1,6 +1,52 @@
 # Beginnings
 
+If you were to wander the countryside and towns in those days you would have seen a stark contrast in living conditions between the rulers and the ruled.
+As a mostly agrarian society of peasant farmers, the common folk lived in mud huts with thatched roofs and made careful use of every natural resource available to maintain their meagre lives.
+Here and there, however, you would catch an occasional glimpse of the most beautiful traditional Korean houses or \textit{hanok}: all expertly built around landscaped courtyards and settled on massive stone foundations from which rose wide wooden pillars to support ornately tiled roofs.
+Positioned in the most auspicious and picturesque locations, equipped with underfloor heating and designed to provide natural air conditioning, these architectural masterpieces provided a walled and gated paradise for the landowning male elites who occupied all the highest offices of the bureaucracy and military.
+In these mansions - many of which remain today - the gentry and their households of wives, concubines, children and house slaves lived together in a family-scale replica of the authoritarian Confucian state, ruling their lands and districts in similar fashion.
 
+
+In fact, generations of sexual exploitation of women as concubines by the ruling elites had produced a large and growing cohort of educated and capable scholars and clerks who, despite their skill, were blocked from social advancement because their mothers' status excluded them from the inherited privilege of their paternal line.
+This led to a growing undercurrent of social unrest among not only the oppressed slave and lower classes but also among the second-class castes who faced systemic discrimination on the basis of patrilineal status.
+
+Over the previous decades, the experiences and grievances of these non-aristocratic classes had been expressed and widely shared through a vibrant and often subversive and satirical popular culture in literature, \textit{pansori} (singing of epic narratives), \textit{talchum} (mask dances) and folk painting.
+One of the unexpected catalysts for this flowering of folk and non-aristocratic culture was the invention, several centuries earlier in 1446, of the Korean alphabet.
+King Sejong and his state research institute, the Hall of Worthies, had created the unique writing system to enable the common people to become better educated (mainly about Confucian ideals) without having to endure the difficult process of learning the Chinese characters used by the aristocracy and literati.
+Consequently, the gradual spread of the ability of ordinary people to put the vernacular into writing finally gave rise, in the 19th century, to a popular genre of literature by and for the common people - with many women among its most popular authors.
+It also facilitated the standardisation and spread of the \textit{pansori} narratives.
+Examples of such literature include biographies of the lower classes as well as tales of righteous bandits robbing the rich to give to the poor (sound familiar?!).
+Spread by the rise of this popular culture, the experiences and living conditions of normal people across the country were becoming more widely known, no doubt contributing to a growing sense of shared identity among the common people and middle-level elites who openly derided the corruption and hypocrisy of the aristocracy and Buddhist monks.
+
+Just as this popular culture was on rise, a young man called Choi Je-u was about to experience a dramatic spiritual awakening.
+He was born in 1824 near Gyeongju (south-east Korea) to an impoverished \textit{yangban} that had fallen from favour and lost his social status. 
+This fact, and the additional stigma of being the son of a concubine left him with little opportunity to earn a living except to teach local children, having himself at least received an education before the death of his father when he was 16.
+
+After an arranged marriage he taught for several years and continued to study Confucianism, Buddhism and Daosim.
+Then, between the age of 24 and 34 he wandered the country observing the pitiful living conditions of the common people and the endemic corruption of the Confucian bureaucracy.
+He also became more aware of the influx into Korea of new ideas through Catholic missionaries and western Imperialists as well as the growing threat of military domination by the western powers.
+Perceiving his country to be in a state of chaos and confusion in the face of the military and technological superiority of the west and it's apparently unifying ideology of Catholicism or "Western Learning", he sought an alternative faith that could provide a rival unifying and empowering force to the Korean people.
+
+On returning to his family after his travels, he spent forty-nine days in meditation and prayer in a cave near the Buddhist temple of Dongdosa.
+Finally, in 1860, he experienced an encounter with God in a mysterious voice that said:
+"Do not fear and do not be afraid. Humanity calls me Sangje (God): don't you recognize Sangje?"
+
+Choi Je-u reported that God told him to teach the Truth and gave him a healing talisman in the form of the 'Great Ultimate' and an incantation which is a prayer to be filled with the Spirit of God that brings divine life within, guards against forgetfulness and awakens an awareness of all things.\footnote{In their translation of the Donggyeong Daejeon (Great Scripture of Eastern Learning), Kim and Yoon provide a translation and explanation of Suun's incantation as follows:
+"\textit{Jigigeumji weonwi daegang} (至氣今至願爲大降) which means "I pray for the great descent of the Ultimate Energy now," is the technique of receiving the Spirit, which is actually the first part of the Incantation; \textit{Si cheonju johwa jeong} (侍天主造化定), which means "God is within us and all are made well," is the second part of the Incantation; and \textit{yeongse bulmang mansaji} (永世不忘萬事知), which means "eternally not forgetting and being aware of all things," is the poem of "Not Forgetting (God)," which is the last part of the Incantation. The entire Incantation consists of twenty-one Chinese characters." \cite[p. 79]{Kim2007-sv}}
+
+Following this encounter, Choi Je-u began life as a wandering teacher, spreading the Truth that he called "Eastern Learning" (Donghak) to distinguish it from the Western Learning of Catholicism.
+He also wrote his teachings in Chinese script and the Korean alphabet to make it accessible to both the scholarly classes and the common people.
+These writings become the Donghak scriptures and include descriptions of his experiences, philosophical thoughts and discussions with his followers as well as poetry, prayers and stories.
+
+Writing what became the Donghak scripture the \textit{Nonhak-Mun} \cite[p. 8-9]{Kim2007-sv} Suun writes that the Divine Spirit (or Hanullim) told him "My mind is your mind" (曰吾心即汝心也) which is interpreted to express the true nature of humanity as bearers of Divine Life. Suun is given an incantation by Hanullim which is the means for receiving the Divine Spirit (靈) and practicing the Way.
+
+
+
+The incantation encompasses the central teaching of Donghak that the Hanullim (or God) is in all things and therefore humans also bear God within them. However, through selfishness and negative outside influences, people have forgotten this truth that they are fundamentally one with God and habitually act in opposition to the Way. This is the cause of human suffering and evil. To recover oneness with God one needs to cultivate the mind of God within oneself and to act justly towards others (Susim Jeonggi 守心正氣) [@Kim2007-sv, p. 70]. As people cultivate this 'Heavenly Way' then a new world begins to dawn, a 'kingdom of heaven on earth' which will ultimately come to encompass the whole cosmos, not through violent revolution but by natural becoming.
+
+For Suun, the Heavenly Way can be found only through a particular way of knowing which he calls _buryeon giyeon_ (不然其然) which can be translated as "not so (buryeon), yet so (giyeon)". Kim and Yoon [@Kim2007-sv] explain this concept as follows:
+
+> "According to Suun, we usually live in the phenomenal world of ordinary experience, which is _giyeon_. However, ultimately and in the deepest level of our being we live in the world of _buryeon_, which lies beyond the realm of the ordinary sense experience." [@Kim2007-sv, p. 72].
 
 ### The fight for independence {.unnumbered}
 
