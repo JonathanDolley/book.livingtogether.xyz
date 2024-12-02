@@ -5,6 +5,10 @@ comments:
     repo: JonathanDolley/book.livingtogether.xyz
 ---
 
+::: {.column-screen}
+![Kim Yongwon: 혼재된 풍경 #3. Lace collage on silk 116.8x273cm 2021](../images/kimyongwon/honjaeduin-punggyeong-sample.png)
+:::
+
 ::: {.content-hidden when-format="pdf"}
 ```{r}
 #| label: load data
@@ -38,10 +42,11 @@ The Wonju Group were a diverse collection of Catholic Farmers, urban housewives,
 
 As an alternative, they proposed a worldview founded on the sacredness and interconnectedness of all life. The first version of this worldview or eco-philosophy was outlined in the Wonju Report in 1982. As the movement began to grow the Wonju Group set up the first Life Cooperative in Wonju in 1985 and the Hansalim Nongsan rice store a year later.[@Hansalim2017-qp] In this way, the Wonju Coop formally brought together organic farming and direct trade with the equal participation of consumers and producers.
 
-::: {layout="[70,30]"}
 Soon after, the Hansalim Community Consumers Union was set-up in Seoul with 70 members to trade directly with the Hansalim Producers Association that was set up with 70 farming households. Next, the Wonju Group hosted a year long process of study and discussion to develop the Hansalim Manifesto which was published in 1989 and which formally launched the Hansalim Life Movement. From this small beginning, the movement quickly expanded as other cooperatives and farming communities joined from across the country and consumer membership grew.
 
-![The Hansalim Manifesto, English version](../images/chapter_01/Hansalim-Manifesto.jpeg){width="" fig-align="left"}
+::: {.column-margin}
+
+![The Hansalim Manifesto, English version](../images/chapter_01/Hansalim-Manifesto.jpeg)
 :::
 
 By 1990 there were four Life Cooperatives with over 5,500 members and within just over another 10 years membership had grown to over 40,000. That is when things really began to take off and by 2008 there were 19 Life Cooperatives managing 84 stores for their 170,000 members. In 2023 Hansalim's 27 Life Cooperatives and 15 Producer Federations handled annual sales of 485,066 million KRW (324.3 million euros) through 240 stores, an online store and a mobile app.[@Hansalim2024-zt] From these sales, 330,610 million KRW (221 million euros) were returned to the 136 producer communities. That is nearly 70%! So what kind of business model has Hansalim created that provides those returns to producers while covering the shared business operations and funding a whole range of movement activities from the remaining 30%? And what lies at the heart of this unusual way of doing business?
@@ -504,3 +509,9 @@ But what is perhaps much more useful than a blueprint, is Hansalim's story and t
 To hear some of these stories, I am afraid you will have to wait a little longer for the rest of the book to be written and published. I'll do my best to finish it as soon as possible! Each new chapter will be published here as soon as it is written.
 
 And of course, it is a story without an ending. Which means, in all likelihood, there are those among you reading this book who will end up playing a role in it one way or another.
+
+***
+
+::: {.column-page-inset}
+![Kim Yongwon: Drawing2 ; 皇居 conte and marker on paper 2018](../images/kimyongwon/drawing-2-sample.png)
+:::

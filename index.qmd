@@ -1,5 +1,9 @@
 # Preface {.unnumbered}
 
+::: {.column-screen}
+![Kim Yongwon: Arishan, exposure. Lingerie collage on silk, Acrylic panel, LED _variable installation _2017](./images/kimyongwon/arishan-exposure-sample.png)
+:::
+
 In 1844, a group of weavers from Rochdale in England set up a small cooperative store on Toad Lane. Now referred to as the Rochdale Pioneers, their practical response to the misery inflicted on the poor by the industrial revolution became a touchstone for a rapidly growing movement of working class people empowering themselves through cooperation and grassroots democracy.
 What began as a multitude of local practical answers to the worsening crises of capitalist industrialisation in Britain, France, Germany and beyond soon became an international movement of economic democratisation that transformed the lives and communities of countless peoples around the world.
 Credit unions, farmer, worker and consumer cooperatives grew into huge federations wielding significant economic power and which included women as equal voting members decades before women won the right to vote in national or local elections.
@@ -62,3 +66,9 @@ The author was hosted for the duration of the fellowship by the Science Policy R
 
 Except for the names of cited authors and place names with pre-established spellings, this book follows the romanization system of South Korea known as the Revised Romanization system.
 For the details of the romanization of korean see: https://www.korean.go.kr/front_eng/roman/roman_01.do
+
+***
+
+::: {.column-page-inset}
+![Kim Yongwon: Drawing1 ; 皇居 oil stick and marker on traditional paper 2018](./images/kimyongwon/drawing-1-sample.png)
+:::
