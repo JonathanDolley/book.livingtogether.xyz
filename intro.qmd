@@ -1,8 +1,12 @@
 # Introduction {.unnumbered}
 
+***
+
 ::: {.column-screen}
 ![Kim Yongwon: The recording of inner-side : Camino de Oreum. Lace collage on silk, LED panel. Variable installation(30x240cm) 2020](./images/kimyongwon/recording-of-inner-side-camino-de-oreum-sample.png)
 :::
+
+***
 
 Imagine a food system which belongs entirely to the people growing, processing and consuming its products and which is designed not for profit but for permanence.
 Perhaps, instead of maximising profits for shareholders, its goal would be to build lasting relationships of trust and mutual care between rural and urban communities based on a shared responsibility for the future.
@@ -38,3 +42,11 @@ Where did Hansalim come from?
 What is it today and how does it work?
 And what might we in Europe learn from Hansalim's experience as we try to transform our own food systems?
 These are the questions this book seeks to answer.
+
+***
+
+::: {.column-page-inset}
+![Kim Yongwon: Drawing 3 ; 皇居. Traditional marker on paper 2018](./images/kimyongwon/drawing-3-sample.png)
+:::
+
+***

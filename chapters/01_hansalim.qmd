@@ -5,9 +5,13 @@ comments:
     repo: JonathanDolley/book.livingtogether.xyz
 ---
 
+***
+
 ::: {.column-screen}
 ![Kim Yongwon: 혼재된 풍경 #3. Lace collage on silk 116.8x273cm 2021](../images/kimyongwon/honjaeduin-punggyeong-sample.png)
 :::
+
+***
 
 ::: {.content-hidden when-format="pdf"}
 ```{r}

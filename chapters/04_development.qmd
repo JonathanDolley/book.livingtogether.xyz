@@ -9,6 +9,10 @@ comments:
 Chapter notes
 :::
 
+
+
+---
+
 Timeline of organisational change.
 
 ```{mermaid}

@@ -1,8 +1,12 @@
-# Preface {.unnumbered}
+***
 
 ::: {.column-screen}
 ![Kim Yongwon: Mountain, and water ; exposure 6. Lingerie on silk, LED 130x59.5cm 2015](./images/kimyongwon/mountain-and-water-exposure-6-sample.png)
 :::
+
+***
+
+# Preface {.unnumbered}
 
 In 1844, a group of weavers from Rochdale in England set up a small cooperative store on Toad Lane. Now referred to as the Rochdale Pioneers, their practical response to the misery inflicted on the poor by the industrial revolution became a touchstone for a rapidly growing movement of working class people empowering themselves through cooperation and grassroots democracy.
 What began as a multitude of local practical answers to the worsening crises of capitalist industrialisation in Britain, France, Germany and beyond soon became an international movement of economic democratisation that transformed the lives and communities of countless peoples around the world.
@@ -70,5 +74,7 @@ For the details of the romanization of korean see: https://www.korean.go.kr/fron
 ***
 
 ::: {.column-page-inset}
-![Kim Yongwon: Drawing1 ; 皇居 oil stick and marker on traditional paper 2018](./images/kimyongwon/drawing-1-sample.png)
+![Kim Yongwon: Drawing1; 皇居 oil stick and marker on traditional paper 2018](./images/kimyongwon/drawing-1-sample.png)
 :::
+
+***
