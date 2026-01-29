@@ -68,18 +68,11 @@ By examining Hansalim through the lens of the four dimensions of NC described ab
 
 The Life Movement emerged in the midst of the fight for democracy in Korea in the 1980s and formed as part of the organised resistance against the industrialist dictatorship which oppressed workers, destroyed the environment and devastated the rural economy \parencite{Hansalim2017-wo}.
 
-It was launched by a loose network of autonomous cooperatives and producer associations who organised direct trade in organic foods at a time when rural communities faced impoverishment and environmental devastation and the cities were engulfed by mass protests in the fight for democracy against a brutal military dictatorship \textbackslash{}parencite\{Pak2016-nd,Ku2009-em\}.
+It was launched by a loose network of autonomous cooperatives and producer associations who organised direct trade in organic foods at a time when rural communities faced impoverishment and environmental devastation and the cities were engulfed by mass protests in the fight for democracy against a brutal military dictatorship\parencite{Pak2016-nd,Ku2009-em}.
 
 # Han and Salim
 
-In its simplest form, Hansalim's purpose is expressed in its name which is a composite of two native Korean words, \textit{han} (한) and \textit{salim} (살림).
-\textit{Han} is the word for 'one' and 'great' or 'big' (as in Hangang, great river).
-It also refers to the cosmos \parencite[21]{Mosim2004-bi} and, according to the Hansalim Manifesto, it contains a philosophical meaning expressed in a pair of complementary ideas.
-The first pair, is the sense of being simultaneously collectively one and individually one.
-The second, is the sense of simultaneously spreading out as one and gathering in as one; centrifugal diffusion and centripetal convergence \parencite[82]{Hansalim2021-cy}.\footnote{The authenticity of the notion of an ancient 'Han philosophy' is the subject of heated academic debate (see \textcite{Kim1986-bx} and \textcite{Baker2002-bs} for opposing sides). In relation to Hansalim's use of the word, the issue of whether it is a modern reinterpretation or a rediscovery of an ancient concept, is not a critical one. In Hansalim's case, the important point is that \textit{han} is a container for an assemblage of ideas about ontology, epistemology and oneness that runs through Eastern Philosophy from ancient times \parencite[]{Harrison2022-hj} and is used in place of Chinese terminology to put a Korean spin on some of those concepts.}
 
-The combination of these two words \textit{han} and \textit{salim} expresses the vision of Hansalim to save or to nurture all of life.
-This would require a civilisation-wide transformation of cultural values, economic organisation and personal consciousness that would amount to what the Manifesto called 'the dawn of a new world embodying heaven'  (\textit{hu-cheon-gae-byeok} / 후천개벽 / 後天開闢) - \parencite[p. 101]{Hansalim2021-cy}.
 
 # Linking: civilisation change to ethics
 
@@ -323,23 +316,7 @@ On closer inspection, there are several aspects of Hansalim's structure and gove
 
 # Machine metaphor vs Life metaphor
 
-In the chapter "Holistic Life's Creative Evolution" the concept of entropy and the second law of thermodynamics are used to construct a theory of change which directly contradicts the Newtonian mechanistic model by drawing on contemporary ideas in New Science and ancient Korean thought.
-According to the Manifesto, industrialised civilisation operates as if it were a closed system, underpinned by a concept of time as absolute, uniform and reversible.
-In contrast, the theory of thermodynamics conceives of time as relative, non-uniform and irreversible.
-In a closed system, according to the second law, entropy (disorder) accumulates tending towards a static equilibrium state of motionlessness and death.
-In an open system, through self-organising processes and continual interactions, time and entropy give rise to higher dimensions of order as the web of living beings coevolve with cosmic life in a continual "becoming".
 
-The contrast between the machine model and life model of change is described in six pairs of dichotomies and a final statement about spirit.
-First, while the machine is an artificial "being" made for a pre-defined purpose, life exists in a mode of "becoming" as it grows and matures according to its own internal identity.
-Second, the machine is a simple collection of replaceable parts but life is a whole made up of nested interdependent wholes which simultaneously express individuality and collective unity.
-Third, the machine is ordered by a rigid design while life displays a flexible interaction between order and consistency on the one hand, and autonomy, irregularity and diversity on the other.
-Fourth, while the machine is a heteronomous tool (a means to an end), life is autonomously motivated by internal intentions which operate within, but not completely determined by, the limits of the environment.
-Fifth, as opposed to the closed system of the machine, life is an open system of mutual exchanges of matter, energy and information that is not only self-renewing but also creative in its interaction with the environment.
-Microcosm and macrocosm coevolve to continually transcend their previous limitations.
-Sixth, the machine operates according to linear cause and effect.
-Life thrives on disequilibrium, characterised by non-linear circulating feedbacks that provide the creative capacity to overcome former limitations and adapt to external and internal disturbances.
-Finally, implying the non-dualism of ancient Korean shamanism, the Manifesto argues that life is "spirit" (Hanul or cosmic divinity) and that this creative spirit permeates all things.
-Matter is seen not as the opposite of spirit but as co-inherent with it and expressing another aspect of the divine spirit alongside the development of reflexive consciousness and culture that characterises the human spirit.
 
 ## Not so yet so
 
@@ -423,3 +400,250 @@ Their purpose would be defined in terms of personal, economic and cultural trans
 Their ethic would be defined in terms of a spiritual (non-materialist) worldview, mutual care grounded in respect for the intrinsic dignity of all, and a conscious balancing of individual and group needs.
 Their political-economic orientation would be neither revolutionary nor reformist, not seeking to 'destroy capitalism' but to offer a functional alternative which nevertheless maintains an interface with the market against which it stands and enables a self-giving generosity towards 'outsiders.'
 Their approach to multi-stakeholder governance will make room for personal joyful interactions, the cultivation of power through face-to-face encounter and embrace conflict as a central facet of multi-stakeholder cooperation rather than pursue purity of ideology.
+
+# Methodology
+
+The initial research design set out an in-depth explorative case study including elements of participatory observation, interviews, archival and desk research supplemented by engagement and collaborative research with researchers from Hansalim's Mosim and Salim Research Institute.
+However, through the course of the project, the research method evolved beyond the initial design into an approach which, in retrospect, we characterise as a process of \textit{triple estrangement}.
+
+The notion of estrangement (or defamiliarisation) has become a topic of discussion in ethnographic method as the counterpart to immersion \parencite[]{de-Jong2013-qv}.
+It is argued that, while immersion is important for the 'thinking-from-within' \parencite[]{Shotter2006-tx} that is required to gain an insider perspective, distancing is also necessary in order to preserve 'a constant urge to problematize, to turn what seems familiar and understandable upside down and inside out' (\cite[p. 73]{Czarniawska-Joerges1992-sb}, cited in \cite[]{de-Jong2013-qv}) and to maintain an ongoing experience of surprise \parencite[]{de-Jong2013-qv}.
+Ethnographic method has developed techniques for estrangement or distancing, particularly in organisational ethnography, to help the researcher maintain a critical outsider perspective while immersed in the day-to-day lives of the researched.
+While keeping its core meaning intact we use the concept more broadly to describe a distinctive methodological approach which is not specifically ethnographic and which deploys elements of both immersion and distancing as parts of an emergent research process.
+In this sense, we apply the concept to cross-cultural case study research of social movements and organisations as cases of collective action and transformative agency.
+For this purpose, estrangement refers to a movement of perception from misplaced familiarity (seeing the case superficially through the lens of our own cultural and personal experience) through (de)familiarisation towards a critical understanding of both the familiarity and the strangeness of the object of study and our own cultural context.
+This process is focused on both knowledge and communication, aimed not only at acquiring a rich understanding of the case but also at making it comprehensible to others from within or beyond the cultural context of the researcher themself.
+
+As a research method for cross-cultural case study research we describe \textit{triple estrangement} as a three phase iterative process of (de)familiarisation resolved in a final integrative synthesis.
+Stage one, \textit{\textbf{simple estrangement}}, entails entering an unfamiliar cultural context in which one feels estranged from the case and is required to move towards familiarization with the case to gain an emic or 'insider' perspective.
+The second stage, \textit{\textbf{reflexive estrangement}}, involves estrangement from one's own cultural context as one reflects back on it from the new perspective of familiarity with the case.
+This brings the emic perspective on the case into conversation with a newly acquired etic 'outsider' perspective on the contrasting, and previously familiar, home context.
+This helps to highlight the distinctive features of the case while also identifying the similarities with one's own context and to provide a context for critical engagement with one's own context.
+The third stage is \textit{\textbf{vicarious estrangement}} in which one tries to explain one's understanding of the case to others who are themselves unfamiliar with it and who share neither one's own culture nor the culture of the research object.
+This three stage process provokes a deeper and more critical understanding of the case, generating a fresh post-immersion etic perspective on the case which can be placed alongside the emic perspective and prompts questions that the researcher would not have otherwise thought of.
+It also reveals the gaps in understanding and areas of disconnect which hinder communication of the case to those who do not share the researcher's own direct experience of it.
+It is these disconnects which the final synthesis aims at bridging.
+The final \textit{\textbf{integrative resolution}} brings together insights from the journey of \textit{triple estrangement} with concepts from relevant literatures from within and outside the cultural context to 'close the gap' by integrating these perspectives into a synthesis with relevance for both insider and outsider readers.
+
+\subsection{The research process}
+
+Below we describe the research process undertaken by the lead author, while the co-author participated throughout as a guide and conversant, drawing on their experience of working as a Mosim researcher and their subsequent PhD and post-doc research on the history of the Korean cooperative movement.
+
+The first phase of the research process, \textit{simple estrangement}, began with Korean language study and primary qualitative and desk-based research which was supported by a series of regular seminars and one-to-one discussions with Mosim researchers and the paper's co-author.
+This process generated a set of questions to include in the interview protocols for each type of interview.
+These questions and interview protocols were reviewed and revised in collaboration with Mosim researchers and the co-author and translated into Korean while interview participants were selected through a combination of selecting expert interviewees and snowball sampling.
+
+The \textit{reflexive estrangement} phase involved an iterative process of interviewing, reading and reflecting which spanned from September 2022 through June 2023.
+By simultaneously engaging with English language literature on cooperativism, ecophilosophy and political science, discussing with Mosim researchers and conducting and analysing the interviews, the author was able to identify key questions and gain deeper insight into the distinctiveness of Hansalim's evolution.
+During this time the lead author conducted 31 qualitative semi-structured interviews with various Hansalim stakeholders including 15 consumer representatives, 5 activists, 15 employees/practitioners, 18 producers, and 2 founders in various parts of the country from Seoul to Jeju.
+These were recorded, transcribed by Sonix.ai and finally proof read and organised by a native speaking research assistant to extract the answer text relevant to the interview questions.
+The extracted answer material from each interview was then translated using DeepL and coded according to the interview themes using Atlas.ti.
+The list of interviews can be seen in table \ref{interviews} below.
+
+The third phase of fieldwork, \textit{vicarious estrangement}, took the form of a study tour of European countries to present about Hansalim and listen to feedback from interested parties in these different cultural and socio-economic contexts.
+Between the 21st August and 9th September 2023 the lead author travelled to Germany, Norway, Denmark, Austria and Italy to meet practitioners, producers and researchers involved with solidarity-based organic food initiatives to not only describe the case of Hansalim but also to learn about efforts at creating alternative food systems inspired by similar goals as those of Hansalim.
+The learnings from this study tour were presented to the Mosim and Salim Rearch Institute and to Hansalim stakeholders at a meeting of the Hansalim Federation's Board of Directors.
+The final stage in this phase of fieldwork was a study tour by four European practitioners to Hansalim in May 2024, organised by the lead author in partnership with Mosim researchers.
+This phase of work raised further questions beyond those asked through the previous two phases.
+These questions reached to the heart of what 'outsiders' wanted to know about Hansalim that would be of use to them in their own contexts and also touched on how Hansalim's example could be made comprehensible to readers who were saturated in euro-centric thought styles and historical awareness.
+
+The final phase of research, \textit{integrative resolution}, brought together the findings from the previous phases of fieldwork with these further questions and sought to synthesise an understanding of Hansalim in its context.
+The aim of this synthesis was to communicate Hansalim's philosophy and evolution in such a way as to not collapse the difference and otherness of Hansalim while making it accessible and relatable to the knowledge and experience of outsiders.
+This process involved close reading of Western literature on cooperatives and political philosophy alongside a review of archival and contemporary material describing the theoretical, philosophical and historical inspiration of Hansalim's founders.
+
+# Research Question 1
+
+Defining NC in terms of these four dimensions supports two complementary paths of inquiry -- one categorical and the other relational -- both of which are necessarily Value laden.
+The first, the categorical enquiry, is to clarify the edges of the NC concept.
+Each dimension provides a conceptual space upon which to draw the borders between what might or might not be considered appropriate to NC.
+The question of how to determine the hierarchy of Values upon which to base our judgments and who gets a say in these decisions is a vital one which the four dimensions framework forces to the surface.
+It answers the question: how could Hansalim's experience provoke an expanded definition of the Values of NC?
+
+# Research Question 2 & 3
+
+The second, the relational enquiry, is to plumb the depths of NC.
+Each dimension acts as a node linking to a network of associated and interconnected Resources and Practices many of which are antagonistic to the Values we bring to NC while some are resonant and complementary.
+Exploring the possible pathways through these networks opens up a divers palette of colours with which to paint a richer picture of how NC could mature into its own multifaceted but coherent identity characterised by shared Values and Practices.
+It answers the question: what Resources for transformative change are provided by Hansalim for the development of NC? And what lessons can we draw from Hansalim's practices which are relevant to other contexts?
+
+# Park Quote
+
+\textcite{Pak2016-nd} highlight the uniqueness of Hansalim in this respect:
+
+\begin{displayquote}[{\cite[p. 17]{Pak2016-nd}}][]
+
+we know of no other instance of an intellectual movement aimed at formulating as comprehensive an ecophilosophy for the modern times as \textit{Hansalim} or one that has been able to play as extensive a role in practical terms. In fact, Hansalim can be said to have been a living experiment in how to formulate an ecophilosophy that is relevant and practical for today's world.
+
+\end{displayquote}
+
+# Titlted balance
+
+This seems to be what Yoon means by 'tiltled balance' which was originally defined by Kim Ji-ha in relation to Hansalim's journey:
+
+\begin{displayquote}[{\cite{Kim2002-xg}}]
+    "The philosophy of ‘tilted balance', along with paradoxes, is crucial to understanding life. However, the term ‘tilted balance' does not adequately describe the world of life. That is, the adjective ‘tilted' and the noun ‘balance', which denote states, do not capture the dynamism of the ever-changing world of life. The world of life is constantly tilting and tumbling rather than being in a stable balance."
+\end{displayquote}
+
+This connects with Kolakowski's claim that "dissatisfaction is the sole source of cultural creativity in all its realms."
+And subsequent observation that "the ideally conflictless society assumes a situation in which individuals have been deprived of all possibility of choice and therefore also of creativity. The creative possibility is thereby removed from society as a whole." \cite[p. 101]{Kolakowski2001-in}
+If we accept this statement, then the only conclusion that can be drawn is that, for a community such as Hansalim to survive in a changing socio-political-economic environment, it must remain creative and therefore has no choice but to face conflict head on.
+Kim Ji-ha further explains the necessary attitude with which to face this conflict and navigate the evolving tilted balance which is the source of future creativity which he derives from the Confucian doctrine of the mean (中庸):
+
+\begin{displayquote}[{\cite{Kim2002-xg}}]
+    "A more precise expression of this spirit is the term shijung (discernment - 时中), which appears in 'The Doctrine of the Mean', the second of the Four Books, written by Confucius's grandson Zisi (子思). It means to strike a balance in an ever-changing situation. This kind of person is called a virtuous person. A person who is principled, but is also able to make judgements and adjust their behaviour according to the time and situation."
+\end{displayquote}
+
+Why should discernment in this sense (and, by implication, moderation) be central the idea of a 'tilted balance'; an unstable and ever-changing creative flow?
+Here again, Kolakowski provides a helpful insight when he suggests that "the values of my culture cannot be jointly implemented and kept intact...".
+The implication of this claim is that:
+
+\begin{displayquote}[{\cite[p. 22]{Kolakowski2001-in}}]
+    "An overwhelming proportion of my acts consists of compromises in which a partial or fragmentary saving of a value occurs at the expense of saving it as a whole, and this loss is incurred in order partially to save another value... The degree of acceptable compromise -- the extent of possible abandonment of a partial actualization of a value for the sake of another value -- is not clearly defined by the norms of my culture. And this indeterminacy is the greater, the greater is the potential of my culture's flowering."
+\end{displayquote}
+
+This observation captures the root of Hansalim's creativity as a movement.
+The bringing together of the Values of the Life Movement (as laid out by the founders) and the Values of those existing and joining members from rural and urban areas and multiple socio-economic backgrounds into a shared democratic endeavour generates an unusually high level of indeterminacy over what constitutes an acceptable compromise among this great diversity of Values.
+This is one of the fundamental differences between single-stakeholder and multi-stakeholder cooperation.
+While the former bundles like-minded people together around a single interest, the latter weaves together often differently-minded people around a shared project to which they each bring a different set of interests, some of which are aligned while others are not.
+Navigating the conflicts this generates and finding acceptable compromises requires a certain degree of moderation and discernment without which the only way forward would be to exclude anyone who doesn't fit.
+
+One producer member explained:
+
+\begin{displayquote}[{NI-05 00:41:12}]
+    "However, unlike corporate organizations, Hansalim is a cooperative organization where members express their opinions on all matters, so it is possible that they come up with the best alternatives. But there are also cases where this is not the case. That is why some people are a little dogmatic, thinking that only they are right or that something is absolutely right. So, when I can express my opinion at Hansalim, I don't just say, "No, that's not right." Even if it's still a minority opinion, we discuss it through all-night debates until we reach a unanimous decision, and I think that's a very good thing."
+    %Answer: [00:41:12] 그렇지만 그 한살림이 그 기업조직하고 달리 그 서로 모든 사안에 대해서 이렇게 서로 의견을 내고 협동조합조직이다 보니까 그런 것들이 사실상 최선의 대안을 내고 그럴 수도 있지만. 그렇지 못한 부분이 있단 말이에요. 그래서 지금 그 일각에서는 약간 교조적인 그러니까 나만 옳다 내지는 이것이 절대적으로 옳다. 어떤 그런 종류의 어떤 가치관 제안을 많이 하는 경우도 있어요. 그래서 그렇지만 한살림에서 내가 어떤 의견을 낼 수 있을 때 그게 '아, 이게 아니다'라고 얘기지 않고 그게 지금까지도 그 소수의견 이지만 거의 밤샘토론을 통해서라도 만장일치로 의견을 모으고 하는 그런 부분이 상당히 좋다고 판단을 하죠. 
+\end{displayquote}
+
+A similar sentiment was expressed by a consumer member of a joint producer-consumer committee:
+
+\begin{displayquote}[{NI-01 00:18:37}]
+    'One of the most difficult things, both now and in the future, is that everyone joined Hansalim for different reasons. I also have my own personal reasons, but since the direction we are pursuing is not clearly explained, everyone ends up talking about what they want. Then, we often forget what we are really doing here… Through this experience, I realized that instead of avoiding opposition, we need a perspective that allows us to see things together and check each other. However, there are also times when opposition arises just for the sake of opposing. So, while not everything is perfect, I think we should still try to do it this way."
+    %김보경 : [00:18:37] 지금도 그렇고 뒤에도 이야기 할 지 모르겠지만 가장 어려운 것들 중 하나가 각자 한살림에 들어온 이유가 다 달라요. 저도 개인적인 이유가 또 다른 것처럼 그런데 우리가 추구하는 방향은 제대로 설명되어 있지 않은 상황이니까 내가 원하는 것만 이야기 다들 하게 되거든요. 그러면 진짜 여기가 뭐하는 곳인지 잊어 버리게 되는 경우가 종종생기게 되더라고요.… 그런 경험을 해보니까 이게 반대라고 피할 것이 아니라 같이 보면서 견제하는 시각도 필요하다고 생각하고 대신, 반대를 위한 반대도 나올 때도 있어요. 그래서 다 맞는 건 아니지만 그래도 우리가 그렇게 해야하지 않을 까 생각해요.
+\end{displayquote}
+
+
+# Relating Hansalim to Donghak
+
+One of the central insights that shaped the entire ethos of the Hansalim movement was the observation that industrial civilisation was creating a kind of totalitarian technocracy which anonymised and objectivised all beings into what they called 'bundles' such that the concrete life of each individual was erased (Vision 30). The heart of this criticism is the claim which is common to many similar critiques that, as Thomson et al. put it: "first, that capitalism instrumentalises all that it touches, including most obviously both work and consumption and, second, that it is driven by an imperative to encroach upon an ever-increasing number of aspects of human life, as we see in its neoliberal phase. The machine has a need to constantly grow and everything it touches becomes part of the machine." \cite{Thomson2021-hz} (p. 174). %note-paper-3
+
+However, the manifesto not only critiqued capitalism but also rejected the socialist alternative as equally guilty of driving the destructive progress of industrial civilization which devalued humans as if they were mere parts in a machine and exploited nature as something to be dominated and consumed in the pursuit of economic growth. They argued that industrial civilization is built upon a false mechanistic model of reality that arose from Western philosophy's atomistic view of the material and social worlds [@Hansalim1990-jb]. As a remedy, they proposed a vision for a new future of cooperation between peoples and between humanity and the non-human world based on the values and worldview of an indigenous Korean religion called Donghak (東學 'Eastern Learning', later renamed Chondogyo or 'Heavenly Way').%quote-ICA
+
+
+The optimism of this vision might seem naive were it not for the fact that it was articulated by people who had experienced the suffering of the Korean war, the fracturing of their nation into two halves and decades of struggle against brutal oppression by a military dictatorship.
+For this reason, the Manifesto's rejection of dehumanising political strategies in favor of non-violent resistance and peacemaking through reconciliation can be seen not as being idealistically Utopian but as an unflinchingly courageous realism expressed by those who have seen first hand the failure of divisive politics and class conflict.%notes-paper-1
+
+
+
+
+\subsubsection{Hansalim Manifesto}
+
+
+
+\subsubsection{Donghak}
+
+Donghak was founded by a poor scholar named Suun Choe Je-u in 1860 in Joseon (Korea) [@Young2014-an]. In the Donghak scripture the _Nonhak-Mun_ [@Kim2007-sv, p. 8-9] Suun writes that the Divine Spirit (or Hanullim) told him "My mind is your mind" (曰吾心即汝心也) which is interpreted to express the true nature of humanity as bearers of Divine Life [@Seong2020-cv]. Suun is given an incantation by Hanullim which is the means for receiving the Divine Spirit (靈) and practicing the Way.%quote-ICA
+
+In their translation of the Donggyeong Daejeon (Great Scripture of Eastern Learning), Kim and Yoon provide a translation and explanation of Suun's incantation as follows:%quote-ICA
+
+> "_Jigigeumji weonwi daegang_ (至氣今至願爲大降) which means "I pray for the great descent of the Ultimate Energy now," is the technique of receiving the Spirit, which is actually the first part of the Incantation; _Si cheonju johwa jeong_ (侍天主造化定), which means "God is within us and all are made well," is the second part of the Incantation; and _yeongse bulmang mansaji_ (永世不忘萬事知), which means "eternally not forgetting and being aware of all things," is the poem of "Not Forgetting (God)," which is the last part of the Incantation. The entire Incantation consists of twenty-one Chinese characters." [@Kim2007-sv, p. 79]%quote-ICA
+
+The incantation encompasses the central teaching of Donghak that the Hanullim (or God) is in all things and therefore humans also bear God within them. However, through selfishness and negative outside influences, people have forgotten this truth that they are fundamentally one with God and habitually act in opposition to the Way. This is the cause of human suffering and evil. To recover oneness with God one needs to cultivate the mind of God within oneself and to act justly towards others (Susim Jeonggi 守心正氣) [@Kim2007-sv, p. 70]. As people cultivate this 'Heavenly Way' then a new world begins to dawn, a 'kingdom of heaven on earth' which will ultimately come to encompass the whole cosmos, not through violent revolution but by natural becoming.%quote-ICA
+
+Seong, reflecting on the ethical relationalism of Donghak notes that: %quote-ICA
+
+> “each individual action, when seen from this point of view, is a movement of the infinite Hanullim confirming the eternity of the self and the whole within the infinite Hanullim. When I am forming a relationship with Hanullim, other people or things, I must treat (侍，事， 食）them as Hanullim; that is when the actions within these dual relationships become an action within the infinite Hanullim.” (Seong 2020, 8).%quote-ICA
+
+For Suun, the Heavenly Way can be found only through a particular way of knowing which he calls _buryeon giyeon_ (不然其然) which can be translated as "not so (buryeon), yet so (giyeon)". Kim and Yoon [@Kim2007-sv] explain this concept as follows:%quote-ICA
+
+> "According to Suun, we usually live in the phenomenal world of ordinary experience, which is _giyeon_. However, ultimately and in the deepest level of our being we live in the world of _buryeon_, which lies beyond the realm of the ordinary sense experience." [@Kim2007-sv, p. 72].%quote-ICA
+
+These and other ideas from Donghak were later taken up in the Hansalim Manifesto and form the core values of the Hansalim movement and the federation of cooperatives at its heart.%quote-ICA
+
+How could such an apparently naive and idealistic vision emerge and be implemented under such hostile conditions of rapid industrialisation and mass unrest in Korea during the 1980s? What were its effects on Korean society and what are the implications for how we think about the future role of state, private and civil society sectors in  transformations towards sustainability?
+These are the questions this paper seeks to answer.
+
+\subsubsection{Hansalim style democracy}
+
+# ICA talk
+
+### Cooperation with the non-human world
+
+In particular, the Manifesto describes food as an offering to oneself as Hanullim which should be received with gratitude to nature and the people who collaborated with nature to obtain it. Thus, eating is seen as an act of unity with the whole of life and symbolic of the cooperation between the whole of human society and the non-human world. That food is a contribution to life made by the labor of others in cooperation with Hanullim in nature and received by the one who eats. The concept of prayerful eating reframes eating as a pledge of gratitude to feed back what one has received from Hanullim, the land and ones neighbors. And central to expressing this gratitude is finding ways to nurture divine life in the world around you including the human and non-human world.%quote-ICA
+
+I see this principle expressed in Hansalim's approach to agriculture and in this way, cooperation is seen as a practice involving not just humans but also nature as equal participants.%quote-ICA
+
+My final question is whether there is something we can learn from Suun about how to intentionally cultivate the creative interplay between these two logics of cooperation. I think there is a clue in the concept of _buryeon giyeon_ that I mentioned earlier.%quote-ICA
+
+
+\subsubsection{The Work of Silence}
+
+I interpret  _buryeon_ and _giyeon_ to be equivalent to the two ways of knowing described by Maggie Ross in 'Silence: A User's Guide'. Writing from a background in Christian theology she presents the 'work of silence' in terms that invoke scientific evidence alongside the insights of religious contemplative traditions, claiming:%quote-ICA
+
+> "If we are to recover our balance -- and our humanity -- we need to unblock the flow of communication between the limited world of our self-consciousness that is linear, finite, two-dimensional, static, and dead, and our core silence -- our deep mind -- that is global, infinite, dynamic, and multi-dimensional." [@Ross2014-ci, p. 14].%quote-ICA
+
+It is the 'work of silence', the elision of self-conscious reflexive perception, that opens the way to deep mind (_buryeon_) by subverting the linear, analytical thinking of the self-conscious mind and bringing us to rest in an altogether different state of self-forgetful awareness that lies beyond the access of perception or experience [@Ross2014-ci; @Laird2006-vl]. I think that what _buryeon giyeon_ is describing as the heart of Suun's Heavenly Way is fundamentally the same principle expressed by Ross: the integration of and flow of communication between these two ways of knowing, the self-conscious linear or discursive mind (_giyeon_) and the self-forgetful spacious deep mind (_buryeon_). With this in view, Suun's incantation, meditation, prayer, cultivating the mind of Hanullim, acting rightly or justly -- all are elements of this work of silence in Suun's Heavenly Way.%quote-ICA
+
+The organizational logic that I described above is clearly  rooted in  _giyeon_ -- the linear discursive mind -- while the relational logic is rooted in _buryeon_ -- the deep mind. The organizational logic deals with what can be categorized, defined and controlled while the relational logic refers to what is ultimately indescribable, invisible and uncontrollable. The two pull apart in constant tension, the one constantly driven by the need to control the other while the other reacts violently against any hint of control. What the writings of Maggie Ross and many others suggest is that this conflict can only be brought into a creative interplay through the work of silence, which is to say through the daily practices of 'guarding the mind' (e.g. meditation or prayer) and acting justly (e.g. practicing virtues such as kindness, gentleness, openness, self-restraint). These can just as easily be non-religious as religious practices, but either way they must be rooted in an ethical framework that values human and non-human life such as the one that Donghak describes. So perhaps a deepening cooperative identity lies somewhere in the synergy between  1) organizational form, 2) relational connection, and 3) the work of silence holding the two together in creative motion.%quote-ICA
+
+In practical terms this means finding ways to regularly slow down, be still and allow the discursive mind to fade away for a while and re-enter the world of _buryeon_ or deep mind. Meditate, make art and music, sing together, go hiking alone and together. From this place of stillness we can then begin to reflect on what we are doing. We make room for people's spiritual and emotional needs to be expressed and met alongside economic ones. We consider how organizational structures and processes are hindering or enabling relational connections. It means measuring performance not simply in terms of organizational goals but in terms of individual transformation as well. It means making opportunities for playing together, sharing personal stories, lots of listening to one another and eating with one another. It means learning to communicate more carefully and intentionally, for example using tools such as Non-violent communication (which I mentioned in the extended abstract for this talk). It means thinking about the role of those who are indirectly connected to the cooperative such as children and elderly relatives. And it means taking the time to collectively work out shared values and understand the needs, aspirations and fears of everyone involved in the shared journey of become more fully human.%quote-ICA
+
+\subsubsection{Some more ways Hansalim does this work of silence}
+
+
+# Temporary cut from 'Discussion' section
+
+In answering these questions it is important to recognise that most (perhaps all) of these Values and Practices cannot not be directly transposed to other contexts without severing them from their foundations in Hansalim's unique cultural-historical Resources.
+Neither can they be used as a set of general principles to define a model or organisational blueprint for others seeking to build something similar.
+They can, however, serve as a compass, to help others to find their own paths towards similar destinations, starting as they are, from different places and with different Resources.
+
+How does your purpose address long-term global trends, present local socio-economic needs and the challenges faced by the individual in modern society?Hansalim provides an answer to this question appropriate to the historical trajectory of Korean society but also with an eye to global political, social, economic and environmental trends.The advantage of contextualising a purpose in an integrated way from the personal, through the local and national to the global sphere is that it broadens the basis for cooperation beyond local environmental or economic interests.By encompassing a huge diversity of issues important to people from various backgrounds and scales of interest and integrating them into a concern for global civilisation the potential for mobilisation is multiplied.
+
+The second is to assert the metaphysical foundations for your Values (moral rather than simply instrumental).One of the weaknesses of Cooperativism (and possibly New Cooperativism too) is the various influences of modernist and postmodernist worldviews which sidestep the question of existence as such and therefore nullify all basis for defining anything but relative values.The assumption of empiricism that existence is an arbitrary brute fact, inexplicable by any greater source of meaning, forces us to try to live by the self-contradictory utilitarian claim: "This is not a value but I believe it to be a value" since it is useful to the continued functioning of society \textbackslash{}cite[p. 23]\{Kolakowski2001-in\}.Instead, as Kolakowski argued, "both the justification of my own identity and the justification of the human community, by referring it to the common environment of objects, requires the mythical option which is contained in accepting the category of existence in a nonconditional sense" \textbackslash{}cite[p. 17]\{Kolakowski2001-in\}.It is this 'mythical option', a recovery of metaphysical thought, which Hansalim has shown to be effective in building a movement for social change which is resistant to cooption into purely economic projects.We should not shy away from asking ourselves, on what basis do I claim a moral and ethical stance?Is this basis enough to undergird a set of universal obligations which can accommodate the diverse beliefs of others via an agreed hierarchy of Values to guide our collaboration?
+
+Third, know your theory of change.Margaret Atwood writes, "That's always a problem when sweeping utopian changes are proposed: What do you do about those who don't agree with you?" Is it true, she asks, "that better for some always means worse for others? Or are there indeed some forms of positively intended change that make things better for everyone?"She goes on to pose the question "What kind of story do we think we're in?"The answer to this question will determine the bases for our theory of change and how we understand the type of transformation we seek to achieve.If we are living a story of heroes and revolution in which enemies are to be overthrown and systems destroyed our theory of change will most likely be shot through with violence, whether physical or not, and transformation will be achieved only at a high cost of hatred and destruction.If, on the other hand, our story is one defined by reconciliation and meaningful suffering and self-sacrifice our theory of change will be shaped by persistence, patience and love and transformation will be accompanied by an increase in our trust and confidence in one another.
+
+Finally, plan from the start for the next generation.When attempting to create a democratic movement or organisation the temptation is to conecentrate on short-term success and rapid growth at the expense of longevity and long-term resilience.This can lead to a shortsighted focus on the founders and the first generation of leaders and members without considering what will be necessary to ensure the continuation of the endeavor by subsequent generations long after the founders are gone.How you plan for the next generation will depend upon your metaphor for politics as the process of motivating and shaping collective action.The nineteenth century conception of politics as making (which has been uncritically adopted by many modern movements) was shaped by the revolutions of 1848 and views people as "human material" to be crafted into some new form of social order by a "strong man" leader as one crafts dead matter into use objects \textbackslash{}cite[cf][p. 188, 228,]\{Arendt2018-dn\}.Such an approach might be successful while a charismatic founder or their successor holds sway but it is unavoidably associated with the use of force, however subtle, because it is the end which justifies the means.This substitution of making for action atrophies power as the potential for collective action.The contrasting virtues of a "strong man" leader -- charisma, self-confidence, single-mindedness, ruthlessness -- and those of their followers -- loyalty, obedience, self-sacrifice -- undermine the virtues necessary to for deliberative democracy.The metaphor of politics as an indeterminate and neverending process unfolding through a web of relationships (see Arendt) provides an alternative to politics as making.In this case it is not conceived of in terms of means and ends but rather in terms of collective Action shaped by the virtues of truthfulness, humility, courage, love and the capacities for promise-making and fogiveness.Action (including politics) is therefore the essential mode of our existance as plural individuals, the condition of being for humans as people.Governance structures, therefore, need to be desinged to facilitate this moode of being for as many as are willing to share it in perpetuity.As long as this context for interaction and collective action exists, the community exists.As soon as it dissappears or degenerates, the community is lost.
+
+%\subsection{Metaphor}
+
+%To answer question 2 -- about the Resources provided by Hansalim --  we can begin by trying to harvest the fruit they have born and plant the seeds of those fruit into other contexts where they will grow and mature, nourished by the Resources discoverable within their local cultural-historical milieu.
+%We suggest that those fruit can be seen in the metaphors brought to bear by the Life Movement on the conditions of contemporary experience because it is these which will enable us to re-conceptualise what it is we are doing when we cooperate.
+%As Lakoff and Johnson observed: "Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature" \parencite[loc. 99]{Lakoff2024-xm}.
+%By reconsidering the metaphors we unconsciously adopt in our thinking and intentionally choosing alternative ones when necessary we will be able to open the doorway to new ideas and ways of being.
+
+%Chief among the metaphors deployed by Hansalim is that of the 'universe in a bowl of rice' (a drawing of which actually features on many of Hansalim's publications).
+%The symbol of a bowl of rice is given as an alternative metaphor to the machine in the mechanistic world view.
+%However, the bowl of rice is not just a different symbol but also works as a metaphor in a different way to the machine metaphor.
+%The machine metaphor is a 1:1 representation of the universe in a static relationship to its metaphorical symbol while the bowl of rice is not meant as a 1:1 representation but as a node or a kind of singularity in which all the connections in the cosmos come together.
+%As such, it represents the very real, but hidden, connections between production and consumption, and between humanity and the rest of the living cosmos.
+%Another metaphor is the grain of rice, or a sprouting seed (the logo of Hansalim), as a seed of \textit{Hanullim} which can be recognised and nurtured to life in all things and which transforms our understanding of Labour and Work at the acts of \textit{mosim} and \textit{salim} (service and nurturing).
+%\textit{Poongryu} (or flowing wind) provides yet another metaphor, one of Action.
+%In opposition to the traditional metaphor of political action as 'making' (the shaping of inert matter) it evokes the initiation of processes which flow in unpredictable and unforeseeable ways, directed by no-one but influenced by everyone.
+%There are many others also, but these are enough to provide productive examples of how we can "think what we are doing." \cite[p. 4]{Arendt2018-dn}
+
+%Second point is about looking for equivalent or resonant Resources in our own contexts.....
+
+
+
+
+\subsection{Labour-Work-Action}
+
+The final question -- what lessons can be drawn from Hansalim's Practices? -- raises the issue of translating culturally embedded forms of activity into other contexts.
+It is obvious that Hansalim's Practices cannot be simply copied and replicated elsewhere.
+Nevertheless, they can provide inspiration for contextualised equivalents which aim at similar combinations of Labour, Work and Action across the four dimensions.
+
+The Practices of collective transformative learning, polysemic participation and transparent deliberation in Hansalim are strongly shaped by cultural and institutional factors such that their specific forms (e.g. training styles, rituals, meeting protocols, formal and informal hierarchies, methods for transparency, structures for deliberation) may appear quite unfamiliar to outsiders and not suitable for other contexts.
+However, the emphasis on emotional connection, commitment to shared study, the principal of transparency, the requirement for structured deliberation, rules based procedures etc. can be reinterpreted in other contexts without undue difficulty.
+
+For many of these Practices, however, there are of course already plentiful examples in most other contexts which could be considered equivalent.
+For example, storytelling and intentional modification of terminology, Value-based trade and face-to-face communication, nurturing shared meals, agriculture and life are already part of solidarity-based food systems and New Coopertives to varying degrees.
+Non-violent protest and policy advocacy are common activities of civil society organisations but pehaps not as strongly emphasised in NC as they are by Hansalim.
+The distinctiveness of Hansalim, then, is to bring these various Practices together into the life of a single cooperative movement and organisation.
+
+Through the Practice of Nurturing shared meals, agriculture and life, creating a comprehensive and flexible alternative economy, and commoning the Labour of food production, preparation and distribution is joined to the Work of forming the more permenant material environment (meeting spaces, farms, workplaces, canteens, gardens) which provide the concrete symbols of an enduring community connecting rural and urban worlds.
+This is in stark contrast to the ephemeral structures implied by the vision of DisCO's as distributed, extremely online collectives.
+Also part of this Work, is the reification of community identity through the artistic Practice of storytelling and the intentional use of language as not merely a means for communication but as forming the world of ideas and historical consciousness within which thinking and Action take place.
+
+This 'world' of Hansalim, in turn hosts (physically and metaphorically) the myriad types of Action expressed in Value-based trade and face-to-face communication, collective transformative learning, polysemic participation, non-violent protest and policy advocacy, poongryu, Council democracy and transparent deliberation.
+Labour, Work and Action are thus not seperated by a division of reponsibilities but form part of the experience of everyone involved according to their willingness to participate.
+Cooperation thus involves not only collaborative Labour (production), Work (making) and Action but also brings all three together in the experience of all active members so that those who Labour, also participate in Work and Action, while those who Act and Work also particpate in Labour.

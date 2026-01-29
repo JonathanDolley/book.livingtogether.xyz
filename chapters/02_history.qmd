@@ -23,23 +23,13 @@ In this chapter we take a long detour through history to understand the deep fou
 
 ## Cultural-Historical Background
 
-If you look closely at the timeline in @fig-timeline you will notice that, before the annexation of Korea by Japan, it was known as 'Joseon.' The entire peninsula of Korea from the boarder with Manchuria in the north to the Island of Jeju in the South Sea was governed by the Yi Dynasty for more than 500 years from 1392 until a brief period of independent modernisation began in 1897 only to be cut short when Japan began its take-over in 1904.[@Hwang2021-dl] The Yi Dynasty and its literary elites were heavily influenced by Confucian ideology and statecraft and the Joseon era was shaped by the dominance of a uniquely Korean form of neo-Confucianism.
+Before the annexation of Korea by Japan, it was known as 'Joseon.' The entire peninsula of Korea from the boarder with Manchuria in the north to the Island of Jeju in the South Sea was governed by the Yi Dynasty for more than 500 years from 1392 until a brief period of independent modernisation began in 1897 only to be cut short when Japan began its take-over in 1904.[@Hwang2021-dl] The Yi Dynasty and its literary elites were heavily influenced by Confucian ideology and statecraft and the Joseon era was shaped by the dominance of a uniquely Korean form of neo-Confucianism.
 
 The influence of Confucianism in Korea is a legacy of centuries of intellectual and cultural commerce with China as Korea's nearest neighbour by land. However, in the context of the history of Korean civilization (between 3000 and 5000 years depending on who you ask) Confucian thought plays only one part among others. Since long before the arrival of Buddhism and Confucianism, Korea's cultural evolution has been uniquely shaped by an ancient bedrock of shamanism that was closely intertwined with rural life [@Harvey1980-zs; @Choi2008-ou]. Throughout the entire history of Korea the shamanistic beliefs and practices of the common people have remained stubbornly unmoveable, even from the royal courts, and were variously tolerated by or incorporated into the state religious ideology of each dynasty [@Kim1977-oc; @Hwang2021-dl].
 
 Park Kyong-ni, the renowned author of *Toji* ('Land'), described Korea's  journey from a Shamanistic worldview to Buddhism and finally Confucianism as one of a narrowing of perspective [@Park2002-kg]. The unlimited world inhabited by an infinite diversity of spirits became a philosophically bounded world under Buddhism and finally a hierarchically bounded world of Confucian social ideals in which the invisible and intangible was subordinated to the practical social life of the community.
 
 As Buddhism became the dominant ideology and a powerful political force in the pre-Joseon dynasties, shamanism became less important in the rites of the state but remained part of the day-to-day lives of the population at large. The transition from the Goryeo period (918-1392) to the Joseon dynasty (1392-1910) brought with it a turn away from Buddhism as the state religion towards neo-Confucianism and the institutionalisation of shamanism as profession in service of the state. Reacting to the internal conflicts and upheaval of the late Goryeo period, the newly established Joseon state sought to create a more stable Kingdom. On the one hand, with a purposeful focus on Confucian ethics, the state enacted tax reforms to stabilise government finances while eliminating unfair tax burdens and refocusing the economy on agriculture and away from commerce and other economic activities[@Hwang2021-dl, p. 60] regarded as improper (because they were profit-making). On the other hand, new measures were used to protect class privilege by adopting the neo-Confucian model of family and social structure as the state ideology; perpetuating chattel slavery, reinforcing dependence of the majority of commoners on feudal systems and closing down social mobility.
-
-::: {#fig-timeline}
-```{r}
-#| label: timeline
-```
-
-![](../diagrams/timeline.png){group="diagrams"}
-
-Timeline of Korean history and evolution of the cooperative movement
-:::
 
 ### The Joseon class system {.unnumbered}
 
@@ -235,6 +225,28 @@ Notes for rest of chapter:
 1. Donghak Uprising was not aligned with Su-un and Haewol's teaching but merged with wider popular peasant uprisings into a more violent expression of discontent but also formed self-governing jipgangso.
 2. Ultimately the uprising failed and precipitated Japanese occupation and then Donghak became a formalised religion called Cheondogyo.
 
+
+*Dure* is an ancient tradition of collective organisation among peasant farmers which became popular throughout the Korean peninsula during the Joseon period. 
+Rice cultivation required intense periods of collaborative labour at specific times throughout the season and, as the technique of transplanting became established during the eighteenth century, this requirement only increased.
+The *dure* functioned as farmers' village cooperatives in which all able bodied village members participated and which coordinated the activities of production while also providing for the needs of widows and the elderly and infirm from the shared assets of the village.
+To ease the burden on members, the *dure* organised music to accompany collective labour (called *nong-ak* or 'farm music'), provided refreshments and alcohol for the rest periods and held celebrations to punctuate the working year.
+These activities were governed in a democratic way through village assemblies, the election of officials and the assiduous keeping of records and accounts.
+Importantly, they were run independently from the ruling elites (who had their own separate institutions for cooperation) and fiercely resisted any attempt at interference from above.
+The Hansalim founders drew upon this long tradition of peasant democracy, reviving the idea of democratically organised, community-based production in agriculture as a fundamental building block of the movement.
+They also recognised the importance of the culture of democratic cooperation that was preserved by *dure* through the combination of labouring and celebrating, within the democratic Practice of the organisation.
+However, in order to ground this model of democratic living in a framework for personal and social transformation, they needed a coherent worldview.
+
+### The Way of Donghak
+
+Donghak (Eastern Learning, now called Cheondogyo) was founded in 1860 by an impoverished scholar called Su-un (Choi Je-u) as a reaction against both Western Imperialism and the corrupt Neo-Confucian caste system that dominated Korean society at the time.
+Su-un's central message was that all things bear divine life (Hanullim) within themselves and that the Heavenly Way of union with Hanullim was open to all people through contemplation and righteous conduct.
+His message of equality and simple spirituality quickly spread and ignited a mass movement for social change among the peasant population.
+This movement eventually culminated in an armed uprising in 1894 know as the Donghak Peasant Rebellion.
+It centred around Gwangju and the Jeolla province and lead to a brief period of self-rule in the province via 54 Jipgangso (independent commoner organizations) and a treaty for protection of citizen's rights and social reform.
+Although this uprising ultimately failed, crushed by Japanese troops less than a year after it began, it has remained a powerful inspiration for independence and pro-democracy movements in Korea until the present day.
+
+
+Focus more on the Manifesto's interpretation of Donghak with quotes from the Manifesto.
 
 
 ***

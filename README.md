@@ -1,23 +1,43 @@
-To convert tikz pictures to png images for including in documents do the following.
+To publish run "quarto publish netlify"
 
-1. Open the terminal.
-2. cd diagrams
-3. Run "latex filename"
-4. Run "dvips filename"
-5. Run "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=output.png input.ps"
+To convert individual tikz pictures to png images for including in documents do the following.
 
-e.g. "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=stakeholders.png stakeholders.ps"
+Run "tikz2png filepath.tex" in terminal to create the png using poppler.
 
-e.g. "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=federation.png federation.ps"
+This command runs the following function saved in the ~/zshrc file:
 
-e.g. "gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=timeline.png timeline.ps"
+function tikz2png() {
+    # 1. Check input
+    if [ -z "$1" ]; then
+        echo "Usage: tikz2png path/to/filename.tex"
+        return 1
+    fi
 
-- dSAFER: Runs Ghostscript in safe mode.
-- dBATCH: Exits Ghostscript after processing the file.
-- dNOPAUSE: Does not pause after each page.
-- sDEVICE=pngalpha: Sets the output device to PNG with alpha channel support.
-- r300: Sets the resolution to 300 DPI (adjust as needed).
-- sOutputFile=output.png: Specifies the output PNG file name.
-- input.ps: The name of your input PS file.
+    local input_file="$1"
+    # Get the folder where the .tex file lives
+    local dir_name=$(dirname "$input_file")
+    # Get the filename without extension
+    local base_name=$(basename "$input_file" .tex)
 
-Replace output.png with your desired output file name and input.ps with the name of your PS file. This command will convert your PostScript file to a PNG image with the specified resolution.
+    echo "⚙️  Processing ${base_name} inside ${dir_name}/..."
+
+    # 2. Compile specifically into the target directory
+    # -output-directory ensures the .pdf ends up next to the .tex, not in root
+    pdflatex -output-directory "$dir_name" "$input_file" > /dev/null
+
+    # 3. Check if PDF was created successfully
+    if [ ! -f "${dir_name}/${base_name}.pdf" ]; then
+        echo "❌ Error: PDF creation failed. Check for LaTeX errors."
+        return 1
+    fi
+
+    echo "📸 Converting PDF to PNG..."
+    
+    # 4. Convert using the full path
+    pdftoppm -png -r 300 -singlefile "${dir_name}/${base_name}.pdf" "${dir_name}/${base_name}"
+
+    # 5. Cleanup the specific artifacts in that folder
+    rm "${dir_name}/${base_name}.pdf" "${dir_name}/${base_name}.log" "${dir_name}/${base_name}.aux"
+
+    echo "✅ Success! Saved to ${dir_name}/${base_name}.png"
+}

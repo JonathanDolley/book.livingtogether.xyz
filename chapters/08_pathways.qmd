@@ -3,11 +3,17 @@
 ## Europe Tours
 
 Tell the story of how I travelled round Europe talking to people about Hansalim and getting feedback.
-Introduce the European coops I visited plus some other examples from the literature, plus Reko, Thomas Snellman and Grani from Finland.
+Introduce the European coops I visited plus some other examples from the literature, plus Reko, Thomas Snellman and Grani from Finland. Examples from the UK including the mobile grocery stores, food hubs, food banks, multibanks, community kitchens, Riverford Organics B Corp.
 
-## Comparative analysis
+## Comparative analysis of business models
 
 Make comparison between the European cases and Hansalim based on the proximity paper but without the difficult jargon.
+
+## Comparative analysis of policy contexts
+
+UK support for organics and coops.
+EU support for organics and coops.
+Korean support for organics and coops.
 
 ## Lessons
 

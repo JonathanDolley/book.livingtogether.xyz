@@ -13,6 +13,9 @@ Chapter notes
 
 ---
 
+One of the striking things about the Manifesto, aside from its fascinating philosophical and spiritual discussions, is its lack of prescriptions on methods and models of organisation. In fact, the cooperative model itself is never mentioned and appears only in the background as the most appropriate means available at the time for organising economic cooperation as part of the wider Life Movement. This lack of definition of organisational strategy set the scene for a continual evolution of forms and structures within Hansalim as circumstances changed, new approaches were tried out and succeeded or failed, and as learning and experience accumulated. As a consequence the subsequent development of Hansalim as a movement and organisation is extremely complex and diverse but the core principles of democratic autonomy and ecological responsibility run all the way through it as the hard-won fruits of decades of committed struggle and sacrifice.
+
+
 Timeline of organisational change.
 
 ```{mermaid}

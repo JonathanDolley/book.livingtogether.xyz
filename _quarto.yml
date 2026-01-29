@@ -1,5 +1,7 @@
 project:
   type: book
+  resources:
+    - "files/"
 
 book:
   title: "Hansalim: the universe in a bowl of rice"
@@ -22,7 +24,6 @@ book:
     - chapters/01_hansalim.qmd
     - chapters/02_history.qmd
     - chapters/03_foundations.qmd
-    - chapters/04_development.qmd
     - chapters/references.qmd
   appendices:
     - appendices/01_farming_blog.qmd
