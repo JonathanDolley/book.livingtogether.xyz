@@ -5,6 +5,14 @@ comments:
     repo: JonathanDolley/book.livingtogether.xyz
 ---
 
+***
+
+::: {.column-screen}
+![Kim Yongwon: The Reflection of Inner Side ; exposure #21](../images/kimyongwon/inner-side-exposure-number-21-sample.png)
+:::
+
+***
+
 ::: {.callout-note}
 Final draft.
 
@@ -402,7 +410,7 @@ Therefore:
 > "From “han” or one cosmic life, the sky, land, and people are created, become imbued with life of their own, and then become united again with cosmic life as one. Thus, “han” means being everywhere and not leaving out  anything."[@Hansalim2021-cy, p. 84]
 
 This concept was given fresh clarity in the philosophy of Donghak which gave Han the name Hanullim in reference to a personal immanent God as an object of faith and devotion and the source of morality.
-Donghak taught that Hanullim dwells within all people; an idea communicated in the phrase Innaechun (인내천 / 人内天) which translates literally as "within people is heaven".
+Donghak taught that Hanullim dwells within all people; an idea communicated in the phrase Innaecheon (인내천 / 人内天) which translates literally as "within people is heaven".
 The central incantation of Donghak is a prayer to be filled with the Divine Spirit for the sake of the peace of the world and it main practices are contemplative prayer (or meditation) and actions of justice and service to cultivate the seed of Divine Life within.
 
 The Manifesto draws seven key concepts from Donghak which can be summarised as follows:
@@ -426,6 +434,7 @@ The Manifesto draws seven key concepts from Donghak which can be summarised as f
 
 The final chapter of the Manifesto attempts to set out how these concepts or principles define Hansalim.
 In summary, Hansalim is:
+
 1. **Cosmic awakening about life**: to recognise the position of humanity as a part of the vast tree of divine cosmic life while also bearing a unique responsibility as carrying that cosmic life and the mind of Hanullim latent within their hearts.
 2. **Ecological awakening about nature**: to recognise that the earth, too, "possesses a mind of its own as Gaia" and that the matter itself is imbued with spirit and consciousness so that we have a responsibility to live in symbiosis with the earth.
 3. **Communal awakening about society**: to recognise that humans are born into community and survive through cooperation "in an endless exchange and circulation of matter and energy, information and knowledge, emotion and spirit" and that "when people treat other people as Hanul, they can make the world sublime" [@Hansalim2021-cy, p. 136-7] 
@@ -437,9 +446,10 @@ In summary, Hansalim is:
 The Manifesto ends with a quote from the founder of Donghak, Choe Je-u:
 
 > The boundless principle, boundlessly beheld,
+>
 > Is it not, inside this boundless enclosure,
+>
 > boundless me?
-
 
 ---
 
