@@ -24,12 +24,16 @@ book:
     - chapters/01_hansalim.qmd
     - chapters/02_history.qmd
     - chapters/03_foundations.qmd
+    - chapters/04_development.qmd
+    - chapters/05_consumers.qmd
+    - chapters/06_practitioners.qmd
+    - chapters/07_producers.qmd
+    - chapters/08_organisational_structure.qmd
     - chapters/references.qmd
   appendices:
     - appendices/01_farming_blog.qmd
     - appendices/02_illustrated_farming.qmd
-
-#bibliography: references.bib
+    - appendices/03_aoa_coop.qmd
 
 format:
   html:
