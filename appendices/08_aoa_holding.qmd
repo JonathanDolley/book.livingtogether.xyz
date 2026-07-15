@@ -1,0 +1,48 @@
+---
+number-sections: false
+---
+
+# Non-Profit Holding Company
+
+```{r}
+#| echo: false
+#| results: hide
+
+# Initialize our counters and a dictionary to store the references
+art_counter <- 0
+sub_counter <- 0
+art_refs <- list()
+
+# Generates a new Article number and resets the sub-clause counter
+new_art <- function(id) {
+  art_counter <<- art_counter + 1
+  sub_counter <<- 0 
+  art_refs[[id]] <<- as.character(art_counter)
+  return(art_counter)
+}
+
+# Generates a new Sub-clause number (e.g., 1.1, 1.2)
+new_sub <- function(id) {
+  sub_counter <<- sub_counter + 1
+  val <- paste0(art_counter, ".", sub_counter)
+  art_refs[[id]] <<- val
+  return(val)
+}
+
+# Retrieves a stored number for cross-referencing
+ref <- function(id) {
+  return(art_refs[[id]])
+}
+```
+
+## Explicit Non-Profit Purpose:
+
+The Company is established as a non-profit entity (ideelt aksjeselskap) pursuant to Section 2-2 of the Limited Liability Companies Act. The company’s sole purpose is to acquire, hold, develop, and lease infrastructure, land, intellectual property, and software exclusively to the Cooperative Federation and its member organisations in alignment with the Movement’s Ethical Charter."
+
+## Total Reinvestment & Dividend Ban:
+
+The Company shall not distribute dividends or financial returns to its shareholder. 100% of operating surpluses derived from lease revenues shall be allocated entirely to asset maintenance, R&D, or distributed directly to the parent Foundation to fund Bildung and democratic consensus frameworks.
+
+## Dissolution Asset Lock:
+
+In the event of the dissolution or liquidation of the Company, all remaining assets, real estate titles, and intellectual property shall automatically and unconditionally revert to the parent Foundation. No assets shall be distributed to any other third party.

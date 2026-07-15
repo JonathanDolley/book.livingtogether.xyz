@@ -68,6 +68,10 @@ To fulfil its purpose, the cooperative may conduct the following business activi
 ### Article `r new_art("community")`: Contribution to the Local Community {#contribution}
 The cooperative shall endeavour to promote the sustainable economic, social, and cultural development of the local community and to preserve the environment and natural ecology.
 
+### Article `r new_art("lease")`: Infrastructure & Lease Conditionality {#lease}
+
+The cooperative’s right to access, utilize, or lease the shared movement infrastructure (including logistics hubs, brand assets, and proprietary software) is strictly conditional upon remaining a member in good standing with the Federation and maintaining total compliance with the Ethical Charter. A breach of the Ethical Charter shall result in the immediate forfeiture of all leaseholds and software access keys.
+
 ## Chapter 2 Membership
 
 ### Article `r new_art("membership")`: Members and member classes {#membership}
@@ -88,7 +92,7 @@ The cooperative shall endeavour to promote the sustainable economic, social, and
 ### Article `r new_art("expulsion")`:  Expulsion {#expulsion}
 
 1. The cooperative may, upon resolution of the general assembly, expel a member or suspend their membership if the member falls under the following cases:
-   1. When the member has not used the Association's facilities or services for a continuous period of one year or more.
+   1. When the member has not used the cooperative's facilities or services for a continuous period of one year or more.
    2. When the member has neglected to pay their capital contribution, expenses, or the cost of supplied goods or services, or has failed to fulfil such obligations despite receiving a formal demand.
    3. When the member has engaged in conduct that obstructs the cooperative's business or causes it to lose credit.
    4. When violating the Articles of Association or other regulations.
@@ -97,7 +101,7 @@ The cooperative shall endeavour to promote the sustainable economic, social, and
 
 ### Article `r new_art("shares")`: Share Classes and Capital Contributions {#shares}
 
-1. The Association’s shares are divided into two classes: Series M (Membership), Series T (Tradable).
+1. The cooperative’s shares are divided into two classes: Series M (Membership), Series T (Tradable).
 2. Series M Shares: Every member of the cooperative is obligated to subscribe to two (2) Series M share upon admission.
    1. The subscription price for a Series M share is [e.g. €20].
    2. Series M shares entitle the holder to one (1) vote at the General Assembly, subject to the ‘One Member, One Vote’ principle.
@@ -108,16 +112,16 @@ The cooperative shall endeavour to promote the sustainable economic, social, and
    2. If Series T shares are over subscribed they shall be allocated by lottery.
    3. Series T shares are tradable but non withdraw-able and may be traded at the nominal price to other members of the cooperative.
    4. Series T shares shall be converted to Series M shares at a time decided by the General Assembly up to a maximum of 5 years after issue.
-4. Capital contributions payable to the cooperative shall not be set off against claims against the Association.
-5. Capital contributions may also be made in kind. In the case of contributions in kind, the contribution amount shall be calculated as stipulated in the Articles of Association. In such cases, the contributor in kind shall deliver the entirety of the property constituting the contribution to the Association or to a location designated by the Association by the contribution payment deadline. 
+4. Capital contributions payable to the cooperative shall not be set off against claims against the cooperative.
+5. Capital contributions may also be made in kind. In the case of contributions in kind, the contribution amount shall be calculated as stipulated in the Articles of Association. In such cases, the contributor in kind shall deliver the entirety of the property constituting the contribution to the cooperative or to a location designated by the cooperative by the contribution payment deadline. 
 6. Special capital contributions may be raised for specific purposes necessary for the smooth operation of the cooperative, such as purchasing, promotion, facility investment, welfare, cultural, and environmental projects for the local community. In such cases, the number of capital shares held by any one member shall not exceed the limits set out in paragraph 2.4 or in accordance with paragraph 3.
 
 ### Article `r new_art("certificate")`: Issuance of share certificates {#certificate}
 
 1. The chairperson of the cooperative shall, when a member makes their initial contribution payment pursuant to the provisions of [Article `r ref("shares")`](#shares), and when a member so requests, issue to the member a share certificate or other document confirming the contribution, bearing the chairperson's signature and seal, which shall include the following details. Depending on the circumstances, the cooperative may provide guidance enabling members to directly query and print the following details:
-   1. Name of the Association
+   1. Name of the cooperative
    2. Member's name or designation
-   3. Date of joining the Association
+   3. Date of joining the cooperative
    4. Date of payment of capital contribution
    5. Amount of capital contribution or number of shares
    6. Date of issue
@@ -140,16 +144,27 @@ The cooperative shall endeavour to promote the sustainable economic, social, and
 
 ### Article `r new_art("voluntary-reserve")`: Voluntary reserve fund {#voluntary-reserve}
 
-1. The Association may, from the surplus of each financial year, after deducting the statutory reserve fund pursuant to [Article `r ref("statutory-reserve")`](#statutory-reserve), set aside up to 10% of the remaining surplus as a discretionary reserve fund, as determined by the General Assembly.
+1. The cooperative may, from the surplus of each financial year, after deducting the statutory reserve fund pursuant to [Article `r ref("statutory-reserve")`](#statutory-reserve), set aside up to 10% of the remaining surplus as a discretionary reserve fund, as determined by the General Assembly.
 2. Discretionary reserves may be expended for special purposes as determined by the General Assembly, including business development costs necessary to realise the objectives of the cooperative, pioneering activities, education, welfare, fostering organic farming, contributions to support rural communities and funds to support the formation of other cooperatives.
 
 ## Chapter 4 General assembly and board of directors
 
 ### Article `r new_art("general-assembly")`: General assembly
 
-1. The cooperative shall have a General Assembly.
+1. The General Assembly shall be the highest decision-making body of the cooperative.
 2. The General Assembly shall be divided into regular and extraordinary meetings.
 3. The General Assembly shall consist of members or delegates, with the Chairperson acting as its chair.
+
+### Article `r new_art("delegates")`: Delegates meeting {#delegates}
+
+1. Where the number of members exceeds 300, a Delegates' Meeting may be established in lieu of the General Assembly. 
+2. Delegates shall be elected from among the members.
+3. The voting rights and electoral rights of delegates may not be exercised by proxy.
+4. The number of delegates shall be determined annually by the Board of Directors within a range of 100 or more, and their term of office shall be two years.
+5. The term of office of a delegate elected to fill a vacancy shall be the remaining period of the predecessor's term. 
+6. Delegates shall be elected by the members, with the election method stipulated in the bylaws.
+7. Provisions concerning the General Assembly shall apply mutatis mutandis to the General Assembly of Delegates, in which case "members" shall be deemed to mean "delegates". The General Assembly of Delegates may not resolve matters concerning the merger, division, or dissolution of the Association. 
+(Note) A term of two years is recommended to reduce the administrative burden and budgetary costs associated with delegate elections.
 
 ### Article `r new_art("agenda")`: Matters requiring general assembly resolution {#agenda}
 
@@ -166,7 +181,7 @@ The following matters shall require resolution by the General Assembly:
 9.  Election of one ordinary Auditor and one Deputy Auditor.
 10. Amendment of the Articles of Association.
 11. Enactment, amendment, or abolition of regulations.
-12. Merger, division, dissolution, or suspension of operations of the Association.
+12. Merger, division, dissolution, or suspension of operations of the cooperative.
 13. Expulsion of members
 14. Determination of the maximum borrowing limit
 15. Matters concerning the establishment of subsidiaries and investments
@@ -174,16 +189,30 @@ The following matters shall require resolution by the General Assembly:
 
 ### Article `r new_art("board")`: The board and balanced governance {#board}
 
-1. The affairs of the cooperative are managed by the Board elected at the Annual General Meeting.
-2. The Board consists of a Chairperson and between 4 and 7 ordinary members.
-3. To ensure equitable, multi-stakeholder governance, the Board must contain an equal representation of seats allocated to Consumer Members, Producer Members and Employee Members wherever possible. 
-4. The Board chooses a Vice-Chairperson, a Secretary, and a Treasurer from among its members or externally.
+1. The cooperative shall have a Board of Directors, which shall decide on the execution of the Association’s business.
+2. The Board of Directors shall consist of four types of director and be formed as follows:
+   1. Founder director: one directorship to be held by the named founder of the Association and limited to 5 years at which time it shall become an ‘Elder’s seat’ elected by the General Assembly from a pool of former board members with significant experience.
+   2. Organisational directors: up to three directors elected from among the delegates by the whole General Assembly through the election method stipulated in the bylaws.
+      1. In the case of a delegate assembly each sub-division of the Association may select a candidate each to be nominated by that sub-division's full delegation.
+   3. Stakeholder directors: three directors shared out among stakeholder groups elected through hybrid caucus model according to paragraph 6. With three stakeholder groups one director is allocated to each stakeholder group. With two stakeholder groups, the larger group is allocated two director seats and the smaller group is allocated one director seat. With one stakeholder group, the stakeholder seats convert to an additional 3 Organisational directorships.
+   4. Independent director: a seat for an independent trusted expert invited by the board of directors (this could be one of the directors of another member association of the Federation or a movement outsider with a shared interest).
+3. Organisational directors shall serve staggered 3 year terms with no more than a third up for election each year with a maximum of two consecutive terms and a mandatory 3 year cooling off period.
+4. Stakeholder directors shall serve staggered 3 year terms with no more than a third up for election each year with a maximum of two consecutive terms and a mandatory 3 year cooling off period.
+5. Independent directors shall serve 3 year terms with a maximum of two consecutive terms and a mandatory 3 year cooling off period.
+6. Election of stakeholder directors shall be through a hybrid caucus model as follows:
+   1. At the General Assembly, delegates break into their three stakeholder caucuses (producers, consumers, workers) to discuss their priorities and nominate 2-3 candidates for each seat.
+   2. Once all candidates have been nominated they are presented on a single ballot for election by the entire General Assembly through the election method stipulated in the bylaws.
+7. The Founder director shall hold the role of chairperson for 3 years from the date of the Association’s establishment after which time the Chairperson shall be elected from among the board of directors by majority vote of the board. The chairperson may only be re-elected once.
+8. The Chairperson shall convene the Board of Directors and preside over its meetings.
+9. Notice of a Board meeting shall be given to each director at least seven days prior to the meeting date, stating the purpose, time, and place of the meeting, via text message, email, or in writing. However, where urgency requires and a majority of the Board members agree, the convening procedure may be omitted. 
+10. One-third or more of the directors or all auditors may request a meeting by submitting a document stating the purpose of the meeting and the reason for its convening.
+11. Upon receiving a request under Paragraph 10, the Chairperson shall convene the Board of Directors within seven days.
 
 ### Article `r new_art("voting")`: Voting rights and election rights {#voting}
 
 1. Each delegate of the cooperative shall have one (1) vote in the General Assembly regardless of the number of shares held.
 2. A resolution by the Cooperative General Assembly regarding the following matters shall require a two thirds majority to pass:
-   1. Amendments to the rules pertaining to any change to the Association’s mission ([Article `r ref("purpose")`](#purpose)) membership structure ([Article `r ref("membership")`](#membership)), voting rights ([Article `r ref("voting")`](#voting)), removal of the asset lock ([Article `r ref("dissolution")`](#dissolution)), or changes to the core operational definitions ([Article `r ref("activity")`](#activity)).
+   1. Amendments to the rules pertaining to any change to the cooperative’s mission ([Article `r ref("purpose")`](#purpose)) membership structure ([Article `r ref("membership")`](#membership)), voting rights ([Article `r ref("voting")`](#voting)), removal of the asset lock ([Article `r ref("dissolution")`](#dissolution)), or changes to the core operational definitions ([Article `r ref("activity")`](#activity)).
    2. Structural changes including merger, demerger, transformation into a limited company.
    3. Asset disposal including the sale or pledge of the cooperative's core operational assets or intellectual property.
    4. Changes to the criteria for admitting new members if such changes impact the purpose.
@@ -192,7 +221,7 @@ The following matters shall require resolution by the General Assembly:
 
 ### Article `r new_art("dissolution")`: Dissolution and allocation of assets
 
-1. The decision to dissolve the association requires a three-quarters majority of the votes cast at a general meeting. 
+1. The decision to dissolve the cooperative requires a three-quarters majority of the votes cast at a general meeting. 
 2. Should residual assets remain after the cooperative has settled its debts following dissolution, these shall be distributed to the members in proportion to their shareholdings up to the amount of their invested share capital including series M and T shares plus any remaining interest up to the prevailing market interest rate.
 3. If on the winding up or dissolution of the cooperative there remains, after the satisfaction of all its debts and liabilities and the repayment of the paid-up share capital according to paragraph 1, any assets whatsoever, such assets shall not be paid to or distributed among the members or shareholders of the cooperative but shall be transferred to the [insert name] foundation or, if the [insert name] foundation is unable to receive them, to another non-profit entity pursuing a similar purpose in [insert country].
 
@@ -202,9 +231,9 @@ Should the cooperative have a loss carried forward from the previous year or inc
 
 ### Article `r new_art("dividend")`: Distribution and carry-forward of surplus {#dividend}
 
-1. Where surplus remains after covering losses pursuant to [Article `r ref("losses")`](#losses) and setting aside reserves under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), the Federation shall distribute at least [e.g. fifty] percent of such surplus to members by resolution of the General Assembly.
+1. Where surplus remains after covering losses pursuant to [Article `r ref("losses")`](#losses) and setting aside reserves under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), the cooperative shall distribute at least [e.g. fifty] percent of such surplus to members by resolution of the General Assembly.
 2. When distributing surplus under Paragraph 1, the calculation of each member's dividend shall be based on the proportion of business utilisation or the number of shares subscribed by the member. In such cases, surplus dividends shall comply with the following principles:
    1. Dividends based on business utilisation shall constitute at least fifty per cent of the total dividend amount.
    2. The dividend ratio based on paid-up capital shall not exceed the prevailing market interest rate level.
 3. The method and procedures for surplus dividend distribution shall be stipulated in the bylaws.
-4. Where a surplus remains after implementing the reserves under [Article `r ref("losses")`(1)](#losses), the accruals under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), and the dividends under paragraph (1), the Federation may, by resolution of the General Assembly, carry forward the surplus to the next financial year.
+4. Where a surplus remains after implementing the reserves under [Article `r ref("losses")`(1)](#losses), the accruals under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), and the dividends under paragraph (1), the cooperative may, by resolution of the General Assembly, carry forward the surplus to the next financial year.

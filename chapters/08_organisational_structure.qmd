@@ -4,6 +4,8 @@ subtitle: Creating a Hansalim-style Movement in Europe
 ---
 
 This chapter sets out the organisational structures that would be required to support a hypothetical Hansalim-style movement of multi-stakeholder cooperation in Europe.
+It is based on my assessment of Hansalim's strengths and weaknesses and attempts to improve on those strengths while mitigating the weaknesses inherent within a democratic endeavour such as Hansalim.
+Since it is a kind of blueprint for an organisational design, this chapter is structured as report with an executive summary at the top followed by a step-by-step explanation and accompanied by extensive appendices.
 
 ## Executive Summary {.unnumbered}
 
@@ -453,15 +455,19 @@ Having covered all the details of how the cooperative organisations would work, 
 In summary, the federation and member associations would be established as cooperatives under the European and national cooperative laws.
 The Foundation would be registered in Norway as a Commercial Foundation.
 The holding companies would be established as Limited Liability Companies under the relevant acts in each jurisdiction.
-In the appendices you will find details of the clauses that you should included in the articles of association or incorporation for each respective organisation.
+In the appendices you will find details of the clauses that you should include in the articles of association or incorporation for each respective organisation.
 
 In most European countries, the most suitable structure is to have:
-The Federation and member associations established as cooperatives under the 2013 Finnish Cooperative Act (421/2013);
-The Foundation registered in Norway as a Commercial Foundation (Næringsdrivende Stiftelser).
-The holding companies established as Limited Liability Companies (Osakeyhtiö) under the Limited Liability Companies Act (624/2006);
 
-The reason for adopting a cooperative structure for the Federation and member associations is that the Cooperative Act [Osuuskuntalaki] (421/2013) allows for different types of shares with different economic and voting rights. It allows for a cooperative’s AoA to specify that decisions to amend particular rules (e.g. the purpose or asset lock articles) require a higher majority than the standard 2/3 or even the explicit consent of a specific member.
+- The Federation and member associations established under national cooperative laws.
+- The Foundation registered in Norway as a Commercial Foundation (Næringsdrivende Stiftelser).
+- The holding companies established as Limited Liability Companies under national laws.
 
-The reason for opting for a Commercial Foundation in Norway is that it is more flexible, cost effective and simple than setting up in Finland or Germany and includes tax exemption on dividends from the Finnish LLC and the Cooperative Federation. The minimum capital required is € 8,500 (100,000 NOK) for charities and €17,000 (200,000 NOK) for commercial foundations.
+The reason for opting for a Commercial Foundation in Norway is that it is more flexible, cost effective and simple than setting up in many other countries and includes tax exemption on dividends from the Holding Company and the Cooperative Federation. The minimum capital required is € 8,500 (100,000 NOK) for charities and €17,000 (200,000 NOK) for commercial foundations.
 
-The LLC is the best form for the holding company because it allows for normal commercial activities to be carried out as a non-profit organisation jointly owned by the Foundation and the Federation with the Foundation owning the controlling share. It’s non-profit status and purpose can be protected in the same way as the Federation and member associations through a stewardship share held by the Foundation.
+The LLC is the best form for the holding company and joint stock company because it allows for normal commercial activities to be carried out as a non-profit organisation jointly owned by the Foundation and/or the Federation with the Foundation owning the stewardship share. It’s non-profit status and purpose will then be protected by the Foundation.
+
+## Conclusion
+
+When starting out as a new project you might think that the structure I have outlined above is too complex and formal for your needs. You may prefer a more informal and flexible way of organising because it allows you to be agile and reactive. However, without a carefully designed future-proof organisational design your chances of retaining your core mission as you grow in size and scope will quickly diminish. You need to have the end in mind from the beginning so that you can properly prepare.
+I hope that this chapter can help you to think through the issues that scaling up will bring and to create robust structures to safeguard the independence and mission of your movement.

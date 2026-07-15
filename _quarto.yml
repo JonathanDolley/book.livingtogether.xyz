@@ -33,7 +33,13 @@ book:
   appendices:
     - appendices/01_farming_blog.qmd
     - appendices/02_illustrated_farming.qmd
-    - appendices/03_aoa_coop.qmd
+    - appendices/03_master_framework.qmd
+    - appendices/04_ethical_charter.qmd
+    - appendices/05_aoa_coop.qmd
+    - appendices/06_aoa_fed.qmd
+    - appendices/07_aoa_found.qmd
+    - appendices/08_aoa_holding.qmd
+    - appendices/09_aoa_joint_stock.qmd
 
 format:
   html:

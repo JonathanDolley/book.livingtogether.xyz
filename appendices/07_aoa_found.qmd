@@ -1,0 +1,101 @@
+---
+number-sections: false
+---
+
+# Articles of Association for the Foundation
+
+```{r}
+#| echo: false
+#| results: hide
+
+# Initialize our counters and a dictionary to store the references
+art_counter <- 0
+sub_counter <- 0
+art_refs <- list()
+
+# Generates a new Article number and resets the sub-clause counter
+new_art <- function(id) {
+  art_counter <<- art_counter + 1
+  sub_counter <<- 0 
+  art_refs[[id]] <<- as.character(art_counter)
+  return(art_counter)
+}
+
+# Generates a new Sub-clause number (e.g., 1.1, 1.2)
+new_sub <- function(id) {
+  sub_counter <<- sub_counter + 1
+  val <- paste0(art_counter, ".", sub_counter)
+  art_refs[[id]] <<- val
+  return(val)
+}
+
+# Retrieves a stored number for cross-referencing
+ref <- function(id) {
+  return(art_refs[[id]])
+}
+```
+
+## Article 1: Name and Domicile
+
+The name of the foundation is The Graani Foundation. The foundation is a commercial foundation pursuant to the Norwegian Foundations Act. The foundation's registered office is in [City, e.g., Oslo], Norway.
+
+## Article 2: Purpose and Stewardship Mission
+
+1. The foundation’s sole and unalterable purpose is to protect, preserve, and advance the movement as defined in the Ethical Charter (Schedule A of the Master Framework Agreement). This purpose clause is unalterable pursuant to Section 35 of the Norwegian Foundation Act."
+2. The Foundation is legally bound to maintain 100% ownership of the Non-Profit Holding Company (HC) and to perpetually hold and execute the Class S Stewardship Share in the Operational Joint Stock Company (JSC). The Foundation's board is strictly prohibited from selling, transferring, or encumbering the Class S share.
+3. The foundation's purpose as stated in the Ethical Charter is to create a life-sustaining world where we live together, based on a worldview of life. It does so by supporting producers and consumers to jointly produce and supplying safe and healthy food and daily necessities, and by developing diverse urban-rural community movements and local life-sustaining movements in accordance with the values of nurturing and serving all life. The foundation fulfils this purpose by:
+   1. Operating a non-profit holding company which shares the purpose of the Foundation and operates business activities in support of that purpose and the activities of the [insert name] Federation (herein after the 'federation').
+   2. Actively running consensus-building frameworks and Bildung (transformative learning and civic education) programs.
+   3. Acting as the guardian of the mission of the federation and each ‘member organisation’ formally affiliated with the foundation and its purpose.
+   4. In its role as mission guardian the Foundation will act to prevent demutualization and mission drift through the steward-ownership model by which the Foundation owns a stewardship share in the Federation's non-profit Joint Stock Holding Company (JSC).
+   5. Exercising its veto right to withhold consent for changes to the Articles of Associations of the JSC only in the following cases if such a change contravenes the purpose of the Foundation as set out in Article 2 paragraph 1:
+      1. Amendments to the rules pertaining to any change to the JSC's mission, non-profit status, stewardship-ownership structure, voting structure, removal of the asset lock, or changes to the core operational definitions.
+      2. Structural changes including transformation into a for-profit limited company or another type of organisation, division, or merger (with the exception of voluntary dissolution).
+      3. Asset disposal including the sale or pledge of the JSC’s core operational assets or intellectual property.
+
+## Article 3: Initial Capital
+The Foundation’s initial primary capital is NOK 200,000 (approx. € 17,000), provided by the Founder. The primary capital is tied up and must be managed in a prudent manner to ensure the foundation's longevity.
+
+## Article 4: The Board of Directors
+1. Composition of the Board. The Board of Directors (the “Board”) shall consist of six (6) members categorised as follows:
+   1. Founder Director and chair of the Board: one (1) seat held by the Founder for 10 years.
+   2. Independent Directors: two (2) seats appointed by the Board, consisting of:
+      1. One (1) Community Director (representing communities in which Graani operates).
+      2. One (1) Expert Director (possessing specific expertise in the field of the Foundation’s mission).
+   3. Elected Directors: three (3) seats elected by specific constituencies.
+      1. One (1) Employee Director (elected by and from among the employees of the holding company, the Graani Federation and the Federation’s member organisations).
+      2. One (1) Producer Director (elected by and from among the producer members of the  member organisations of the Graani Federation).
+      3. One (1) Consumer Director (elected by and from among the consumer members of the  member organisations of the Graani Federation).
+2. Terms of Office.
+   1. Founder Director: shall serve an initial term of ten (10) years after which time the seat shall transition to an ‘Elder Director’ to be appointed by the Founder and who will take over the role of the Board’s chairperson.
+   2. Independent and Elected Directors: shall serve terms of three (3) years. With the exception of the Founder Director, no Director may serve more than two (2) consecutive full terms.
+3. Staggered Terms and Initial Rotation. To ensure continuity and comply with the requirement that no more than two (3) Directors are up for appointment or election in any single year, the Board shall utilise a staggered rotation. To establish this cycle, the inaugural Board terms shall be modified as follows:
+
+| Director Seat | Initial Term Length | Subsequent Cycle |
+| :--- | :--- | :--- |
+| Founder Director | 10 years | Every 5 years |
+| Independent (Community) | 3 years | Every 3 years |
+| Independent (Expert) | 4 years ( $3+1$ extra) | Every 3 years |
+| Employee Director | 5 years ( $3+2$ extra) | Every 3 years |
+| Producer Director | 4 years ( 3 + 1 ) | Every 3 years |
+| Consumer Director | 3 years | Every 3 years |
+
+## Article 5: Management of Ownership Rights
+The Board is expressly authorised to exercise all stewardship and veto rights in domestic and foreign entities. The Board shall exercise these rights solely in accordance with the "Stewardship Mission" defined in Article 2.
+Decisions regarding the exercise of a Veto in the entities require a unanimous vote of the Foundation’s Board to ensure stable and considered governance.
+The Board is obligated to exercise the veto rights attached to its Stewardship Shares if a proposed resolution in the Federation or a Member Organisation threatens the Purpose defined in Article 2 paragraph 1. Failure to do so constitutes a breach of the Board’s fiduciary duty to the Foundation.
+
+## Article 6: Use of Income and Surplus
+The Foundation is not established for the purpose of generating profit for the Founder. Any net income generated from its holdings (dividends, interest, or fees) shall be used to:
+Cover the administrative and legal costs of the Foundation.
+Be reinvested into the protected mission.
+Support research or activities consistent with the Purpose in Article 2.
+
+## Article 7: Audit and Supervision
+The Foundation shall have a state-authorized auditor. The Foundation is subject to supervision by the Norwegian Gaming and Foundation Authority (Lottstift) and shall submit annual accounts and activity reports in accordance with Norwegian law.
+
+## Article 8: Amendments to the Articles
+Any amendment to these Articles, including changes to the Foundation's purpose or the exercise of stewardship rights, requires a unanimous vote by the Board and must be approved by the Norwegian Gaming and Foundation Authority. Provisions relating to the "Stewardship Mission" are intended to be permanent.
+
+## Article 9: Dissolution
+In the event of the Foundation’s dissolution, all remaining assets, including the stewardship shares in domestic and foreign entities, shall be transferred to a non-profit entity with a similar purpose, as determined by the Board and approved by the supervisory authority. Assets may never revert to the Founder or their associates.

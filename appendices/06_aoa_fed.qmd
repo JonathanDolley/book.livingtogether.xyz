@@ -1,0 +1,228 @@
+---
+number-sections: false
+---
+
+# Articles of Association for the Cooperative Federation
+
+```{r}
+#| echo: false
+#| results: hide
+
+# Initialize our counters and a dictionary to store the references
+art_counter <- 0
+sub_counter <- 0
+art_refs <- list()
+
+# Generates a new Article number and resets the sub-clause counter
+new_art <- function(id) {
+  art_counter <<- art_counter + 1
+  sub_counter <<- 0 
+  art_refs[[id]] <<- as.character(art_counter)
+  return(art_counter)
+}
+
+# Generates a new Sub-clause number (e.g., 1.1, 1.2)
+new_sub <- function(id) {
+  sub_counter <<- sub_counter + 1
+  val <- paste0(art_counter, ".", sub_counter)
+  art_refs[[id]] <<- val
+  return(val)
+}
+
+# Retrieves a stored number for cross-referencing
+ref <- function(id) {
+  return(art_refs[[id]])
+}
+```
+
+
+## Chapter 1 General Provisions
+
+### Article `r new_art("name")`: Name and domicile {#name}
+
+The federation shall be known as the [Insert Name] federation (hereinafter referred to as the "federation"), established under the [insert relevant legal act].
+The domicile of the federation is [Insert Municipality, country etc.].
+
+### Article `r new_art("purpose")`: Purpose {#purpose} 
+
+This federation aims to create a life-sustaining world where we live together, based on a worldview of life.
+It does so by producers, consumers and workers jointly producing and supplying safe and healthy food and daily necessities, and by developing diverse urban-rural community movements and local life-sustaining movements in accordance with the values of reverence for the sanctity of life and the obligation to nurture life in all things.
+
+### Article `r new_art("activity")` (Forms of activity) {#activity}
+
+To fulfil its purpose, the federation may conduct the following business activities:
+1. Businesses involving the purchase, production, processing, and supply of materials necessary for members' consumption.
+2. Businesses involving the installation of shared facilities necessary for members' consumption and the provision of services.
+3. Businesses for the improvement of members' living conditions and educational/cultural activities. 
+4. Health and medical services to improve members' wellbeing
+5. Projects commissioned by the state, local authorities, or Foundations.
+6. Ancillary activities related to items 1 to 5
+7. Joint projects with producers, producer organisations, and cultural groups concerning items 1 to 5
+8. Businesses jointly pursued with the government, local authorities, and public institutions.
+9. Welfare, environmental, and cultural projects for the sustainable development of the local community.
+10. Specific alcoholic beverage sales business
+
+### Article `r new_art("mfa")`: Master Framework Agreement subordination {#mfa}
+
+The Federation is structurally bound by the Master Framework Agreement (MFA). All operations, marketing strategies, and collective business decisions delegated by the member organisations to the Federation must comply fully with the values and boundaries established in the Ethical Charter.
+
+### Article `r new_art("politics")`: Prohibition on involvement in public office elections {#politics}
+1. The federation shall not engage in any act to support or oppose a specific political party, or to secure the election or prevent the election of a specific individual, in public office elections. 
+2. No person shall use the federation to engage in any act described in Paragraph 1.
+
+### Article `r new_art("community")`: Contribution to the Local Community {#contribution}
+The federation shall endeavour to promote the sustainable economic, social, and cultural development of the local community and to preserve the environment and natural ecology.
+
+### Article `r new_art("lease")`: Infrastructure & Lease Conditionality {#lease}
+
+The right the federation to access, utilize, or lease the shared movement infrastructure (including logistics hubs, brand assets, and proprietary software) is strictly conditional upon remaining a member in good standing with the Foundation and maintaining total compliance with the Ethical Charter. A breach of the Ethical Charter shall result in the immediate forfeiture of all leaseholds and software access keys.
+
+## Chapter 2 Membership
+
+### Article `r new_art("membership")`: Members and member classes {#membership}
+
+1. Members of the Federation shall be cooperatives or associations having their address or place of business within the Federation’s business area who agree with the Federation’s objectives.
+2. The Federation’s member organisations are hereinafter referred to as “member associations”.
+3. Membership shall be conditional upon complying with and signing the Master Framework Agreement.
+
+### Article `r new_art("expulsion")`:  Expulsion {#expulsion}
+
+1. The Board of the Federation shall have the authority to suspend or initiate the expulsion of any member organisation that commits a 'Mission Default' as defined in Schedule A of the MFA. Conduct detrimental to the movement includes attempting to demutualize assets, persistent failure to participate in the Foundation’s consensus-building frameworks, or violating local fair labor and ecological standards.
+2. In addition, the Federation may expel a member by resolution of the General Assembly if the member falls under any of the following:
+   1. Has not utilised the Federation’s services for one year or more
+   2. Has failed to pay capital contributions, membership fees, or otherwise failed to fulfil obligations to the Federation 
+   3. If the member has engaged in conduct that obstructs the Federation's business or causes the Federation to lose its creditworthiness.
+3. When seeking to expel a member pursuant to Paragraph 2., the Federation shall notify the member of the grounds for expulsion at least ten days prior to the General Assembly and provide the member with an opportunity to state their views at the General Assembly.
+4. A resolution of expulsion passed at a General Assembly without providing the opportunity to state views as required under Paragraph 2 shall be of no effect on the member concerned. 
+5. Upon passing an expulsion resolution, the Federation shall notify the expelled member of the reasons for expulsion, clearly stating the details.
+
+### Article `r new_art("isolation")`: Commerical Isolation Authorization {#isolation}
+
+Upon the formal notification of a Mission Default by a member association, the Federation hereby explicitly authorizes the Operational Joint Stock Company to immediately suspend that member's access to the shared logistics, marketing, software, and supply chains, independent of the ongoing legal timeline of formal member association expulsion proceedings.
+
+## Chapter 3 Capital contributions, expense burden and reserve funds
+
+### Article `r new_art("shares")`: Share Classes and Capital Contributions {#shares}
+
+1. Member associations shall contribute at lease 10 shares, with each share amounting to [amount].
+2. The number of shares contributed by any single member shall not exceed 40 per cent of the total number of shares.
+3. Capital contributions payable to the federation shall not be set off against claims against the federation.
+4. Capital contributions may also be made in kind. In the case of contributions in kind, the contribution amount shall be calculated as stipulated in the Articles of Association. In such cases, the contributor in kind shall deliver the entirety of the property constituting the contribution to the member association or to a location designated by the member association by the contribution payment deadline. 
+5. Special capital contributions may be raised for specific purposes necessary for the smooth operation of the federation, such as purchasing, promotion, facility investment, welfare, cultural, and environmental projects for the local community. In such cases, the number of capital shares held by any one member shall not exceed the limits set out in paragraph 2.
+
+### Article `r new_art("certificate")`: Issuance of share certificates {#certificate}
+
+1. The chairperson of the federation shall, when a member makes their initial contribution payment pursuant to the provisions of [Article `r ref("shares")`](#shares), and when a member so requests, issue to the member a share certificate or other document confirming the contribution, bearing the chairperson's signature and seal, which shall include the following details. Depending on the circumstances, the federation may provide guidance enabling members to directly query and print the following details:
+   1. Name of the federation
+   2. Member's name or designation
+   3. Date of joining the federation
+   4. Date of payment of capital contribution
+   5. Amount of capital contribution or number of shares
+   6. Date of issue
+2. The Chairperson of the federation shall notify members of any changes in their capital contribution amounts by no later than seven days prior to the annual General Assembly. Such notification may be made by post, email, facsimile, mobile phone text message, or similar means.
+
+### Article `r new_art("expenses")`: Expenses, usage fees and charges {}
+
+1. The federation may collect the following expenses for business operations: 
+   1. Event participation fees
+   2. Supply commissions
+   3. Membership fees
+   4. Other expenses deemed necessary for the operation of the federation, as determined by the Board of Directors
+2. The amount and method of collection for the expenses, usage fees, and commissions under Paragraph 1 shall be stipulated in the Bylaws.
+3. When paying the expenses, etc., under Paragraph 1, a member may not set off any claim against the federation. 
+
+### Article `r new_art("statutory-reserve")`: Statutory reserve fund {#statutory-reserve}
+
+1. This federation shall set aside as a statutory reserve fund at least 10 per cent of the surplus for each financial year until the reserve reaches 50% of the total amount of members' capital contributions.
+2. The statutory reserve fund under paragraph 1 shall not be used except to cover losses or in the event of dissolution. 
+
+### Article `r new_art("voluntary-reserve")`: Voluntary reserve fund {#voluntary-reserve}
+
+1. The federation may, from the surplus of each financial year, after deducting the statutory reserve fund pursuant to [Article `r ref("statutory-reserve")`](#statutory-reserve), set aside up to 10% of the remaining surplus as a discretionary reserve fund, as determined by the General Assembly.
+2. Discretionary reserves may be expended for special purposes as determined by the General Assembly, including business development costs necessary to realise the objectives of the federation, pioneering activities, education, welfare, fostering organic farming, contributions to support rural communities and funds to support the formation of other cooperatives, associations or federations.
+
+## Chapter 4 General assembly and board of directors
+
+### Article `r new_art("general-assembly")`: General assembly
+
+1. The General Assembly shall be the highest decision-making body of the Federation.
+2. The General Assembly shall be divided into regular and extraordinary meetings.
+3. The General Assembly shall consist of delegates, with the Chairperson acting as its chair.
+4. Delegates shall be elected from among the members of the affiliated associations, with each affiliated association allocated delegates in the following manner:
+   1. One delegate per stakeholder group represented among the members to be elected from among each stakeholder group respectively.
+   2. One additional delegate ‘at large’ per stakeholder group elected from among the whole membership regardless of stakeholder category.
+5. Delegates shall be elected through the election method stipulated in the bylaws.
+6. Delegates’ term of office shall be one year with a maximum of two consecutive terms and a one year mandatory cooling off period.
+7. The term of office of a delegate elected to fill a vacancy shall be the remaining period of the predecessor's term.
+
+### Article `r new_art("agenda")`: Matters requiring general assembly resolution {#agenda}
+
+The following matters shall require resolution by the General Assembly:
+
+1. Opening of the meeting.
+2. Election of meeting officials: chairperson, secretary, two scrutinizers of the minutes, and two vote counters.
+3. Verification of legality and quorum.
+4. Approval of the meeting agenda.
+5. Presentation of financial statements, annual report, and the auditors' report.
+6. Discharge from liability for the Board.
+7. Confirmation of the action plan, budget, and membership fees.
+8. Election of the Chairperson and the other Board members adhering to structural stakeholder balances.
+9.  Election of one ordinary Auditor and one Deputy Auditor.
+10. Amendment of the Articles of Association.
+11. Enactment, amendment, or abolition of regulations.
+12. Merger, division, dissolution, or suspension of operations of the federation.
+13. Expulsion of members
+14. Determination of the maximum borrowing limit
+15. Matters concerning the establishment of subsidiaries and investments
+16. Other matters specified in the meeting notice.
+
+### Article `r new_art("board")`: The board and balanced governance {#board}
+
+1. The Federation shall have a Board of Directors, which shall decide on the execution of the Federation’s business.
+2. The Board of Directors shall consist of four types of director and be formed as follows:
+   1. Founder director: one directorship to be held by the named founder of the Federation and limited to 5 years at which time it shall become an ‘Elder’s seat’ elected by the General Assembly from a pool of former board members with significant experience.
+   2. Organisational directors: up to three directors elected from among the delegates by the whole General Assembly through the election method stipulated in the bylaws.
+      1.  In the case of a delegate assembly each sub-division of the Federation may select a  candidate each to be nominated by that sub-division's full delegation.
+   3.  Stakeholder directors: three directors shared out among stakeholder groups elected through hybrid caucus model according to paragraph 6. With three stakeholder groups one director is allocated to each stakeholder group. With two stakeholder groups, the larger group is allocated two director seats and the smaller group is allocated one director seat. With one stakeholder group, the stakeholder seats convert to an additional 3 Organisational directorships.
+   4.  Independent director: a seat for an independent trusted expert invited by the board of directors.
+3. Organisational directors shall serve staggered 3 year terms with no more than a third up for election each year with a maximum of two consecutive terms and a mandatory 3 year cooling off period.
+4. Stakeholder directors shall serve staggered 3 year terms with no more than a third up for election each year with a maximum of two consecutive terms and a mandatory 3 year cooling off period.
+5. Independent directors shall serve 3 year terms with a maximum of two consecutive terms and a mandatory 3 year cooling off period.
+6. Election of stakeholder directors shall be through a hybrid caucus model as follows:
+   1. At the General Assembly, delegates break into their three stakeholder caucuses (producers, consumers, workers) to discuss their priorities and nominate 2-3 candidates for each seat.
+   2. Once all candidates have been nominated they are presented on a single ballot for election by the entire General Assembly through the election method stipulated in the bylaws.
+7. The Founder director shall hold the role of chairperson for 3 years from the date of the Federation’s establishment after which time the Chairperson shall be elected from among the board of directors by majority vote of the board. The chairperson may only be re-elected once.
+8. The Chairperson shall convene the Board of Directors and preside over its meetings.
+9. Notice of a Board meeting shall be given to each director at least seven days prior to the meeting date, stating the purpose, time, and place of the meeting, via text message, email, or in writing. However, where urgency requires and a majority of the Board members agree, the convening procedure may be omitted. 
+10. One-third or more of the directors or all auditors may request a meeting by submitting a document stating the purpose of the meeting and the reason for its convening.
+11. Upon receiving a request under Paragraph 10, the Chairperson shall convene the Board of Directors within seven days.  
+
+### Article `r new_art("voting")`: Voting rights and election rights {#voting}
+
+1. Each delegate of the federation shall have one (1) vote in the General Assembly regardless of the number of shares held.
+2. A resolution by the Federation General Assembly regarding the following matters shall require a two thirds majority to pass:
+   1. Amendments to the rules pertaining to any change to the federation's mission ([Article `r ref("purpose")`](#purpose)) membership structure ([Article `r ref("membership")`](#membership)), voting rights ([Article `r ref("voting")`](#voting)), removal of the asset lock ([Article `r ref("dissolution")`](#dissolution)), or changes to the core operational definitions ([Article `r ref("activity")`](#activity)).
+   2. Structural changes including merger, demerger, transformation into a limited company.
+   3. Asset disposal including the sale or pledge of the federation's core operational assets or intellectual property.
+   4. Changes to the criteria for admitting new members if such changes impact the purpose.
+
+## Chapter 5 Dissolution and disposal of assets
+
+### Article `r new_art("dissolution")`: Dissolution and allocation of assets
+
+1. The decision to dissolve the federation requires a three-quarters majority of the votes cast at a general meeting. 
+2. Should residual assets remain after the federation has settled its debts following dissolution, these shall be distributed to the members in proportion to their shareholdings up to the amount of their invested share capital including series M and T shares plus any remaining interest up to the prevailing market interest rate.
+3. If on the winding up or dissolution of the federation there remains, after the satisfaction of all its debts and liabilities and the repayment of the paid-up share capital according to paragraph 1, any assets whatsoever, such assets shall not be paid to or distributed among the members or shareholders of the federation but shall be transferred to the [insert name] foundation or, if the [insert name] foundation is unable to receive them, to another non-profit entity pursuing a similar purpose in [insert country].
+
+### Article `r new_art("losses")`: Covering losses {#losses}
+
+Should the federation have a loss carried forward from the previous year or incur a loss at the end of the accounting period, it shall cover such loss in the following order: undistributed retained earnings, discretionary reserves, and statutory reserves. Any shortfall remaining after such coverage shall be carried forward to the next accounting period.
+
+### Article `r new_art("dividend")`: Distribution and carry-forward of surplus {#dividend}
+
+1. Where surplus remains after covering losses pursuant to [Article `r ref("losses")`](#losses) and setting aside reserves under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), the federation shall distribute at least [e.g. fifty] percent of such surplus to members by resolution of the General Assembly.
+2. When distributing surplus under Paragraph 1, the calculation of each member's dividend shall be based on the proportion of business utilisation or the number of shares subscribed by the member. In such cases, surplus dividends shall comply with the following principles:
+   1. Dividends based on business utilisation shall constitute at least fifty per cent of the total dividend amount.
+   2. The dividend ratio based on paid-up capital shall not exceed the prevailing market interest rate level.
+3. The method and procedures for surplus dividend distribution shall be stipulated in the bylaws.
+4. Where a surplus remains after implementing the reserves under [Article `r ref("losses")`(1)](#losses), the accruals under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), and the dividends under paragraph (1), the federation may, by resolution of the General Assembly, carry forward the surplus to the next financial year.
