@@ -70,3 +70,5 @@ appendices/*.html
 *.HEIC
 
 renv.lock
+
+.DS_Store
