@@ -28,18 +28,18 @@ book:
     - chapters/05_consumers.qmd
     - chapters/06_practitioners.qmd
     - chapters/07_producers.qmd
-    - chapters/08_organisational_structure.qmd
+#    - chapters/08_organisational_structure.qmd
     - chapters/references.qmd
   appendices:
     - appendices/01_farming_blog.qmd
     - appendices/02_illustrated_farming.qmd
-    - appendices/03_master_framework.qmd
-    - appendices/04_ethical_charter.qmd
-    - appendices/05_aoa_coop.qmd
-    - appendices/06_aoa_fed.qmd
-    - appendices/07_aoa_found.qmd
-    - appendices/08_aoa_holding.qmd
-    - appendices/09_aoa_joint_stock.qmd
+#    - appendices/03_master_framework.qmd
+#    - appendices/04_ethical_charter.qmd
+#    - appendices/05_aoa_coop.qmd
+#    - appendices/06_aoa_fed.qmd
+#    - appendices/07_aoa_found.qmd
+#    - appendices/08_aoa_holding.qmd
+#    - appendices/09_aoa_joint_stock.qmd
 
 format:
   html:
@@ -51,3 +51,4 @@ format:
       hypothesis: true
     bibliography: references.bib
     csl: chicago-fullnote-bibliography.csl
+

@@ -2,7 +2,9 @@
 number-sections: false
 ---
 
-# Master Framework Agreement
+# Master Framework Agreement {#sec-master}
+
+> Complete template.
 
 ```{r}
 #| echo: false
@@ -115,6 +117,7 @@ The Operational JSC’s articles of association shall explicitly state that no r
 -	Any alteration to the allocation of corporate surpluses or dividend policies.
 -	The sale, pledge, or transfer of operational assets exceeding [Value] inside a single financial year.
 -	The merger, liquidation, or restructuring of the Operational JSC.
+- Changes to the stewardship ownership structure.
 
 ### ARTICLE `r new_art("discipline")`: ENTRYISM & MEMBERSHIP DISCIPLINE {#discipline}
 
@@ -143,6 +146,9 @@ This Agreement shall be governed by and construed in accordance with the laws of
 IN WITNESS WHEREOF, the Parties hereto have executed this Master Framework Agreement as of the date first written above.
 
 For THE FOUNDATION: ______________________________________
+
 For THE NON-PROFIT HOLDING CO: __________________________
+
 For THE COOPERATIVE FEDERATION: ________________________
+
 For THE OPERATIONAL JOINT STOCK CO: ____________________

@@ -2,7 +2,9 @@
 number-sections: false
 ---
 
-# Non-Profit Holding Company
+# Operational Joint Stock Company {#sec-joint}
+
+> Key clauses.
 
 ```{r}
 #| echo: false

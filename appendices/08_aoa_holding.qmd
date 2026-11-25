@@ -2,7 +2,9 @@
 number-sections: false
 ---
 
-# Non-Profit Holding Company
+# Asset Holding Company {#sec-holding}
+
+> Key clauses.
 
 ```{r}
 #| echo: false

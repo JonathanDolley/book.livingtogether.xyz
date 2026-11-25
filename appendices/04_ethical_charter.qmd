@@ -2,7 +2,9 @@
 number-sections: false
 ---
 
-# Schedule A: The Ethical Charter
+# Ethical Charter {#sec-ethical}
+
+> Complete template for Schedule A: The Ethical Charter.
 
 ```{r}
 #| echo: false

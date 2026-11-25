@@ -447,7 +447,7 @@ So you see that neither the Hansalim Federation nor the Business Federation are 
 
 ### Mutual responsibilities {.unnumbered}
 
-The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram, @fig-stakeholders, which was published in the Hansalim 2017 White Paper.[@Hansalim2017-qp] I have reproduced it here with some minor modifications and translated it into English. With the Hansalim Federation at the centre each of the stakeholders are listed along with their mutual responsibilities in relation to the Federation. Hansalim’s stakeholders include five categories: Producers, Members (i.e. consumer members), Practitioners, Activists and the Local Community.
+The way the Hansalim Federation sees itself in relation to the other Hansalim organisations can be understood with the help of the following diagram, @fig-stakeholders, which was published in the Hansalim 2017 White Paper.[@Hansalim2017-qp] I have reproduced it here with some minor modifications and translated it into English. With the Hansalim Federation at the centre each of the stakeholders are listed along with their mutual responsibilities in relation to the Federation. Hansalim’s stakeholders include five categories: Producers, Members (i.e. consumer members), Practitioners, Activists and the Local Community.s
 
 ::: {#fig-stakeholders}
 ```{r}

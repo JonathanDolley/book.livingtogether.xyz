@@ -2,7 +2,9 @@
 number-sections: false
 ---
 
-# Articles of Association for Member Cooperatives
+# Member Cooperatives AoA {#sec-coop}
+
+> Key clauses to be included in the Articles of Association for member cooperatives and associations.
 
 ```{r}
 #| echo: false
@@ -233,7 +235,7 @@ Should the cooperative have a loss carried forward from the previous year or inc
 
 1. Where surplus remains after covering losses pursuant to [Article `r ref("losses")`](#losses) and setting aside reserves under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), the cooperative shall distribute at least [e.g. fifty] percent of such surplus to members by resolution of the General Assembly.
 2. When distributing surplus under Paragraph 1, the calculation of each member's dividend shall be based on the proportion of business utilisation or the number of shares subscribed by the member. In such cases, surplus dividends shall comply with the following principles:
-   1. Dividends based on business utilisation shall constitute at least fifty per cent of the total dividend amount.
+   1. Dividends based on business utilisation shall constitute at least [e.g. fifty per cent] of the total dividend amount.
    2. The dividend ratio based on paid-up capital shall not exceed the prevailing market interest rate level.
 3. The method and procedures for surplus dividend distribution shall be stipulated in the bylaws.
 4. Where a surplus remains after implementing the reserves under [Article `r ref("losses")`(1)](#losses), the accruals under Articles [`r ref("statutory-reserve")`](#statutory-reserve) to [`r ref("voluntary-reserve")`](#voluntary-reserve), and the dividends under paragraph (1), the cooperative may, by resolution of the General Assembly, carry forward the surplus to the next financial year.

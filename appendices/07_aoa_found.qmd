@@ -2,7 +2,9 @@
 number-sections: false
 ---
 
-# Articles of Association for the Foundation
+# Foundation AoA {#sec-found}
+
+> Key clauses to be included in the Articles of Association for the Foundation.
 
 ```{r}
 #| echo: false

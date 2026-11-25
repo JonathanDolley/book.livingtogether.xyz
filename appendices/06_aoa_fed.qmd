@@ -2,7 +2,9 @@
 number-sections: false
 ---
 
-# Articles of Association for the Cooperative Federation
+# Federation AoA {#sec-fed}
+
+> Key clauses to be included in the Articles of Association for the cooperative federation.
 
 ```{r}
 #| echo: false

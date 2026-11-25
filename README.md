@@ -41,3 +41,10 @@ function tikz2png() {
 
     echo "✅ Success! Saved to ${dir_name}/${base_name}.png"
 }
+
+
+# Export to word
+
+- To export docx file run:
+
+quarto render CHAPTER.qmd --to docx
